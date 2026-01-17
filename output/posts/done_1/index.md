@@ -1,8 +1,0 @@
----
-title: "Done!"
-date: 2007-01-15
-categories: 
-  - "jen"
----
-
-The kids are fed, bathed, and in bed; the living room is clean; the dishes are done; and the trash has been taken out. I AM DONE! Goodnight!

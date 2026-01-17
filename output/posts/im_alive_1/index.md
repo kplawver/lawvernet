@@ -1,9 +1,0 @@
----
-title: "I'm alive!"
-date: 2006-09-21
-categories: 
-  - "jen"
-  - "kevin"
----
-
-The kids and I made it through Kevin's first day back at work and I slept for 5 hours straight last night. I think things are finally improving. (Knock on wood.)

@@ -1,8 +1,0 @@
----
-title: "Brian"
-date: 2008-04-08
-categories: 
-  - "brian"
----
-
-Brian's cast came off today! Yay. I didn't keep the cast (sorry, Dad) since it was so messy. The skin around his wrist is dry and flaky and smells so gross. Yuck. B's arm needs to stay wrapped in cotton and an ace bandage for the next three days and he can't have gym time or playground time yet. We go back in 10 days to have the arm looked at again. After Kevin gets home, Brian is going to take the longest bath of his life. (I am waiting so that Kevin can help me rewrap it.)

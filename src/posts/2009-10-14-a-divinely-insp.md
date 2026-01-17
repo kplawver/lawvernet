@@ -1,0 +1,26 @@
+---
+title: A Divinely Inspired Lack of Historical Perspective
+date: 2009-10-14
+tags:
+  - "marriage"
+  - "religion"
+slug: "a_divinely_insp"
+---
+
+> "During my lifetime I have seen a significant deterioration in the respect accorded to religion in our public life, and I believe that the vitality of religious freedom is in danger of being weakened accordingly," Oaks said. "Atheists and others would intimidate persons with religious-based points of view from influencing or making the laws of their state or nation."
+
+That's a quote from LDS Apostle Dallin H. Oaks that I found in [this lovely article from the Salt Lake Tribune](http://www.sltrib.com/ci_13552589) via [this post on blurbomat](http://blurbomat.com/archives/2009/10/14/religious-freedom-equals-its-ok-to-be-a-bigot/). In a speech given at BYU Idaho, Oaks said:
+
+> These incidents were expressions of outrage against those who disagreed with the gay-rights position and had prevailed in a public contest. As such, these incidents of "violence and intimidation" are not so much anti-religious as anti-democratic. In their effect they are **like the well-known and widely condemned voter-intimidation of blacks in the South that produced corrective federal civil-rights legislation**. (emphasis mine)
+
+The "incidents" you speak about are isolated and rare, especially when compared to the violence and intimidation inflicted on the gay community by supposed people of "faith".
+
+Your two statements are connected, Elder Oaks, but not in the way you think. Why have we lost respect for religion in public life? Why have we lost respect for religious leaders of _most_ denominations? Because they say blatantly _stupid_ things in public and then stand behind them. They ignore Christ's teachings and support persecuting the different, weak and those in the minority. They incite hatred, persecution, inequality and show no empathy. They use phrases like "alleged civil rights". I don't understand the Church's support for Prop 8 at all. It's hypocritical when you look at our history as a people. The early members of the Church were _actually_ persecuted for their beliefs - tarred and feathered, shot on sight and driven across the country - not yelled at or protested against. Why? Because they were different. Because they believed in a _different_ interpretation of marriage than the majority of the country. Does that mean the early Saints were wrong? Does that mean that outlawing that form of marriage was _just_ or _right_?
+
+**No**
+
+It wasn't right then, and it's not right now for the majority to inflict its imperfect morality on the beliefs of others - especially when those beliefs, those claims of rights, have _absolutely no impact_ on the rights of others. Has the _entire_ church forgotten the second great commandment the Savior gave, to "love thy neighbor as thyself"? If it wasn't right for the government to outlaw polygamy, then it's not right now to outlaw gay marriage. That's showing a shocking lack of empathy.
+
+And you expect people not to be angry when faced with your hypocrisy - with your _persecution_ of the different? You claim that people who want to deny others their right to the pursuit of happiness are being _persecuted_ by the very same people you're persecuting? And then, to top it off, you equate the fight against your campaign against others' rights to the fight for civil rights by a truly oppressed minority? _Divinely inspired lunacy_ is the best thing I can think of to say about it.
+
+I would have been fine if the Church had said nothing. But, the Church _asked members to donate to Prop 8 organizations_ and donated an _unknown_ sum of money itself. That support is why I stopped going to church - and you're not making me doubt my decision, Elder Oaks.

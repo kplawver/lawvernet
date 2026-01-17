@@ -1,8 +1,0 @@
----
-title: "Yummy"
-date: 2007-07-03
-categories: 
-  - "jen"
----
-
-One of my favorite things ever is Peach ice cream eaten with Sour Cream and Onion potato chips. It's totally heaven- sweet and salty and so simple and fresh. Yum! It's hard to find peach ice cream, so it isn't a delight I get to partake in often. Kevin thinks it is gross, but what does he know?\\ What are some of your wacky cravings?

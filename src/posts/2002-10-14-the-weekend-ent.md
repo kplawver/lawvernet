@@ -1,0 +1,17 @@
+---
+title: The Weekend Entertainment Roundup
+date: 2002-10-14
+tags:
+  - "entertainment"
+slug: "the_weekend_ent"
+---
+
+It's been a while since I've done one of these, but I actually got out this weekend (with the [sniper on the loose](http://www.cnn.com/2002/US/South/10/14/sniper.shootings/index.html), that's a feat). Here's the roundup, in chronological order:
+
+- **The Transporter**: So, they gave Turkish from **Snatch** a chance at his own action movie. Jason Statham is perfect for the action hero thing. He's buff, has an accent, can deliver catch phrases with a bit of flair and just looks like a guy who could kick a whole boatload of ass if he needed to. That said, the movie was a joke. There were some good fights, but overall, it should have gone straight to video or HBO. Jason Statham and the French cop were the only roles with any depth (and even then, you could see the bottom). The bad guy was a third rate menacer who tried to look tough by feigning constipation and a Sling Blade-like grimage. The other bad guy kept making me laugh because he was the same guy who played to gay club owner in **Good Morning Vietnam** and had the world's worst rug on his wrinkled little head. The opening car chase would have been fun if the guy had watched a little less **Gone in Sixty Seconds** and a bit more **Ronin** (sorry, at a loss for good car chases this morning...). There were so many jump cuts, it was hard to keep up. If it had been directed better, the sequence could have been top notch. There were a couple other funny inconsistencies like a Cessna going from "graze the powerlines on the highway" to 10,000 feet in a matter of seconds so Jason Statham could jump out of the plane, but it was fun. The fight in the bus garage with the oil was one of the most original fights I've seen in a long time, and Jason Statham chews up the scenery when given the chance and more than three words to say at a time. So, rent it when it comes out if you want to see Turkish kick some butt in toe clips (don't ask), but don't see it in the theater.
+    
+- **Twister**: I've been watching the DVD on and off just to play with the sound on the new TV. I loved this movie when it first came out. What happened? It has an early (and weird) performance by Philip Seymour Hoffman, and Carey Elwes with another in his pantheon of horrible accents. I think the problem I have with it now is the amazing Wooden Bill Paxton. He just lumbers through each line he has. I liked him in **A Simple Plan**, and he's done good work in other movies, but man, he was just wretched in that movie.
+    
+- **The Sopranos**: It's nice to see that the first episode didn't set the tone for the whole season. Last night's episode was great. The only problem I have is Janice. She bugs me, and I'm not sure why. Maybe it's that I know too many emotional vultures like her. Maybe it's the fact that I like the actress, and feel bad that she's written so unevenly on the show. She goes from complete wreck to her mother in the span of fifteen minutes. Maybe that's what she's supposed to be, but it doesn't fit for me.
+    
+- **Sunday Night Football**: Wow, what a game. I started watching in the middle of the second quarter, and didn't leave until the last couple seconds. There weren't a ton of points scored, but it was the best game I've seen all season. It came down to two long field goals in the last five minutes, and either team deserved to win it. There were so many great defensive plays! It was just amazing. If you missed it, you missed the reason I love the NFL.

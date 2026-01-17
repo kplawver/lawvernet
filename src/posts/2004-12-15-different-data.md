@@ -1,0 +1,13 @@
+---
+title: Different Data
+date: 2004-12-15
+tags:
+  - "computing"
+slug: "different_data"
+---
+
+[Ambient Dashboard](http://www.ambientdevices.com/cat/dashboard/index.html "Ambient Executive Dashboard Preview") is weird. It's weird in a way that makes me tilt my head to the side. But, somehow, it feels right. People are good at reading dials. We do it every time we drive, look at our thermostats or check a thermometer. They're just translating what we normally think of as digital data to an analog interface. What's interesting is that they're using analog paradigms to do so. They're not trying to create pie charts or graphs, powerpoint slides or anything else that might feel digital. It's strictly analog, which is the way to go. Use the tools of the medium to display the data.
+
+I've been talking at work about design and usability (on top of standards and accessibility). This is a perfect example of using the chosen medium to display information. Too many designers try to translate the medium instead of use the medium's particular advantages to display their content. For example, if it's a designer used to working in the publishing world, their web designs are going to use magazine conventions and not web conventions. Their web sites will look stale, out of place, and be neither compelling or usable. I see it all the time, all over the place. Instead of doing things the web does well (expandable, flexible display of content, interactivity, portability), they hamstring their products by ignoring those things and making everything look like a magazine page.
+
+I've been trying to come up with a better way to argue this point to designers, and I think I've hit a wall. The best I can do is point to products that feel "right" and say, "See?!" Yeah, that's probably not productive either.

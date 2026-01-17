@@ -1,0 +1,28 @@
+---
+title: How to Get to Speak at Web Conferences
+date: 2007-02-26
+tags:
+  - "web-standards"
+slug: "how_to_get_to_s"
+---
+
+[![Hey you, be diverse!](/assets/images/posts/how_to_get_to_s/402216383_f9bf553d28_m.jpg)](http://www.flickr.com/photos/kplawver/402216383/ "Hey you!  Be more diverse!")
+
+There has been a lot of discussion around the geek-o-sphere about diversity and the specific makeup of conference speaking panels ([Kottke](http://kottke.org) started it, and [Eric has a good sampling of reactions](http://meyerweb.com/eric/thoughts/2007/02/26/diverse-links/)). There's been a lot of back and forth about who's "fault" it is that the speakers at web conferences aren't more diverse (meaning fewer white men, and more of everyone else). Seeing as I'm one of those white men, and I've been speaking at conferences for the past two years, I thought that instead of diving in with more critique (reasons why X is wrong and Y is right) I'd give some practical suggestions for folks who want to gain some confidence in their own speaking abilities and how I worked up to presenting at conferences. I am by no means an expert. I'm not [Eric Meyer](http://meyerweb.com), [Tantek](http://tantek.com), [Jeremy Kieth](http://adactio.com), [Kathy Sierra](http://headrush.typepad.com) or [Tara Hunt](http://horsepigcow.com), any of whom I would gladly pay (and have) to see present. But, I've spoken at a bunch of conferences over the past year, and well, this might help someone. Here are my tips:
+
+1. Blog. You _must_ be findable. Blog, at least a little bit, about the topics you want to speak on so people will find that you're associated with that topic. This helps you get "known" in the field, and will put you on the radar when people are looking for panelists.
+2. Start with a small, friendly crowd. Do a brown bag at work on a topic you're an expert (or a passionate amateur) in. Keep it short and informal. If you feel more comfortable, pair up with a friend who can help share the burden of keeping things moving. [Kimberly Blessing](http://kimberlyblessing.com) and I started our guerilla standards group at AOL, and I can tell you that that's the only reason I gained the confidence to even consider speaking at something like SxSW. I've presented to internal crowds now (once high on painkillers after ankle surgery) larger than I have at some conferences, and that's a huge boost to your confidence.
+3. Find someone to trust as a mentor. I've had several at AOL over the years, but find someone who will tell it to you like it is and will help you improve your speaking style and delivery.
+4. Go to [Mashup Camp](http://mashupcamp.com) or other unconference. The environment lends itself to anyone leading a discussion and you can propose a session on a topic that you know a lot about.
+5. Oops. Jason's comment reminded me - your local Refresh (here, it's [Refresh DC](http://refresh-dc.org)) or Web Standards Meetup would be a great place to practice your presentational skills in front of a friendly and supportive audience.
+6. Pitch, pitch, pitch. It's a pain in the butt, but last year, I pitched panel ideas to at least a dozen different conferences. It was only after I'd spoken at a few and people could see that I showed up on the speakers page at SxSW or Supernova that they gave me the time of day.
+7. Throw a Curveball. Don't pitch what everyone else is pitching. Throw a curve. The wittier the title, and the more specific your description, the better. "Microformats" is a crap title. But, "A Proposal for an Interoperable Widget Spec Based on Microformats" was accepted at WWW last year.
+8. Get a library of your presentations and put them online. All [of mine are](http://presentations.lawver.net), and I've been able to point to them as past work for conference organizers to look at. Keep all the presentations you give and use them. Don't throw any of them away.
+9. Get work to help. It helps a great deal if you can point to membership in some professional organization. Most of the big internet companies (and many of the small) are members of the [W3C](http://w3.org). If you can point to membership in that organization or some other professional group, that can only help.
+10. Get work to help, part two. Get your company to sponsor a conference. Make it a smaller, more regional conference to start with. Most sponsorships come with speaking opportunities. Take advantage of them.
+11. Always have something to share, and don't make it about the pitch. I've been to too many conferences where people squander their opportunity to speak with a sales pitch about their product or company. You have to give people attending the conference something worthwhile - something real - or you're wasting your chance.
+12. Be a mentor. If you get to lead a panel, actively seek out new voices. For our panel at SxSW last year, two of the folks on our panel had never spoken at a conference before, and none of us were what I would consider "regulars". Seek out opportunities to help, share knowledge and provide guidance. That's a quick way to become known as an expert and have other folks seek you out for speaking engagements.
+
+That's all I can think of right now. I actually need to go to bed so I'm awake for my presentation (to about 200 people) tomorrrow. Hopefully, this was helpful.
+
+**Update** - [Meri Williams](http://blog.meriwilliams.com) has set up a wiki for folks to post advice and volunteer as mentors to help folks improve their speaking skills with the goal of speaking at conferences. [Go check out Make Me a Speaker](http://makemeaspeaker.com/index.php?title=Main_Page!)!

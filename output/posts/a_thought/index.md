@@ -1,8 +1,0 @@
----
-title: "A thought:"
-date: 2006-07-09
-categories: 
-  - "jen"
----
-
-I have never had a boyfriend.\\ Hmmm.\\ Kevin needs to come home and be my boyfriend.\\ Yea, I guess since we're married with children, that isn't quite going to work.\\ Speaking of Kevin, while I was at the store today, I bought Ben and Jerry's Chunky Monkey, which I had never had before. It is awesome! Banana ice cream, with fudge pieces and walnuts. Yum! Kevin hates bananas though, which is probably why I have never tried it. But while the cat's away, the mice'll play. And eat lots of 'nanas!

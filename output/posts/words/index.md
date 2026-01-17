@@ -1,9 +1,0 @@
----
-title: "Words!"
-date: 2008-06-18
-categories: 
-  - "jen"
-  - "moving"
----
-
-I labeled a box of books today, "Grown up books." I was afraid to use the word, "Adult." I am not sure who would be looking at my boxes, but whoever it is, I don't want them to get the wrong idea about me.\\ After the new show **Swingtown** premiered, I am sort of afraid to move to the swanky, suburban house we picked. And if you don't know why I am afraid... Well, that's probably a good thing.

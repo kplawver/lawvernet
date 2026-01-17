@@ -1,8 +1,0 @@
----
-title: "My folks"
-date: 2007-11-19
-categories: 
-  - "jen"
----
-
-Yesterday was my parents' 35th anniversary. Woot. Let's hear it for my parents! In this day and age, 35 years is almost miraculous. When I was in high school, my parents were one of the few couples still together. Twenty years later and they are still going strong. I hope that Kevin and I are lucky enough to end up like them. We have the same attitude as my parents about money and general decision-making, so I bet the odds are in our favor. :)\\ Happy Anniversary, Mom and Dad. I love and miss you.\\ _ETA- Now with more better grammar and punctuation._

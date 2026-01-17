@@ -1,6 +1,0 @@
----
-title: "Oh, Damn."
-date: 2006-10-17
----
-
-I wish I had seen it: [Cardinals choke](http://sportsillustrated.cnn.com/2006/writers/peter_king/10/17/mmqbte/index.html?cnn=yes), cuz I am evil that way. Instead, I was in bed by 7:30 nursing a headache the size of Mt Rushmore.\\ This [interview with Kristen Bell](http://www.ew.com/ew/report/0,6115,1546673_3_0_,00.html) (from **Veronica Mars**) cracks me up, mostly because of the things she's not saying and the new clarity on the things she's been saying for years. She just won't give up. Hee. And, hey, Veronica Mars is on tonight. Cool!

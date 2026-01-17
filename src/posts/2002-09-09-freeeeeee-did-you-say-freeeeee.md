@@ -1,0 +1,9 @@
+---
+title: "Freeeeeee?!  Did you say freeeeeeee??!!"
+date: 2002-09-09
+tags:
+  - "computing"
+slug: "freeeeeee_did_you_say_freeeeee"
+---
+
+Oh yes, and they're lovely. I remember visiting this site many moons ago, and harvesting loads of fonts. Since then, they've expanded: [Free dincFONTS](http://www.girlswhowearglasses.com/fonts.html). Some beautiful typefaces for your designery.

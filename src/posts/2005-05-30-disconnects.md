@@ -1,0 +1,16 @@
+---
+title: Disconnects
+date: 2005-05-30
+tags:
+  - "travel"
+---
+
+Good (early) morning from the sunny Cote D'Azur! I'm up at an ungodly hour unable to get back to sleep, so I thought I'd fill you in on where I am, where I'm going and how many miles it's going to take to get there. I figured it out yesterday, and including my flights to get here, I'll be flying over 18,000 miles in the next two weeks (hello Premier status!). That's over a thousand miles a day. You're probably saying to yourself, "But, Kevin, it's only about 4500 miles each way to France from the States," and you'd be right. I'm not just going to France. On Saturday morning, I leave for even sunnier (although right now it's apparently raining) Bangalore, India. I've had more shots than I can count, am taking the Typhoid vaccine by mouth, and just too my first anti-malarial pill.
+
+Back to the flying. 18,400 miles adds up to thirty-eight hours in the air. That's a lot of poorly censored movies, reading, and peanuts. I watched **Sideways** on the plane before unsuccessfully trying to sleep, and wow... I couldn't help laughing at how poorly they bleeped it. It was distracting to say the least. I actually heard Thomas Haden Church say, on more than one occasion, "That's bubblefish!" Couldn't they at least have put in "bull hooey", or "bovine nonsense"?
+
+Right now, I'm watching Phoenix and San Antonio, with French announcers. Wow. It feels weird. It's the only place I've heard the French throw in a lot of English phrases (all Sportscenter-lite exclamations). I love being in Europe, for just that reason. I love seeing how cultures overlap, languages overflow, and how unbelievably comfortable everyone is with it. On the short flight from Munich (awesome airport, by the way) to Nice, the flight attendant spoke almost accentless English, superb French, and her native German. She switched between the three effortlessly (it appeared so, anyway). I so wish that we paid that much attention to language in the US. I feel so lost when I come here. My French is pretty bad, but I can get by. It feels like most Europeans, though, could do just fine in the States. I know, a good deal of the English absorption in Europe comes from all the TV, music and movies we send over, but still. It takes more than that. It's taught in schools very early on, and people learn more than one language their entire educational careers. We only have to take three years in high school, which is really only enough to scratch the surface. It's not enough to be comfortable with a language in a "native" way, or even close.
+
+I know that's not likely to change, especially with programs being cut left and right from public schools. If we can't even handle teaching art, music or p.e., how can we handle teaching a language in K-12? I would love to see it though. Could you imagine if we taught Spanish (the "gateway drug" of Latin languages) from first grade on? How much better equipped would we be to handle the new multi-lingual America, and be more comfortable traveling the world?
+
+It's about time to start getting ready for my hike over to the [W3C](http://w3.org), well, after my petit dejeuner (I love that phrase - literally "little lunch", but it's really breakfast! language, I love it!), and some more Basketball a la Francaise.

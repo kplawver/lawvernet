@@ -1,8 +1,0 @@
----
-title: "More Brian Speak"
-date: 2007-04-24
-categories: 
-  - "brian"
----
-
-Just a couple of more weeks until my mom comes to watch the boys. Here is more Brian Speak to help her communicate with him better (some of these I have already mentioned):\\ Left= Go that way (he points to indicate which way).\\ Go= Thank you or the correct usage of go.\\ Frossies= Muffin.\\ Wawa= Water or waffles, depends on context.\\ Max= Batty.\\ Bank= Blanket.\\ My Turn and Your Turn= the opposite, but he is getting better about this.\\ Pay= Play.\\ Coe (rhymes with Joe)= I want or here.\\ Blu blu blu again= Let's do that again.\\ Up and down and around= Triangle.\\ Doh= No.\\ Mostly Brian just leaves off the second half of words:\\ Ba= Bath\\ Ou' Si= Outside\\ Caw= Car\\ There are words he can say perfectly, which makes me laugh:\\ Piece of Candy\\ Juice\\ Read\\ Golf club\\ Other funny tidbits:\\ Brian still says a ton of words we don't understand, but each day he is enunciating more clearly.\\ When he hears an unusual noise, he put his hand near his ear and says, "What's that sound?"\\ When he wakes up in the morning, since he can't open the baby-proof lock on the door, he yells out, "Mama" or "Help me." Sometimes I worry about my neighbors calling the cops, heh.\\ In the morning he doesn't want to eat breakfast first thing, just cuddle for awhile and watch tv. He is a little couch potato in the making!\\ When we count a small number of items, I say, "One, Two, Three." After I am done, Brian points to one of the items and says, "Ten. YAY!" I guess all of the books (and toes and finger-counting) that end in ten have been burned into his brain.

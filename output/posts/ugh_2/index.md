@@ -1,6 +1,0 @@
----
-title: "Ugh"
-date: 2009-01-14
----
-
-My self-esteem is totally tied to how clean the house is. This relatively new phenomenon started only since I have actually had time to clean the house. But I am the only one who sees a clean house (for about five minutes from 12:40 to 12:45pm Tuesday through Friday). As soon as the kids come home, their shoes, coats, backpacks, lunch boxes, schoolwork, crafts, books, drawings, and toys end up all over the place in mere seconds. Boo. I should go back to having a messy house all of the time and have my self-esteem wrapped up in how my hair looks. Speaking of hair, I realized why big hair is so popular in the South. It's due to the frizz. They figured since they can't get the frizz to go away, they would just hide it under big hair!

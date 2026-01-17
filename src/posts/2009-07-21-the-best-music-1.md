@@ -1,0 +1,21 @@
+---
+title: The Best Music of 2009 - So Far
+date: 2009-07-21
+tags:
+  - "music"
+slug: "the_best_music_1"
+---
+
+[Sound Opinions'](http://www.soundopinions.com/) most recent podcast listed their favorite albums of the year so far. I did this [last year](/archive/2008/12/19/h09_the_best_music_of_2008.php), and there's been so much good stuff so far this year, it's time to do another one. So, here's my list of the best albums of 2009 so far:
+
+1. [Hazards of Love](http://www.amazon.com/gp/product/B001UXR996?ie=UTF8&tag=ultranormal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001UXR996) by **The Decemberists**: I love everything on this album. The fact that it's basically a Rock Opera only helps. It's great on a lot of different levels, but my favorite thing about it is that it's great at many volumes. Turned up loud in the car or through headphones, the fantastic guitar work comes through. When quieter, the lovely vocals and lyrics are the stars. Really, you should get this before you do anything else.
+2. [Hombre Lobo](http://www.amazon.com/gp/product/B002B4AAS0?ie=UTF8&tag=ultranormal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002B4AAS0) by **Eels**: Another rock opera from one of my all-time favorite bands, this one doesn't disappoint at all. It's got the sad ballads, and the ass kicking rockers that the band does so well. **Fresh Blood** is now my second favorite **Eels** song of all time (after **Saturday Morning**). The whole album is great, and it was hard to choose which album to be at one or two, but this album could have easily been number one.
+3. [Eating Us](http://www.amazon.com/gp/product/B0026WL752?ie=UTF8&tag=ultranormal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0026WL752) by **Black Moth Super Rainbow**: Silly band name aside, this band is _amazing_. They're somewhere between **Zero 7**, **Massive Attack** and **Holy F\*ck**. Great analog techno, fantastic beats - this is an _awesome_ headphone album.
+4. [Lost Channels](http://www.amazon.com/gp/product/B001RXLKQM?ie=UTF8&tag=ultranormal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001RXLKQM) by **Great Lake Swimmers**: **Ongiara** is one of my all-time favorite albums, and this one picks up where it left off, adding some new sounds, but generally keeping the masterful folk ballad front and center. I love the addition of harmonies and some of the new instruments, but the heart of their sound is the lyrics.
+5. [Dark Was the Night](http://www.amazon.com/gp/product/B001R5Z6CO?ie=UTF8&tag=ultranormal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001R5Z6CO) by a bunch of great people: I don't normally get compilations, but this has a ton of my favorite artists on it, so I couldn't resist. This album is worth the price just for **Grizzly Bear**'s heart-breaking **Deep Blue Sea** and **The New Pornographers**' **Hey, Snow White**. The album is solid throughout, and the collection of bands they got to perform on it is staggering.
+6. [Hospice](http://www.amazon.com/gp/product/B002CAVIBQ?ie=UTF8&tag=ultranormal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002CAVIBQ) by **Antlers**: This is firmly in **Massive Attack** territory, so I'm going to instantly perk up at anything that follows in one of my all-time favorite bands' footsteps. It's melancholy, atmospheric and so layered, it took me a dozen times through it with headphones on to pick them all out.
+7. [Fantasies](http://www.amazon.com/gp/product/B001W4LA3E?ie=UTF8&tag=ultranormal-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001W4LA3E) by **Metric**: This album is a little uneven, but the high points are worth the price of admission. If you like **The Breeders** or **Luscious Jackson**, you'll _love_ this album.
+
+There are a few albums that came close to making the list that are still good, but not quite good enough for the list. The latest from **Vetiver**, **Malajube** (I liked their previous album more), **Sunparlour Players** and **Portland Cello Project** are all worth checking out as well.
+
+What are your favorite albums of 2009 so far? Come on, share!

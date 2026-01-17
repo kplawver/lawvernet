@@ -1,6 +1,0 @@
----
-title: "A Promise"
-date: 2008-12-11
----
-
-I had to sit on my hands not to fix the errors below, but since I promised not to edit again, you will just have to ignore them, ok? (Thanks again for that college education, Mom and Dad!)\\ This Leno thing has me really upset. NBC is going to cut 5 hours of scripted dramas, which is what I watch while I putter around cleaning the house, picking up toys, doing the dishes, mopping, folding laundry, etc. How am I supposed to keep the house clean without my putter partner? Booo to NBC.\\ Only a few more days until Christmas vacation. YAY! The kids are excited too:\\ [![Photobucket](images/P9302039-1.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=P9302039-1.jpg)\\ [![Photobucket](images/Party__-1.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=Party__-1.jpg)

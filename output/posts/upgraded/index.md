@@ -1,8 +1,0 @@
----
-title: "Upgraded"
-date: 2008-01-18
-categories: 
-  - "movable-type"
----
-
-I finally got around to upgrading everything to [Movable Type](http://movabletype.org) 4.0 (a, the security edition).\\ It's late, and I don't feel well, so if things are broken, I'll get to them later. Really.

@@ -1,0 +1,15 @@
+---
+title: My Big Fat Swedish Day
+date: 2006-09-02
+tags:
+  - "kevin"
+slug: "my_big_fat_swedish_day"
+---
+
+Not only did Jen and I go to Ikea today and fill up the van with build-it-yourself boxed Swedish furniture, but after we got back and unloaded the van, I went and bought a very swanky 2002 Volvo S80. I sent a picture to Flickr, but it hasn't shown up yet... ([so I just uploaded it.](/gr/volvo-s80.jpg)).
+
+Yes, I know that the S80 wasn't on [the list](/archive/2006/07/03/h13_test_drive_monday.php). I went to [Don Beyer](http://dulles.donbeyervolvo.com) intending to get a lovely little blue S60. But, as soon as I got there, it came back into the lot with a very happy person who ended up buying it. So, as I was considering my options, I wandered through the lot, and what did I spy? A lovely grey luxury car priced well below blue book that fell right into my budget. So, I found my favorite sales person (her name is Namaste, and she's very nice... if you go to Don Beyer Volvo in Sterling, ask for her) and asked if I could take it out. She handed me a key and a plate and off I went. Since no one's around AOL on Saturdays, I took it and whipped around campus a couple times. Wow. It's an incredible drive, and a lot nimbler than you'd expect a large sedan to be. It takes corners like a champ and has power to spare. I'm glad I got the bigger car. It's roomier, faster, and handles better than the S60... and gets the same decent mileage.
+
+I'm sore from taking out the middle seat in the van and lugging boxes of furniture from store to car to home, but I'm happy. I can stop looking for a new car for at least another 8 years. Yay!
+
+The only problem? Jen says I'm a yuppie now that we own a Volvo. I tried to tell her that we were already yuppies because we own a minivan, but I don't think she believes me.

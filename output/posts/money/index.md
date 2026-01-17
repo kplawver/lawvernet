@@ -1,6 +1,0 @@
----
-title: "Money"
-date: 2005-09-09
----
-
-I want something that costs about \\$5000. I have the money in the bank (more than required) and it would be a good use of our money, but I have a hard time letting go of money. So, if I do make this purchase, should I buy it in cash or finance it and then pay it off quickly (to lower the finance charges)? The benefit to using cash is that I can't accidentally or foolishly spend the \\$5000 as it sits in the bank. The drawback is that if there is an emergency, then I won't have that \\$5000 cash on hand. But I do have a high-limit credit card, and if there is an emergency then I shouldn't feel bad about using the credit card, right? What do you think?

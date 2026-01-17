@@ -1,0 +1,21 @@
+---
+title: Early Morning Thoughts on Presidents
+date: 2008-01-08
+tags:
+  - "politics"
+slug: "early_morning_t"
+---
+
+The last two presidential races, I paid more attention to them than was probably healthy, and made up my mind before it made sense to (ie: before I could cast a vote). This time, I'm trying to be more patient and wait for the race to develop before deciding who I'm supporting.
+
+Well, my primary's a little over a month away, and it's about time to start paying attention. In 2004, I was enamored with Howard Dean, but he was in full collapse by the time the Virginia primary came around. This time, it looks like it'll be at least still a three candidate race by the time it's our turn to vote.
+
+I think it's time for a clean break from the Clinton/Bush carousel. That means Hillary is out. I don't think I'd be too upset if she ends up winning, but she's too calculating and has changed her position one too many times in the past in order to get votes. She's a bit of a chameleon and that doesn't inspire me. It's certainly a practical skill for a politician, but it's not something I want to vote _for_.
+
+I really liked John Edwards last time, and love what he did in fighting poverty after he and John Kerry lost in '04. I think he's a really good man, and one who passionately believes in what he's talking about. I'd happily vote for him.
+
+And then there's Obama. I hope he's the real deal, and I have about a month to find out. He's almost too good to be true, but there's magic there, and it feels real. I'll be paying very close attention for the next month to look for dark corners and skeletons that set off alarm bells.
+
+It's a two-candidate race for me now between Edwards and Obama, and Obama has a slight lead at the moment. But, that could change. I have a chance to have a presidential nominee, and probably a president, I can really believe in for the first time in my lifetime. I don't want to screw this up. I don't want America to screw this up. We've been stuck with a complete disaster for eight years. It's time for a change, and not just a change in name, but a whole new direction.
+
+Oh, and the Republicans? I'll never vote Republican again. John McCain was my last GOP hope in 2000 and he's been a disappointment since then. He's given up his beliefs and courted the religious zealots that did their level best to ruin this country and have destroyed any chance of me ever voting for the Republicans again.

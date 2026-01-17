@@ -1,8 +1,0 @@
----
-title: "Bad Ideas"
-date: 2003-02-25
-categories: 
-  - "daily-tedium"
----
-
-There is nothing on TV from 4 - 6am. Also, staying up all night when you're not doing anything staying up for is a really bad idea. My throat kept me up all night. Robitussin gave me no comfort. Tylenol - nothing. Motrin - squat. I give up. I'm calling the doctor in two hours and demanding drugs of some kind. Big horse pills with horrible aftertastes that kill micro-beasties and will give me my life back. I'm too old for this crap. Thankfully, Max's fever broke yesterday and he slept through the night. At least only 33% of my family is sick, down 333% from yesterday. That's progress, baby.

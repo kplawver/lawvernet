@@ -1,0 +1,20 @@
+---
+date: 2009-08-27
+tags:
+---
+
+I've been slacking in the vacation wrap-up posts. I blame the weather. I forgot where I was, so let's just start sort of at the beginning of Miss, ok?
+
+The kids had a great time playing with their cousins and extended relatives, and that was the most important thing. I had fun too. We went to a waterpark; on a swamp tour; a picnic by a small river with boating, swimming, and more waterslides; Chuck E Cheese followed by trampoline/bungee jump-up "ride;" a 3D movie. Plus the kids just had fun making brownies, splashing in grandma's jacuzzi tub, playing board games, playing with legos, making bubbles, playing with five different dogs, coloring with sidewalk chalk, and just generally hanging out. I made sure to capture as much of it on film as I could. Rule #1: No having fun unless Aunt Jen was there to take a picture. It was an exhausting trip, for everyone. But fun!
+
+With my niece and nephew (12 and 13 years old, respectively) in Miss, I got to play Best Aunt Ever by taking all of the kids to Chuck E Cheese by myself, getting tickets to go on the trampoline/bungee jump-up thingee, and buying gifts including colored hair extensions. I was looking forward to playing best aunt ever in Va too, but my other niece and nephew (6 and 1, respectively) didn't want anything to do with me. By that point of the trip though, I was fine with that. :)
+
+[![Photobucket](/assets/images/posts/ive_been_slacki/brownie1.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=brownie1.jpg)
+
+[![Photobucket](/assets/images/posts/ive_been_slacki/brownies2.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=brownies2.jpg)
+
+[![Photobucket](/assets/images/posts/ive_been_slacki/maxonslide1.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=maxonslide1.jpg)
+
+[![Photobucket](/assets/images/posts/ive_been_slacki/cousinsadj.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=cousinsadj.jpg)
+
+[![Photobucket](/assets/images/posts/ive_been_slacki/bwithdogadj.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=bwithdogadj.jpg)

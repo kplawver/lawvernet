@@ -1,0 +1,16 @@
+---
+title: "My Job... on Rails!"
+date: 2007-01-04
+tags:
+  - "aol"
+  - "ruby-on-rails"
+slug: "my_job_on_rails"
+---
+
+There are times when working at AOL is hard to defend, like say, when we give out lots of personally identifiable search data, or when our customer service is patently horrible. There are other times when I wouldn't dream of working anywhere else. Today is the latter. I am extremely lucky. Why? I can't say everything, but I can give the basics.
+
+I've been playing with [Ruby on Rails](http://rubyonrails.org) for a little while, just tinkering in my spare time, until I came up with an idea. This idea was big and complex, but I figured it would make a good "class project" to really get to know Rails. Once I started getting into it, it turned out to be too big and too complex, so I came up with what I think turned out to be a better idea. Better not only because it was simpler, but because I don't think anything like it exists out there yet.
+
+After playing with it after work for a month or so, I realized I didn't have the time between work, travel and family, to really do it right. So, I brought it to work and proposed it. And, we're doing it... in Rails. I have a small team of folks I hand picked to work on it, and their managers have graciously allowed me to steal them for a couple months. [Cindy](http://cindyli.com), Ari (Ari, do you have site?) and [Jason](http://sixtwothree.org) are _the best_ (which is why I picked them). We're playing startup: very little interference, almost no process, and incredible executive "cover". We're doing out best to keep it simple, pare down the featureset to what's absolutely required to make it cool, and throwing out traditional AOL project roles. We've making incredible progress and I'll hopefully be able to unveil the final thing before [SxSW](http://sxsw.com). It will be unlike anything I've ever built for AOL before.
+
+Even with the layoffs, uncertainty and swirl, it's still a good time to work at AOL.

@@ -1,6 +1,0 @@
----
-title: "Justify!"
-date: 2008-08-17
----
-
-Some things should remain private. Like what goes on between a person and her tivo. Know what I am saying?

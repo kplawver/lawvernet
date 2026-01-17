@@ -1,0 +1,18 @@
+---
+title: Premiere Week
+date: 2006-09-27
+tags:
+slug: "premiere_week"
+---
+
+Next column over, Kevin is writing about war and death and torture. And I am writing about tv. Heh.
+
+I am saving my indepth post about **Veronica Mars** until it has aired, but know that I loved it and thought Kristen Bell looked hot and was cute and sassy as ever! I also thought it did a great job welcoming new viewers without weighty exposition (um, except for Cormac, but more on that later). This is definitely 'do or die' time for the show, so keep your fingers crossed. (You can watch it Tuesdays at 9pm EST on the CW). On to other premieres-
+
+**Supernatural** is back! Yippee! Catch the season premiere on Thursday at 9pm EST on the CW. Oooo, I heard Linda Blair is going to be guest starring sometime this season. How cool is that? Plus there are one or two recurring characters I am excited to see. (Denny and Meg live! On Supernatural anyway, I hope. Yay!) For those of you not smooth enough to have already seen the first season, [here is a 1 minute review](http://www.youtube.com/watch?v=M72BKiWkZJo) or just watch it here:
+
+Lastnight was the first **Gilmore Girls** episode sans Amy Sherman-Palladino. I wasn't sure what to expect. The episode had gotten mixed reviews, some saying it was a pale imitation of ASP's classic style and others saying that the show was finally back on track after an abysmal last season. After watching it, I agree with both points of view for different parts of the show. Sookie's whisking rant was spot-on, a perfect example of why I love (loved?) this show. Lorelia's car analogy was a good attempt, but wasn't quite up to GG greatness. Rumors have been floating around that ASP unofficially checked out of the show a long time ago and if I hadn't known of her departure, I wouldn't have noticed anything amiss while watching the season premiere. Last season really sucked, with its out-of-character and ridicules plotlines. After experiencing that though, this new guy seems heaven-sent. What are your thoughts?
+
+I have seen two episodes of **Studio 60 on the Sunset Strip** and while it is entertaining, it is not the savior of television it has been hyped as. Meh, I can't even find the enuthusiasm to write a whole lot about the show except to say that Bradley Whitford and Matthew Perry are great; I dislike Harriet, which isn't to say the actress is doing a bad job; and the cold open should have been done off-screen.
+
+I tried **Vanished**, **Heroes**, and **Six Degrees** but none of them could hold my interest. What shows have you tried? What shows stuck to you?

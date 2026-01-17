@@ -1,0 +1,27 @@
+---
+title: "What I Believe I've been"
+date: 2002-03-17
+tags:
+  - "religion"
+slug: "what_i_believe"
+---
+
+I've been thinking about this for a while now, and waiting for the write time to sit down and get it all out. Jen and Max are napping, and the NCAA men's basketball tournament is muted in the background. Now seems like as good a time as any.
+
+I've been trying to come up with a simple, boiled down to its root, statement of belief. Robert Fulghum talks about doing this himself in his first book, and well, it's always seemed like a good idea. Now that I'm a father, I figured I'll have to eventually communicate to my son what I believe in succinctly and clearly and I should be ready to have that conversation. So, here it goes: **I believe in contradictions**.
+
+The Bible says that there is opposition in all things. For there to be good, there has to also be evil, etc, etc. While I believe that to be true, I think it goes deeper than that, in that there are very few cut and dried issues in this life. Every day, we make decisions that lie in the grey, in-between place between perfectly right and absolutely wrong. The challenge is to balance life's contradictions into making the grey as light as possible.
+
+Here are some of the contradictions I've found that have led me to my statement of belief:
+
+1. **Our political system is fundamentally flawed but perfectly designed.** Representative Democracy is the greatest form of government ever conceived. The governed have the right to change the leadership fairly frequently, and almost all decisions made by the representative branches should be open to public scrutiny. It's perfectly conceived and balanced to provide representation of the people without bringing everything to a standstill so every citizen can vote on every decision (which would be a pure democracy). The system is fundamentally flawed because we have a lazy electorate. In order for there to be true representation, the represented must have a clear understanding of each candidate's views and political affiliations. They must also keep their representatives accountable and vote them out if they fail to represent their constituents correctly. That's not happening, unfortunately. Less than half of the citizens eligible to vote in this country bother. Leaving it up to about 40% of the population to choose our leaders, and I would guess that a good majority of them vote along party lines because either they're lazy or out of some crazed sense of tradition. It makes for career politicians who pander to lobbyists and corporations instead of their constituents.
+    
+
+3. **I believe in both God and Evolution.** Yeah, you heard it right. I believe in God and Evolution. I think that dinosaurs existed and that species evolved into other species to give us the flora and fauna we have on this earth. I'm not sure I believe that man evolved from ape-like creatures, but I don't think it's impossible. I believe that God created the heavens and the earth and everything on it, and for us to strictly translate Genesis and say, "Well, God just said let it be, and there it was" is not giving Him enough credit. Saying that man evolved is not a denial of divine origin. It is an acknowledgement that, given the evidence we have, He may have taken the scenic route in the act of creation and started a process He knew would result in humanity. It just makes sense to me that way. Saying the universe and the resulting "us" is an accident doesn't make sense. Neither does saying that Genesis is the literal process of creation make any sense to me either. I think it's somewhere in the middle, in the grey.
+    
+
+There are more, and I'm going to try to write them down as I think of them and can put them into words.
+
+As a slightly-related aside, I started seriously thinking about writing this down after watching the HBO Special **Monica in Black and White**. It was a documentary showing the timeline of the whole nasty affair, and a Q&A session that Monica Lewinsky held, all filimed in lovely soft focus black and white. The part that really got me thinking was a statement from an audience member. He stood up and said basically that he was offended that she was being dishonest and presenting a spinned and self-serving version of the story. He found it disturbing that she was presenting her story about her story and her pain and not the "truth". No, really? She gave a view, however it was spun, of her view of what happened. If it was Bill Clinton on that stage crying his eyes out, it would be his view of what happened. The same if it had been Linda Tripp had been up there. She would have been presented as a national hero who did what any of us would have done, and Monica would have been the doltish slut who seduced the president instead of the naive girl seduced by the most powerful man in the world that Monica presented. There are very few completely honest accounts of anything in history. The winners write history, and unfortunately, the only way to piece together these self-serving accounts and try to come up with a comprehensive picture of what happened. I had no problem with what was presented on the show. In fact, I think it's about time she be able to tell her story (I didn't read her book, so it's the first time I've even heard her speak, I think). Everyone else involved got to tell their's first, which makes her's seem less honest when we cloud story with "fact" as presented by the other parties.
+
+I think that's enough opining for a Sunday afternoon... see y'all tomorrow.

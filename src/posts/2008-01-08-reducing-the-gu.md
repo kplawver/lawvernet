@@ -1,0 +1,19 @@
+---
+title: Reducing the Guilt Bucket
+date: 2008-01-08
+tags:
+  - "kevin"
+slug: "reducing_the_gu"
+---
+
+After I [posted my New Year's Resolutions](/archive/2008/01/06/h12_kevins_new_years_resolutions.php), I started thinking about taking control of my time, and what I was _really_ trying to do, and it's come down to a single goal: reducing my guilt. I have goals and ambitions, things I want to accomplish, help with, and see get done. These things keep getting put in a bucket, and it's now full to overflowing. It's a massive burden of guilt (self-inflicted, of course) that's not helping me get my time under control, or more importantly, my health.
+
+So I'm doing something about it... Instead of fooling myself into thinking that I'll have some great meadow of free time open up, I'm admitting defeat and removing goals. It's not easy. Here's what I'm doing about it:
+
+- I sent my farewell post to the CSS Working Group listserv this morning. I've been a member of the CSS Working Group for about four years, and in that time, I've never really been able to dedicate the time I want to it, and don't see how I ever will. It hurts to leave. CSS is vitally important to the future of the web, and I want to be a part of it, but I'll have to do it outside of the working group.
+- As soon as I find a replacement for me, I'll be leaving the HTML Working Group as well. I'm just a placeholder anyway since Arun left, but again, it's important and I want to be a part of it, but I just don't have time.
+- And one more decision I'm not ready to announce yet that's more painful than the other two combined. I still need to talk to some people before I can blog about it. But, just to set expectations: I'm not leaving AOL, and it has nothing to do with my family.
+
+I'm also making great progress on the feeds and twitter front too. I'm down to 194 folks I'm following, and only have twenty-seven feeds to dump in the next week to get to 500 feeds.
+
+**Update**: I heard from a couple worried friends who said this sounds "ominous". That's not my intention. I'm happy to finally be making hard decisions and to stop worrying about things I don't have time to worry about anyway. This is all good stuff. I'm sad about leaving the CSS Working Group, but I honestly haven't really been a true part of it for a while. It's about accepting things I have no control over and prioritizing my health and family over work and everything else.

@@ -1,8 +1,0 @@
----
-title: "Dick rocks!"
-date: 2006-10-27
-categories: 
-  - "veronica-mars"
----
-
-Kevin finally watched **Veronica Mars** last night so I can post all of my favorite lines and points, but eh, it's so three days ago and I just don't have the energy. Kevin laughed so loud at some parts, I am sure the kids way upstairs could hear him.\\ I still loved all of Dick's scenes. It's interesting to see how the actor who plays Dick started out as a glorified extra, with a breakout performance of "Logan!" (HA!) that gradually got him a starring role. In S1, Logan was the jerk who reminded Veronica how far she'd fallen. Then the writers made Logan so wonderfully complex & layered, the actor was so charismatic, and he & Kristen Bell have so much crackling chemistry together that the character moved from 'one-dimensional jerk' to leading-woobie-man-status. So the writers made Jerk 2.0 in the form of Dick. Much to the happiness of that actor, I am sure. He gets all of the great, amusing, memorable, and politically insensitive lines that Logan used to get.\\ Someone at TWoP posted this as one of their favorite lines: _She came in with a guy. She's falling asleep on my magazine rack and he's trying to scrape together enough change to buy provolactics._\\ And this is the conversation it spawned:\\ Me: I am not sure what a provolactic is. Is that the type of birth control they use in Utah?\\ Friend 1: It's not birth control, it's the name for Utah mothers who breastfeed.\\ Me: Hahahaha.\\ Friend 2: Huh. I thought it was cheese for the lactose intolerant.\\ So tell me, internetters, what is your definition of provolactic?

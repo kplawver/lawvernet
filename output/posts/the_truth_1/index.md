@@ -1,8 +1,0 @@
----
-title: "The Truth"
-date: 2006-04-06
-categories: 
-  - "veronica-mars"
----
-
-As well-written and acted _Veronica Mars_ is, I have to say that I watch it not for its production value but because it is **really entertaining**. Veronica trying to do the shocker and Weevil correcting her was just plain funny, even if it was a bit "meta." And did they actually reference Dirty Sanchez? Whoa. Lamb's snarky, "Well, bonus points for bringing the perp along" also gets a big HEE from me!

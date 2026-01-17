@@ -1,9 +1,0 @@
----
-title: "Bonjour!"
-date: 2006-02-26
-categories: 
-  - "travel"
-  - "web-standards"
----
-
-I'm in France!! This post would have a picture of Mandelieu at the top, but I forgot the USB cable for the camera (because I'm smart). Other than not sleeping at all on the plane (I tried, laws yes, I tried), the trip was fine. I met [Molly](http://molly.com) at the airport after her flight from London and we shared a ride to the hotel. I've no driven in another country! It wasn't all that scary, other than stalling the car a couple times (mushy clutch and the fact that I haven't driven stick in months) and a mad rush to find change for the toll. We got off the highway too soon and ended up winding our way through Cannes, and then had a lovely drive along the beach until we saw the big R on the side of the hotel.\\ I stayed up until 8:30, and woke up for good around 4:30. Now, I'm just waiting a little while until breakfast, and then it's time for Nerd-a-palooza 2006!

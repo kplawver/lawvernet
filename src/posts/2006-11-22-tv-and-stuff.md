@@ -1,0 +1,35 @@
+---
+title: TV and stuff
+date: 2006-11-22
+tags:
+  - "tv"
+slug: "tv_and_stuff"
+---
+
+Thanksgiving is tomorrow, and I have pies to bake, so let's make this quick, ok?
+
+**Heroes**: The confrontation was anti-climatic. Claire basically ran away and didn't need anyone to protect her after all. Huh. So, the world is saved now? I know it isn't as simple as that, but so far that has been the prevalent thought.
+
+Glad to see the waitress back. She is my favorite character, even though she just barely showed up.
+
+Milo V. NEEDS a haircut. His 'Gary Oldman from _The 5th Element_' hairstyle makes me want to scratch out my eyes.
+
+**Gilmore Girls**: LOGAN! YAY! I really enjoyed the Logan and Rory fight. I love them together, but they fight so well and entertainingly that I love the fights too. This fight seemed both organic and in character. I totally loved Rory being called out about being "one of us." She is very much one of them when it suits her, as in "But I'm a Gilmore!" She does seem to kinda straddle the line between society and not- the society folks see her as an interloper but the non-society see her as uber-privildeged. I do wish Rory'd have said, "I used to live in a shed!" to Logan. My personal theory is that someone's early images of themselves stick the best, so she sees herself as a poor and nerdy outsider, because that is how she was as a small child.
+
+I was also kind of waiting for Logan to drop the bomb that he'd invited internet newspaper guy just so he could meet Rory and potentially hire her. But no bombshell, so no extra fighting- which whew, I am glad. I think it would have been awesome and in character for Logan to do that though, because he thinks she is a great writer and wants to help her, but still let her talent and abilities actually get her the job.
+
+I also like that she wants to get her own place. It will still be with someone else's money (her dad's), so I kind of wish she'd wait 6 months and try to pay for it herself, but at least this will give her the start/taste of independence like she's never experienced before.
+
+Boo to elopements. I don't like them and think if you are eloping, there is probably something wrong with the situation.
+
+**Veronica Mars**: I love Dick. Can never get enough! The jokes were hysterical AND totally inappropriate, but that is how this society roles, which is reflected in VM. We joke about everything, even child molesting pop stars and dead astronauts. I don't think the show is making a grand statement about women/power/feminism, etc. with this plotline. It is merely a story. This ain't **Star Trek**, y'all. No moral tale to be found here. Did love the Heroes shoutout though!
+
+Some asshats posting on TWoP are saying that Chip's attack wasn't rape. Which, Grrrrrrr. Those posters are so stupid, I just can't even let my mind go there.
+
+I am pretty sure I know who did it and have suspected him from almost the beginning. Which, poo. If I am smart enough to figure it out, then the writers didn't try hard enough. I would love to be wrong though!
+
+**30 Rock**: Totally funny. Alec Baldwin is amazing (something I never thought I would write) and I hope he gets an Emmy nom from this.
+
+Um, I think that is all I watched. Have you been watching anything good recently?
+
+Have a Happy and safe Thanksgiving everyone. And super Happy Birthday, Julie (even though you don't read this, you big slacker). Love you!

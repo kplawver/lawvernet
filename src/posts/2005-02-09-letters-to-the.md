@@ -1,0 +1,23 @@
+---
+title: Letters to the Editor
+date: 2005-02-09
+tags:
+  - "politics"
+slug: "letters_to_the"
+---
+
+Here's what I sent to the local papers... Apparently, my local delegate is quite the fundamentalist.
+
+To the Editor:
+
+Delegate Dick Black's extremist agenda has reached a point where he is literally willing to throw the baby out with the bath water. He wants to force women to carry unwanted pregnancies, and then he wants to abandon the children they produce. How else can one interpret [his latest bill (HB 2921)](http://leg1.state.va.us/cgi-bin/legp504.exe?051+sum+HB2921) that would prevent certain families from adopting children?
+
+All indications are that children of gay parents leadnormal, fulfilled lives. The [American Psychological Association has reviewed studies of children of gay parents](http://www.apa.org/pi/parent.html) and has concluded that "there is no evidence to suggest that lesbians and gay men are unfit to be parents or that psychosocial development among children of gay men or lesbians is compromised in any respect relative to that among offspring of heterosexual parents. Not a single study has found children of gay or lesbian parents to be disadvantaged in any significant respect relative to children of heterosexual parents."
+
+Thus, it seems that Black's bill to prevent gays from adopting is nothing more than another mean-spirited attempt to doom parentless children to orphanages or a succession of foster families rather than allow them to be adopted by parents who will love and nurture them, while he requires mothers of unwanted children to bring them into the world.
+
+There are [seven thousand children in Virginia awaiting adoption](http://www.childwelfare.com/virginia.htm). He has no backing in science, as there are no credible studies he can cite. Delegate Black is using prejudice and junk science to keep those children from having every opportunity to find a loving home to call their own. He is preying on our hidden and unreasonable fears to further his extremist agenda, and trying to marginalize those that doesn't fit into his narrow world view.
+
+Signed,
+
+Kevin Lawver

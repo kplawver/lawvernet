@@ -1,0 +1,15 @@
+---
+title: The Last Amazing Flight of The Kevinburg
+date: 2002-05-11
+tags:
+  - "funny"
+slug: "the_last_amazin"
+---
+
+In all the hubbub at work this week, I haven't even had time to tell you the very cool thing the search business folks did for me. A long time ago, we did this big deal with another company that used to give people remote-controlled blimps. I whined and whined and whined that if I did all this work for the deal, that I should get a blimp. I never got it. I did get some great swag from them, like a remote-controlled robot, a cool picnic backpack and a nice polo shirt. Alas, there was no blimp.
+
+As a thank you/congratulations present, the guys got me a blimp!! It was about three feet long, two feet high, and had **Where the Wild Things Are** pictures taped all over it. It was cool. The first test flight went well. It was just around a little open meeting area. Then, for the rest of the week, it floated in my office, because I was too busy to actually do anything with it.
+
+Friday afternoon, I'd had enough. I needed to take a break, so a couple of my friends came over and we took the blimp down to the CC2 Atrium. The building I work in now is a big four-story rectangular donut, with this big open space in the middle from first floor to ceiling. I couldn't think of a better place to try the blimp out. It was entirely too tempting. We fired it up, let it go and puttered around a little over our heads. Then, things went terribly wrong. The blimp hit the air blowers at the second floor and shot straight up to the fourth floor, where it was grabbed and mercilessly grappled by the huge air intake vents. We ran up the stairs (because it was well out of range at this point) and tried in vain to use the poor little propellers to free it. It was held fast. So, I went back to my desk and fetched the Koosh balls, in the vain attempt that we could free it by bludgeoning. No luck. Then, we went back to my office where I humbly called facilities and explained the situation and was summarily bitched out for not realizing that the smoke detectors on the fourth floor could have easily gone off, clearing the building and summoning the fire department. Now, in fear for my job, and being blamed for disturbing people trying franticly to finish work before the weekend, I rushed back to the fourth floor balcony to watch my poor captured dirigible and wait for her galant blue-shirted rescuer to arrive. I expected a big ladder. Instead, he went through the vents. I noticed some clanging, and then a hairy hand reached through the vent and grabbed the blimp. He yanked it towards him and uttered the words I knew were coming, "Am I trying to save this thing?" Of course, I told him to do whatever he had to. He popped it and dragged it through the vent, then told me to meet him downstairs.
+
+I guess this all ended well. I learned a little about the fire system in my building, and the guy who performed the rescue wasn't all that upset. He thought it was kind of funny and said people do stupid stuff like this all the time. But, my poor blimp is crumpled in a box in my office... never to fly again; at least not at work.

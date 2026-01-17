@@ -1,0 +1,18 @@
+---
+title: "Awesomommy!"
+date: 2007-10-05
+tags:
+  - "jen"
+---
+
+Since Max is now the big 0-8, I gave him the big t-a-l-k tonight, by myself. No book, no Kevin, no video. Max knew a lot about the science of how babies were created: sperm from the man + egg from the woman = baby. But he was stumped when I asked him _how_ the sperm got from the man to the woman. Now for the difficult part.
+
+I drew a stick-figure man with a penis and a stick-figure woman with a uterus and vagina and off we were. I explained that sex is physical affection only between husband and wife. Cough yea,right cough. It's like a really special close hug (yes, I used the stupid phrase from that stupid book) where the man puts his penis in the vagina so the sperm can get from the man to the egg. I went on to say that sex has many names, some of which are rude and shouldn't be used, unless you are making a Farrelly Brothers movie. (Yea, jokes like this- totally only said in my head- is why I kind of thought it would be best to do this without Kevin around initially.) I told Max it was important for him to know about sex now because he is old enough and that wrong information could start filtering to him through friends, older siblings of friends, tv, etc, but that it isn't something he should talk about with others because it is private and special. I emphasized that he could come talk to and ask questions of Mommy, Daddy, the grandparents, or his aunts and uncles though (look out, family members). Lastly, I told him that sex is awesome and fun and just looking at Daddy makes me want to kiss kiss kiss him all over his face.
+
+Max was a little embarrassed, he admitted, and kept going back to the science part of it. Overall, I give us an A\*\*. Phew.
+
+I am totally tempted to scan my stick-figure drawings in and add it to this entry, but then I started writing over the drawings to highlight the important parts: penis goes in vagina, only married people do it, not something to talk about, totally awesome and fun. At one point, Max took the pen from me and corrected my spelling. Heh.
+
+Did I forget anything important that an 8 year old should know?
+
+Hmm, how come we don't have a tag on this blog for sex? Guess I'll just file this one under "Jen" :)

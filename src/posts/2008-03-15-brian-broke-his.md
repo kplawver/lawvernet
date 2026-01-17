@@ -1,0 +1,22 @@
+---
+title: Brian broke his arm yesterday- Eeeep.
+date: 2008-03-15
+tags:
+slug: "brian_broke_his"
+---
+
+When I went to pick him up from preschool, he was sitting at the bottom of the playground's slide with an ice bag. Brian said he was climbing the ladder to the slide and his hands slipped off and he fell. He was favoring his hurt arm like a wounded dog and he wouldn't stop crying, so I knew something was seriously wrong.
+
+In the ER they had to manipulate his arm to take the x-rays, which hurt, and then again to set it in a temporary cast. The poor kid kept crying. They did give him 3 shots of morphine throughout the night, so yay for that.
+
+After we got home, I had to get up every two hours to check his circulation. I was wandering around in a groggy fog and felt like a new mom must feel. It was surreal to be back there. I even slept for part of the night **hanging half off** of Brian's bed.
+
+We have to go see the pediatric orthopedist on Monday to determine if it needs surgery or just a cast. Boo. The break is right above the elbow of his dominant hand. I was like, "Will he still be able to pitch for the Yankees? What about playing the piano?" Ha.
+
+Kevin was due back into town last night around 1am. He found several emails and phone messages from different family members waiting for him, so he wouldn't worry if he came home to an empty house. His plane got in late so we were home before he was. The poor guy kind of received a shock when he checked his blackberry when the plane landed.
+
+Brian is awake, watching Spongebob. He seems to be ok for right now. Earlier he was in a lot of pain but refused to take his medicine. Every time I tried to sneak it in, he would spit it out. I finally got him to take 1/4 of a dose by mixing it with some with juice. He wouldn't take any more though. He started to retch (thankfully nothing came up), and in that whirlwind, I knocked over the rest of the medicine. Kevin is out getting more.
+
+And how was your Friday night?
+
+ETA- Kevin asked the pharmacy for yummy-tasting medicine. They gave him grape, which Brian took from Kevin without a peep of protest. Now Brian is watching Kevin play videogames (at B's request).

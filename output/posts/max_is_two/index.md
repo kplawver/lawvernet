@@ -1,8 +1,0 @@
----
-title: "Max is two!!"
-date: 2001-10-04
-categories: 
-  - "max"
----
-
-Max is two!! Today's his birthday. So, what did we do? He went over to my mom's (after going to the pet store, which is more fun for him than the zoo). Me? What did I do? I took the day off and, with my little sister, painted a mural on his bedroom wall. We did a monkey, a dog, two birds, a bi-plane, a kid on a bike, a hot air balloon and a box kite, plus almost a dozen clouds. I'm pooped, and we haven't even had the party yet!! There will be many pictures for grandparents up tomorrow (I hope).

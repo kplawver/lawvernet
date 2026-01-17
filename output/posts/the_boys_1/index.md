@@ -1,9 +1,0 @@
----
-title: "The boys"
-date: 2006-08-17
-categories: 
-  - "brian"
-  - "max"
----
-
-Random stories:\\ I got tired and dizzy playing ring-around-the-rosie with Brian, so I transitioned us into a new game: I would dance in one spot while he ran around me. This morphed into us just dancing. At one point, I got really into the music and started getting crazy. I ran my fingers through my shoulder length hair and pulled upword, so my hair was standing on end with my fingers tugging to the beat. A moment later I looked down and saw B pulling on his short hair too, trying to dance the way I was.\\ Brian turned down a _chocolate chip_ granola bar for an apple & cinnamon _rice cake_ at snack time. The boy is whack. Maybe he pulled too hard on his hair.\\ Max started and finished his first _fictional_ chapter book today, all 235 pages. Hurray! This makes me deliriously happy.

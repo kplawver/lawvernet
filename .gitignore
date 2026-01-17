@@ -138,3 +138,7 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 _site/
+
+# import things
+output
+wordpress-export.xml

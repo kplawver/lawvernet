@@ -1,5 +1,4 @@
 {
   "layout": "layouts/post.njk",
-  "tags": ["posts"],
-  "permalink": "/{{ page.date | htmlDateString | replace('-', '/') }}/{{ page.fileSlug }}/index.html"
+  "permalink": "/{{ page.date | yearMonth }}/{{ slug or page.fileSlug }}/index.html"
 }

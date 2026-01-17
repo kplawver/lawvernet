@@ -1,6 +1,0 @@
----
-title: "Meh"
-date: 2008-12-16
----
-
-Even though I am WICKED old, I am waaaay too young to have my dream house now. True story. So Kevin and I are going to look at less-fancy houses. All of the ones I have seen so far, though, have been sad-in-the-face-making. I am hoping that after the holidays, something perfect will turn up. Keep your fingers crossed for us. When we eventually get a place of our own, my second act will be to enlarge, frame and _actually hang_ (omg, radical, right?) some of Kevin's funky urban pictures. Wheee. Oh, speaking of Kevin's funky pictures, he recently won a local contest for one of them. My husband is awesomer than yours. I bet you want to know which picture won.\\ After months of living with a tv that whines and screeches, has a green tint on the whole left side, and randomly just doesn't work at all, Kevin bought a new tv. It arrived super duper broken though. The boys were depressed for days. :(\\ The last three or four books I've read have been really bad. What's up with that? My book mojo seems to have left me. And how come I don't just choose a different book instead of torturing myself by finishing them?\\ Our stove isn't working again. I think it just hates me, since it seems to work for Kevin. Booo. The upside, though, is less cooking! Peanut butter and jelly: it's not just for kids' lunches anymore.

@@ -1,6 +1,0 @@
----
-title: "Grrrrr."
-date: 2006-03-10
----
-
-Click to see [misleading headline.](http://www.dailykos.com/storyonly/2006/3/10/154932/265) What the hell?

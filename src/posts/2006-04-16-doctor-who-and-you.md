@@ -1,0 +1,13 @@
+---
+title: Doctor Who and You
+date: 2006-04-16
+tags:
+  - "tv"
+slug: "doctor_who_and_you"
+---
+
+I know, Jen usually does the TV evangelisation here, but it's my turn. If you're not watching **Doctor Who** on SciFi, you're missing out. It's a genuinely fun show. It's not as morose or self-serious as **Battlestar Galactica** (which I love), and the special effects are decidedly British, but the stories and the acting are excellent, and the fun factor is way up there. We're heading into the real meat of season one now, with the four or five best episodes coming in the next month or so (the next two are great, but the two best, the two-part **Empty Child** storyline, are the absolute best episodes - you'll laugh, you'll cry, you'll pee yourself).
+
+If you're like me, you've already watched season one because you've discovered the joys of the internet. If so, you can go download the first episode of season two _right now_. It premiered last night on the BBC, which means it's out there on the internet, waiting for you to grab it.
+
+Now, I'm not normally a pirate. I'm really not. But, if it's not available on US TV, or I've already paid for it and am out of town (like **Sopranos**), I have no problem downloading it. Do I download movies? Nope. Music? Nope. But, TV? If it's not out on DVD, or I can't get to it because I'm not at home, it's fair game. I subscribe to HBO. I buy the DVDs when they come out (check it out, I've already pre-ordered **Doctor Who** season one from Amazon). So, MPAA, suck it. I'm just a fan who wants to watch your show. If you won't give me a timely and convenient way to do it, I'll find my own way.

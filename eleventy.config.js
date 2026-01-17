@@ -1,6 +1,9 @@
 const { DateTime } = require("luxon");
+const embedEverything = require("eleventy-plugin-embed-everything");
 
 module.exports = function(eleventyConfig) {
+  // Embed plugin for YouTube, Vimeo, Spotify, etc.
+  eleventyConfig.addPlugin(embedEverything);
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/css");
@@ -12,6 +15,10 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
+  });
+
+  eleventyConfig.addFilter("yearMonth", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy/LL");
   });
 
   eleventyConfig.addFilter("isoDate", (dateObj) => {
@@ -37,6 +44,14 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("head", (array, n) => {
     if (!Array.isArray(array)) return [];
     return array.slice(0, n);
+  });
+
+  // Humanize tag - convert "web-development" to "Web Development"
+  eleventyConfig.addFilter("humanizeTag", (tag) => {
+    if (!tag) return "";
+    return tag
+      .replace(/[-_]/g, ' ')
+      .replace(/\b\w/g, c => c.toUpperCase());
   });
 
   return {

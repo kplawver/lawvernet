@@ -1,0 +1,28 @@
+---
+title: Random Thoughts As I Sit In The Airport
+date: 2005-02-06
+tags:
+  - "travel"
+---
+
+I found a free wi-fi network in the airport, so I'm using it. I got here ridiculously early, got up before that, and broke a bag in the process (so I'm now carrying a metric ton of goodies in my now bulging backpack, along with lugging six litres of **Club Orange**). I'm nowhere near awake, but while I'm here, I figured I'd come up with a list of things for me to remember the next time I travel:
+
+- **Bring blank CD's**: We had a rental car, and the radio got old about three days into the trip. In Ireland, the daily newspapers are having a "oh, yeah, well take **this**!" promotions war, so there are CD's in the Saturday and Sunday papers. But, they're free CD's, so maybe one or two songs are actually listenable (last week's **Best of Irish Rock** has some real gems on it). If I bring blank CD's, I can burn whatever I feel like listening to that week, and then throw them away at the end of the trip so I don't have to lug them home with me.
+- **Bring less stuff, or bring an extra bag**: I've never been on a two week business trip before, and have accumulated a whole bunch of stuff to bring home (never let me loose in a sporting goods outlet). Packing was a pain, even though dirty clothes seem smaller than clean clothes, there still doesn't seem to be enough room for everything (hence the gigantic backpack). Maybe this one should be **Bring less stuff home**...
+- **Take more drugs**: I figured this one out the last time, but I think maybe I should have kept it up a couple more days this time. I get horrible jet lag. The only way I've found to conquer it, or at least placate it is Tylenol PM. It works like a charm. Take two the first couple nights, then go down to one for the next three days. Also, if you come to Ireland in the winter, it's cold, wet and windy... and the environmental controls are typically European. If you're an asthmatic like me, this is a bad thing. So, make sure you have your inhaler with you at all times. Take the wickedest decongestant you can find, and try to keep warm. It will help.
+- **Download TV**: I can totally justify this. I have TiVo at home, and these shows are sitting there waiting for me. I subscribe to HBO and Showtime, so I'm not stealing, since I've already paid for the shows. There, my conscience is clean. Use BitTorrent, grab **Azureus**, and check out [tv-swarm](http://www.tv-swarm.com). Get your torrents, leave your laptop on overnight, and voila, TV from home (because, really, TV here is pretty scary).
+- **Bring a thumb drive**: It made sharing TV with the other guys I was traveling with a lot easier ("I'll trade you a **Simpsons** for a **Desperate Housewives**.")
+- **Get out of the city**: It doesn't matter where you are, get out of the city. You'll have more fun and see more stuff.
+
+There you go... Other than working, this trip was a lot of fun. [Porter](http://www.g9g.org) and Aaron were a lot of fun to hang out with, and the Dublin guys are a hoot. Ireland is a gorgeous country with beautiful people, and an impressive collection of FDOS (Falling Down Old Stuff). I'd recommend it to anyone looking for something other than amusement parks and cheap tourist traps. The people are extremely friendly and helpful. The countryside is so green you won't believe it, and the food is an eternity better than anyone can express.
+
+Yeah, let's talk about that... I've now spent about twenty-five days in Ireland between this trip and the last one. In that time, I've not had a bad meal. Not one. I was told by lots and lots of people that Ireland's just like England: everything's boiled and the food is horrible. Far from it. I'd put Dublin's restaurants up against almost anyone's in the world. Even out in the country, Irish pub food is really good, especially BLT's. Why? Because they use Irish bacon, the best friggin' bacon in the world (no lies, better even than French bacon, and I _love_ French bacon). If you come to Dublin, expect to eat too much... way way way too much. Don't miss the Irish breakfasts, skip lunch, and then splurge on one of Dublin's fantastic restaurants. Here's a short list of my favorites:
+- **Roly's Bistro**: By the American Embassy (which looks like a big militaristic waste bin with a scary metal eagle on it). The best meal I've had since France.
+- **Odessa**: The best beef, and the funniest waitresses.
+- **Ouzo**: Cute little basement cafe on Baggot Street. Great specials, and the steaks look divine.
+- **Embassy Grill**: Take away kebabs of the gods, across the street from Roly's.
+- **Red Arrow**: No idea where, on the way to Long Mile Road from the canal. Hop in at dinner time for fresh cod and chips... and a heap of local color.
+- **Baan Thai**: Also across from Roly's. Best Thai food I've ever had.
+- **La Paloma**: In Temple Bar. Great Spanish food, funny and friendly service, and (according to the guys) really good wine that's not horribly expensive.
+
+That's just a smattering. There are a ton more that I can't remember the name of at the moment. You won't starve and your tummy will be happy... especially if your company is footing the bill.

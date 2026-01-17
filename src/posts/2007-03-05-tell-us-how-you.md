@@ -1,0 +1,21 @@
+---
+title: Tell Us How You Really Feel
+date: 2007-03-05
+tags:
+  - "aol"
+slug: "tell_us_how_you"
+---
+
+I hate it when people say "tell us how you _really_ feel." Hate it. Why _wouldn't_ I tell you how I really feel? You asked. Would you rather I lie to you?
+
+We've been having this internal discussion about passion, how to change things inside the company, and how things could be better. It's been going on for a while, but a presentation I did with a bunch of pals last week (called **Guerilla Web 2.0** - I'm going to see if I can release the audio and slides publicly) really sparked something, and I keep coming back to that statement (which people have said to me a lot recently, which is why it's stuck in my head)... "tell us how you _really_ feel."
+
+If you want to change things, don't stay silent. If you're passionate about what you do or what you _want_ to do, don't hide it. The **only way things change is if people speak up**. I've had this quote from **Angels in America** on my phone for ages and peek at it every once in a while:
+
+> We won't die secret deaths anymore. The world only spins forward. We will be citizens... the time has come.
+
+Now, that's about something a lot more serious than technology, but the line has stuck with me. If you want something to change, don't suffer in silence. If you want something to change, get off your ass and _make it happen_. If you can't convince anyone, or fail the first time, then go back and find a new message that will. People assume that things are the way they are for a reason, and they're just not. A lot of times, they're an accident or an unintended consequence of another decision.
+
+There's a flip side to that: that we need to "protect" management from issues. Nope. If something's broken and it's important, they need to know about it. They're not fragile, nor are they immune from mistakes (and if they are fragile, they probably shouldn't be managers). Most of them are human beings, and if they know something is broken, they'll try to fix it. If they're decent (and I think 95% of them are), they'd prefer to have happy employees than disgruntled semi-postal ones.
+
+The next time someone asks you to tell them how you really feel, **tell them**. Don't be hostile, don't embellish or hyperbolize, but dammit, tell them the truth. Nothing will ever change if you don't. If we keep it to ourselves and suffer "secret deaths", there's no one to blame but ourselves. If we speak up, at least we've made the first step in making things better. If others fail to take that information and do something with it, it's on them.

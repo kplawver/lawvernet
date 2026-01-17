@@ -1,0 +1,18 @@
+---
+title: Keeping Track of the Big Idea
+date: 2006-08-19
+tags:
+  - "family"
+  - "ruby-on-rails"
+slug: "keeping_track_of_the_big_idea"
+---
+
+I was playing around with my [Dreamhost](http://www.dreamhost.com/r.cgi?42210) control panel recently and noticed that there was a new one-click install for [activeCollab](http://www.activecollab.com). Being the curious sort that I am, I figured, "I've got unlimited domains, and practically unlimited disk space, what's one more?" and installed it. It's great. It's still pre-1.0, but there are enough features, and it's so well designed, that it's very usable. I've started using it to keep track of the [side project](/archive/2006/08/11/h21_progress_on_rails.php) so when I'm bored and need something to tinker with, I can tinker towards something instead of just watching TV.
+
+Today, I added all the stuff Jen wants to do to the house (not surprisingly, that list is a lot bigger). I now get what all the GTD'ers are talking about. It makes me feel a whole lot better seeing everything in sections, with proposed due dates and milestones. It now doesn't seem impossible. There's a _lot_ to do, but with my handy-dandy copy of **Home Improvement for Dummies**, I think I can do a lot of it myself.
+
+So, if you have [Dreamhost](http://www.dreamhost.com/r.cgi?42210), give it a shot the one-click way. If you don't, go [download it](http://www.activecollab.com) and give it a shot (umm, you should be fairly comfortable installing things on your webserver and setting up databases... if not, [go get a Dreamhost account](http://www.dreamhost.com/r.cgi?42210) - can you tell I like Dreamhost?).
+
+If you don't have an account and want one, if you enter the promo code **lawver\_dreamhost** when you [sign up](http://www.dreamhost.com/r.cgi?42210), you'll get a 10% discount on any of the level one or two accounts. Why? Because I love Dreamhost and I think you will too.
+
+Yes, I know this post feels kind of spammy, but both things are really cool, and they both make me happy.

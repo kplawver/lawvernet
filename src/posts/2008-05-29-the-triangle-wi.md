@@ -1,0 +1,17 @@
+---
+title: The Triangle Will Keep on Turning
+date: 2008-05-29
+tags:
+  - "aol"
+slug: "the_triangle_wi"
+---
+
+I made it to thirteen years at AOL. It started as a summer job _way_ back in 1995 at the AOL call center in Tucson. I talked to AOL members who needed help. I was there for the summer of busy signals, and took more than two hundred and fifty phone calls in an eight hour shift ("Yes, it's busy. No, it's not your computer. If you'd like credit, I can transfer you to billing. Sorry!").
+
+I've built all kinds of web apps, worked with wickedly smart, fun, weird and great people. I've had better managers than I deserve and mentors I'll never be able to repay or express to them how much they helped me.
+
+I've written dozens of e-mails today to folks inside AOL and out, [posted to twitter](http://twitter.com/kplawver/statuses/822515518) and [to the ficlets blog](http://ficlets.com/blog/entry/news_be_well_do_good_work_and_keep_in_touch). I'm emotionally raw at this point, because I'm going to miss working with everyone and seeing them every day. I'm not good with good-byes, and I've said enough for one day.
+
+If the previous three paragraphs aren't clear, after thirteen crazy years, I'm leaving AOL. Yep. Last Monday, I got an interesting e-mail from a [recruiter](http://rorpower.com) asking me if I'd be interested in a VP of Development position at a small company. I said, sure, I'll talk to them. Several dozen e-mails, a dozen or so phone calls and an offer later, I'm joining [Music Intelligence Solutions](http://www.uplaya.com) on 6/9. I'm more excited and nervous than I've been since Jen and I packed up and moved to Northern Virginia nine years ago.
+
+There are, of course, many more things to say, but I'm worn out.

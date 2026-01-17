@@ -1,8 +1,0 @@
----
-title: "Howdy"
-date: 2006-08-01
-categories: 
-  - "jen"
----
-
-This morning while I went out, the dishes didn't get washed.\\ Then later, when I came home and collapsed on the couch exhausted, the dishes still didn't get washed.\\ And now, while I am goofing off by typing this, THE DISHES STILL AREN'T WASHED.

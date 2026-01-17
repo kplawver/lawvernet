@@ -1,0 +1,15 @@
+---
+title: Too Much To Say
+date: 2002-04-19
+tags:
+  - "max"
+slug: "too_much_to_say"
+---
+
+Max woke us up last night crying. That usually means he's lost his pacifier and just needs help finding and reattaching it to his face. I hopped out of bed, wandered down the hall and when I opened the door was attacked by a smell I don't remember smelling before. It was a combination of vinegar, summer deli dumpster and dill pickle juice. Max had puked all over himself, his clothes, and his bed. I grabbed him, ran him to the bathroom, fired up the tub, stripped him down, wrapped him in a towel and held him until the tub was ready. He was shaking uncontrolably, and visibly uncomfortable, so I put him in the tub, washed him off quickly, washed the vomit from his hair, grabbed him out of the tub, dried him off, ran him downstairs, put on a fresh diaper and put clean jammies on him. Just as I was standing him up to pull his flannel pants up, he let loose another pink deluge of partially digested food all over me and the towel. I caught most of it either on me, or the towel, sparing him the need for yet another change of clothes. The smell, again, was amazing. I had to fight back my own heaves just to keep catching chunks and hold him up so he didn't fall off the changing table.
+
+It was great fun. Jen and I spent the next two hours on the couch with him in my lap. I held the bucket and did my best to catch the ensuing expulsions. I'm pretty proud of myself. I only missed the first part of the first one after we sat down, and that was only because he overshot. I was able to catch the rest in the bowl, keeping him nice and dry and me less puke-stinky. Jen sent me to bed after it looked like he was all done and worn out. She laid down on the floor in his room with him, and I tried to get back to sleep. I think I may have gotten about 4 hours of sleep, but it wasn't very restful. He's feeling much better today, although he's fighting eating the blah food and will only eat popsicles or pedialyte.
+
+I think we handled the whole thing really well. No one flipped out. We didn't call our parents crying for help. We did what we could do for him and comforted him the best way we knew how. I think I'm getting the hang of this parenting thing...
+
+I'm exhausted, but at work toiling away on my big project. There are so many things I've wanted to write about this week but haven't had the time to, like [Greg the Bunny](http://www.fox.com/greg), and how I want to start a Tardy fan club. The show is brilliant. I hope it lasts longer than Steve Levitan's last show (which was also very good, but stuck in the morass that NBC Thursday night has become - Must Cancel TV), **Stark Raving Mad**. I was going to talk about this whole "warblogging" thing, but it's old and getting older the more I read. I want to talk about James Lee Burke and how everyone should read him, how much I love to hate the South, the joys of toddlers and the many things I've learned about being married. But, they'll have to wait for some other time. Now, it's back to work and answering the minute-by-minute e-mails flooding my box.

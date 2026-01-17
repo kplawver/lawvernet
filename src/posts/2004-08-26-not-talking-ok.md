@@ -1,0 +1,17 @@
+---
+title: "Not Talking, OK, I'm Talking About It"
+date: 2004-08-26
+tags:
+  - "politics"
+slug: "not_talking_ok"
+---
+
+I was going to write about politics and the tactics of the Bush campaign (and their pals, who aren't coordinating even though they share at least two members... because that would be illegal, and no member of the Bush Administration has ever done anything illegal... oh wait, they have), but I just can't. I'm too upset about it to write coherently. Everyone else is doing a fine job of debunking the out and out lies of the Swift Boat Vets for Complete BS. But, people are still paying attention to what happened 35 years ago instead of focusing on the mess GW has gotten us into in our own country. Over the past three years, the number of uninsured Americans, and Americans living below the poverty line has increased **every year**. The tax burden has shifted from the upper class to the middle class (according to the non-partisan CBO, no less). The new jobs created this year average
+
+$9,000 dollars less a year than the jobs they replaced. Over 900 soldiers have died in Iraq. 60,000 people have been injured in the conflict. There's now news that children as young as ten were abused in Abu Ghraib, and two new reports out this week move the blame up the chain from a "few bad apples" on the scene to the bad apples in charge in the Pentagon. So... the news is really great for our country, and our President still thinks we've "turned the corner". Yeah, we've turned a real nice corner, right into a dark, dead-end alley.
+
+OK, maybe I am going to talk about it. Why am I voting for John Kerry? I'm tired of having a President and Administration I have to fear. What Bush touts as his greatest strength: his leadership, has gotten us into the most trouble. His "decisiveness" has led us into a war we didn't need to fight, into a deficit we'll spend decades repairing and a "war on terror" that's not addressing either the causes or sources of terror.
+
+John Kerry is intelligent, competant and steady. He doesn't have the personal failings of Bill Clinton, or the incompetancies of George W. Bush. He has more foreign policy experience than almost anyone who's ever held the office, and will be an effective Commander in Chief. He may not be spectacular, exciting or interesting, but he's competant and reasonable, which is more than we have today.
+
+How sad is it that we're talking about what happened, or didn't, in Vietnam? Why do we care? I wasn't alive then, so I surely have no horse in the race of who deserves the medals they have. I do know that anyone who volunteers to serve his country in hostile territory earns more of my respect than someone who didn't. Someone who was awarded three Purple Hearts and a Bronze Star has more of my respect than someone who didn't. Whether John Kerry was in Cambodia on Christmas Eve 1968 or was just "really close" means nothing to me. I don't care. Our President has failed us miserably when we needed an effective leader the most. His bravado is only matched by his incompetance. Look at where we are... occupying a people who will not rest until we're gone or dead, fanning the flames of the very terrorism we've vowed to stamp out, dealing with an economy that's losing good jobs and replacing them with inferior ones, building a deficit that towers over any in our country's history, and a military that is guilty of war crimes and torture. We shouldn't be here. Look at what George W. Bush has done to us. He doesn't deserve to be our President anymore.

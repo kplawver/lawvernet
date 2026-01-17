@@ -1,0 +1,24 @@
+---
+title: Announcing I Am Alpha
+date: 2006-01-17
+tags:
+  - "aol"
+  - "css"
+  - "javascript"
+  - "web-standards"
+slug: "announcing_i_am_alpha"
+---
+
+I can finally reveal what I've been working on for the past couple months that's making me write all this javascript. It's [I Am Alpha](http://iamalpha.com), something kind of new and interesting for AOL. Why? AOL doesn't do public development. We're usually very close-lipped about what's going on with a product. We just launch stuff on an unsuspecting public. We also don't often foster any sort of interaction with the outside developer community. There are things like [AOLserver](http://aolserver.com) that's open source, and the new AIM plugin stuff is open to the public, but I can't really think of much else we've done in the area. That's changing, as of today, with this thing.
+
+What is it? Well [I Am Alpha](http://iamalpha.com) is just a prototype to give folks some idea of what's coming, and to introduce our [microformat for transporting modular content](http://iamalpha.com/.developer/profile) and the idea of creating modules for this new product.
+
+I think this is really cool. No one's paying me to say it's cool, either. I think getting more people to create microformatted content is great, and I think [our microformat](http://iamalpha.com/.developer/profile) is pretty cool ([don't know what a microformat is?](http://microformats.org)). I think some of the stuff we don't have a live prototype for, like [server-side modules](http://iamalpha.com/.developer/create.jsp#server-side) is super-cool.
+
+It's going to be a little rocky. We don't have a lot of experience with the whole public development thing, and a lot of things won't be public (old dog, new tricks), but we're trying. We're really really trying. We're going to be using [Dojo](http://dojotoolkit.org) for our internal framework and for modules. We've released the microformat under an extremely liberal license, and with this alpha, are actively seeking feedback.
+
+It's great to be involved in a product at AOL that feels so open, and with forward-thinking standards at its core. It didn't take hours and hours of red-faced pleading to get us to create a microformat for modules instead of YATXS. It didn't take kicking, punching and hiding bodies to get us to agree to create (as much as we can) valid, accessible pages. Of course, we don't control what goes into modules, but we've set up the pages that will be saved (the current ones aren't perfect or what's going to be final, to be sure) will be valid XHTML, and we're requiring that all modules are valid too.
+
+Oh yeah, and it's the first public facing thing I've done at AOL where I was the designer and wrote almost all of the content. So, if it sucks, it's my fault. I didn't build the prototype, but I helped design the microformat, the server-side module process, and wrote 95% of the documentation. Hooray for flying under the radar!
+
+I'll try to keep the posting about it here to a minimum. Mostly, I'll be yakking about it over on the [unofficial official blog](http://journals.aol.com/alphablogger/alpha/). Come join in the fun!

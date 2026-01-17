@@ -1,8 +1,0 @@
----
-title: "Mini Golf"
-date: 2010-03-07
-categories: 
-  - "family"
----
-
-Last weekend we took the boys mini-golfing. Even though I got two hole-in-one's, Kevin won. I blame the stupid water hazards that got me every time! He and I will be rematching soon. The kids had fun and did really well too. Here are some pics: [Clicky here.](http://www.flickr.com/photos/kplawver/sets/72157623442869105/)

@@ -1,0 +1,15 @@
+---
+title: Molto Kevino
+date: 2003-02-18
+tags:
+  - "cooking"
+slug: "molto_kevino"
+---
+
+I am a cooking machine. Thanks to [Molto Mario](http://www.foodnetwork.com/foodtv/show/0,6525,MB,00.html), I've been experimenting the past couple nights with new and crazy non-recipe based dishes. For example, last night I made pounded chicken breasts rolled with fresh mozarella and fresh basil in a diced tomato sauce over vermicelli. Man, was it good. I flattened the chicken breasts by repeatedly walloping them with a rolling pin. Then, I put a fresh mozzarella ball, ripped in half, and one basil leaf on each breast, and then rolled them up. I fastened the end down with two toothpicks. I then heated up a quarter cup of olive oil (whatever covers the bottom of the pan) under meadium-high heat. Once the oil was hot (it dimples a little on the surface when it's ready). I used tongs to drop the chicken rolls in. I browned them on all sides, then turned the heat down to medium to simmer the rolls for another fifteen minutes. After I thought they were almost done, I took them out of the pan and set them aside. I then threw in one diced onion (it was small, you might want to use half of a large one), and two sliced garlic cloves. Once the onions were brown at the edges and translucent, I poured in a can of diced tomatoes. I let that cook down for a little while, then put the chicken rolls back in. I let this melange simmer for ten minutes until the pasta was done. I again removed the rolls from the sauce, drained the pasta and then threw the pasta into the pan with the sauce and tossed it with a couple ripped up fresh basil leaves. Voila, yummy yummy.
+
+Tonight, I wasn't in the mood for reheated chicken stew, so I grabbed some boneless pork chops from the freezer, defrosted and then (again) pounded the hell out of of them with the rolling pin. I think they were still slightly frozen, so they didn't get as flat as I wanted, but hey, that's OK. I then cracked two eggs into a bowl, whipped them up and set them aside. I then poured half a cup of flour into another bowl and mixed in the following: bunches of cayenne pepper, green chili powder (you could substitute curry and cumin), black pepper and some salt.
+
+I dragged the pork chops through the eggs and then through the flour - both sides - lightly covering it. Then, I dropped them into the same amount of heated olive oil I used on the chicken. I let it sit on one side for about ten minutes to get it nice and brown, then flipped them and let them sit for ten minutes on the raw side. I flipped it again, letting it sit on each side for seven more minutes. The chops were just perfect. They were crunchy on the outside, juicy and tender on the inside and yum-tastic.
+
+This Saturday, they're having a chili cook-off at church. I'm planning on making sirloin chili. I can't wait to get started. I'll let you know how it goes.

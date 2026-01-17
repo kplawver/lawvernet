@@ -1,8 +1,0 @@
----
-title: "Vicious Cycle"
-date: 2005-11-21
-categories: 
-  - "ankle"
----
-
-First, there was the [contamination](http://www.lawver.net/archive/2005/11/07/h17_contamination.php). Now, it's an "infection". I have a fever, I have puss. I have new antibiotics, cultures at the lab, incredible pain that's making me watch the clock (two hours until I get to take more pain killers), and a slowly creeping disdain for my right foot.\\ I got to watch Dr. Wilson cut into my foot today, which once I got over the weirdness of seeing it happening and watching the blood come pouring out, it was kind of cool. It wasn't as bad as I thought it was going to be, although the numbing stuff they put on it didn't quite do the job.\\ It just feels like moving backwards. I was progressing. The steri-strips were off, and I thought things were healing. And then, the puss, the red, the white... it all came back, and here I am again with an open wound (no staples this time, it's just sitting there under 8 layers of gauze - oozing).\\ I'm ready to walk again. I'm actually longing for the stupid black boot. My foot is _still_ too swollen to fit in the boot, which means no walking. It means more crutching (my biceps and abs are getting a workout - the one positive I can think of). It means more helplessness. It means creating ways to carry things from the fridge to the couch (under the chin, in the pockets, held in a grocery bags, etc).\\ I'm sorry, there are good things happening. I think. The family's having a great time in Hawaii (look forward to pictures... be grateful I don't have a camera in the house). Yeah, that's about it.\\ **update** - Feeling blood seeping out of my foot feels really really gross.

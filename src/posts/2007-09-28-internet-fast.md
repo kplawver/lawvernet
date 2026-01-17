@@ -1,0 +1,28 @@
+---
+title: The Internet Fast
+date: 2007-09-28
+tags:
+  - "aol"
+  - "geekery"
+  - "kevin"
+slug: "internet_fast"
+---
+
+I've been stressed out a lot lately... and pretty consistently for the last two years. It finally came to a head this week, and I decided I needed a break from everything. So, I decided that yesterday through Saturday, I would try to live completely without the internet: no blackberry, no laptop, no wi-fi, no nothin'. Since it's only Friday afternoon, you can see - it didn't go so well.
+
+I've worked for AOL for over **twelve years**. In that time, I've only been completely offline for more than twenty-four hours **twice**: first when a bunch of friends and I went to Carlsbad Caverns and none of us had laptops yet (this was 1998), and in 1999 when Jen and I got married and went on a three day cruise. That's over eight years of pretty much constant connection to e-mail, IM, and everything else.
+
+Back to the break... in the beginning of my internet life (1995), it was just e-mail, and not a lot of it. I worked with a relatively small number of people, I was relatively isolated within the company, and wasn't involved in anything outside of work that would produce much e-mail. Then, came the buddy list and instant messaging. OK, two forms of interruption, but pretty much exclusively used for work and at work. Fast forward 12 years, and now here's what's built up in the almost thirty-six hours I was able to stay away until the DT's got me and I _had_ to check:
+
+- over 270 e-mails
+- over 2,100 unread items in my feed reader (from 581 feeds - recently pruned down from 680 - and I just marked them all read... didn't even read 'em - it you blogged something you really need me to read, send me e-mail)
+- untold messages on twitter (I haven't even checked... thankfully, I can ignore all of them and I don't think anyone's feelings will be hurt)
+- 45 Facebook notifications (also ignored, mostly because I don't like Facebook)
+
+I checked recently and I receive, on average, 21 instant messages an hour (that's almost 200 during the course of my regular 9 hour work day).
+
+If you figure that out over twenty-four hours and consider the last day and a half "average" (it feels like the normal flow), I handle over 1,700 distinct pieces of communication and information a day, and still manage to do my _real_ job, which is not to just read e-mail, respond to IM's and read feeds. This pace has only increased in the last five years, and doesn't show any sign of slowing. It's only getting worse.
+
+I'm not sure what the point of this was, other than to document for myself how bad my information overload is and trying to explain to myself that it's OK that I was overwhelmed. Dealing with this ever-increasing torrent of data every day for over a decade - it's OK to take a day off. It's OK to let people answer their own questions, let the world keep spinning while I take a day to close my eyes and read a book (I've been reading **Pilgrim at Tinker Creek** by Annie Dillard to try to cleanse my system from all the technical books I've been reading in my spare time... the most beautiful English prose I've read in a long time - a modern **Walden**).
+
+I have another blackout day coming. Monday, I'm heading to London for the [Future of Web Apps](http://futureofwebapps.com) conference. I'm looking forward to the speakers, but, I'm really looking forward to the eight hours of uninterrupted (well, mostly) reading time on the plane where there's no _way_ for me to check my mail.

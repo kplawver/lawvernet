@@ -1,0 +1,16 @@
+---
+title: The Crippled Conference
+date: 2006-03-12
+tags:
+  - "ankle"
+  - "sxsw"
+slug: "the_crippled_conference"
+---
+
+I was really looking forward to SxSW this year. I'm moderating a panel I'm really excited about. I get to see all of my south-by pals, go to amazing panels and eat good food. It was a good plan, until I went to pick up the rental car and rolled my ankle turning to talk to someone. I don't know if it's bad or not. I don't know if it's just a mild sprain (which is what I thought it was the first time), something serious, or nothing at all. It's the first time I've tweaked it since surgery, and I'm freaked out. It's swelling more than usual, which may be normal because I'm doing more walking. It hurts, which also may be normal with all the walking.
+
+What do it all mean? It means I'm not doing a bunch of stuff at night, and I've already skipped one keynote so I can ice and shock it (yes, the home electrocution kit made the journey). It means I'm missing out on a bunch of stuff, and that makes me sad. I had to skip out after dinner last night to ice myself into oblivion. Have you ever had ice directly on your skin to the point that it burns, till your skin turns red?
+
+Yes, I'm just feeling sorry for myself. I'm still having a good time. I'm still extremely excited about my panel. I'm still ecstatic to hang out with my pals and meet new people. I'm excited about other peoples' panels. My favorites so far have been **Creating Passionate Users** (see [the blog](http://headrush.typepad.com/creating_passionate_users/)) and **How To Be A Web Design Superhero** from [Andy Clarke](http://stuffandnonsense.co.uk) and [Andy Budd](http://andybudd.com). Both were very well done, and I got a lot out of them (now, I totally need to redo [I Am Alpha](http://iamalpha.com)). I am in complete envy of the Andies slides. They were the _best_ slides I've ever seen, and I don't normally like slides. If you were there, you know what I mean. If you weren't, imagine a comic book as a presentation and then throw in some complimentary motion, and that it fits perfectly with the tone and timing of the panel. Yep, they were that good. It makes my poor little s5 slides look a little anemic. But, I'm not a designer, and I think the content is good, so we'll go with them and see what happens. You can even [get the slides](http://www.stuffandnonsense.co.uk/downloads/super.pdf) yourself!
+
+If you see me hobbling around, please say hi. I would love to meet you. Also, _please_ come to our panel Tuesday morning at 10!! We're in the "big room" according to the mini-schedule, and it would be kind of embarrassing if no one showed up.

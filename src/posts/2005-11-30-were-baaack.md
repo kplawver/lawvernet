@@ -1,0 +1,19 @@
+---
+title: "We're ba-aack."
+date: 2005-11-30
+tags:
+  - "travel"
+slug: "were_baaack"
+---
+
+We're finally home. I am tired, sneezy, and swollen. Max slept from 8 pm last night to 10:30 am this morning. I guess the boy was tired too.
+
+Before I get into the details of our trip, a few thoughts:
+
+I am sad Kevin couldn't come. But the 2 bedroom cabin was small and probably would have felt cramped instead of cozy if he'd come. Since I was vacationing with _my_ parents, I felt no qualms about sneaking a nap on their bed or hiding in their room at night while they were watching bad reality tv (heh, I am not a fan of reality tv, can you tell?). I am not sure Kev would have felt so comfortable doing that (just like I wouldn't hang out in _his_ parents' room without his mom).
+
+I loved Hawaii and am so glad we went for 2 weeks, instead of the 1 week my dad was pushing for. I wish we could have stayed longer, but also feel satisfied with our trip. I can't believe that there were still things we didn't manage to do, even though we were there for so long.
+
+We stayed in a cabin that was only 20 feet from the ocean at Bellows Air Force Base on O'ahu. The base which was much nicer than I expected. They had tennis courts, paint ball facilities, miniature golf, hiking trails, kayak tours, snorkeling, craft lessons, free movie showings at the rec center, DVD rentals, fishing, internet terminals, an arcade, camp grounds and more. Of course, the best part was the beach. It was beautiful and really uncrowded. At its busiest, there were only 4 other families there when we were at the beach. If you plan on going though, I would recommend you stay at the Hale Koa, the military rec hotel in Waikiki, for a few days and do all of your Waikiki touristy stuff so that by the time you get to Bellows, you are ready for rest and relaxation without the pull of being an active tourist.
+
+More later. Aloha!

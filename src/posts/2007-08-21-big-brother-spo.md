@@ -1,0 +1,25 @@
+---
+title: "Big Brother Spoilers Below!"
+date: 2007-08-21
+tags:
+  - "tv"
+slug: "big_brother_spo"
+---
+
+I've joked in the past about being a bad mom, a bad friend, maybe even a bad wife. Tonight, I come to you humbly to admit, with no reservation or joking, that I am truly a bad, bad person: I LOVE BIG BROTHER! Kevin's all sad and thinks it is a train-wreck of a show because the people are mean, dumb, and selfish. I, however, think it is entertainment gold because the people are mean, dumb, and selfish. I haven't intentionally watched Big Brother since the first or second season, but this season just grabbed me from the start (I was in the room when Kevin watched the premiere).
+
+Amber asking, "What's integrity \[etc\] mean?" Priceless.
+
+Amber crying while saying that she was done crying. Priceless.
+
+Amber adamantly saying that she wasn't going to agree with anything Danielle offered and then _volunteering_ to give away ALL of her power to Danielle? Priceless.
+
+And just so you don't think it is all about Amber, Zack cock-blocking Eric was so awesome! Add in Eric's squeaking and it becomes... Priceless.
+
+I don't like any of these people, so watching them go at it is entertaining as hell. However, I feel like an attendee at one of Michael Vick's _parties_. I need a shower.
+
+My one non-bitchy thought: I am naively hopeful that Amber or Danielle will win something during their surprise trip. It won't happen, but the thought makes me squeee. Really.
+
+Also, I don't mind Amber's focus on God, but I wish someone could give her some kind, but faithful, perspective. I am sick of the sentiments like this one from TWoP: "...perhaps the lord has been remiss in his duties in Iraq because he has been planning this big event for Amber." I laughed, cuz yes, I am a bad person. But really, maybe God is blessing Amber by not winning. Seriously. Or maybe God gave her a vision (I am just going to accept that she believes it) so that she would have the confidence to win 2nd place and get to go on a neat trip and/or to get off of the block.
+
+CBS has been editing the hell out of the show- not showing Dick's misogynistic attacks on the women, Amber's anti-Jewish rant. But whatever, I am enjoying the show. Like I said, I am a bad bad person.

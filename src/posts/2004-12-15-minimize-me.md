@@ -1,0 +1,19 @@
+---
+title: Minimize Me
+date: 2004-12-15
+tags:
+  - "family"
+slug: "minimize_me"
+---
+
+I can write about this now because it's working. Have you seen [Super Size Me](http://www.imdb.com/title/tt0390521/?) Well, I rented it shortly after it came out on DVD, and it's changed how I eat. After watching it, Jen and I both decided to completely cut out fast food. So, for the past three months or so, no McD's, Chik-fil-a, Wendy's, BK, KFC or Taco Bell. We initially thought it would be difficult because there are those nights where making dinner just seems impossible. But, it's worked. I haven't even really been tempted, and I used to eat McD's, at least for breakfast, at least twice a week.
+
+It's worked so well, that I'm back dieting again, and have lost twenty pounds in the last two months. I'm down to my lowest weight since I started trying to diet (I think it was two years ago, but it could have been just one). I now weigh less than most NFL linemen, and I'm inching closer to middle linebacker.
+
+If you haven't seen it yet, go rent it. Or, better yet, buy it and loan it to all your friends. It's amazing the things we're convinced to put in our bodies, and how our food gets to us. If you get the DVD, you should really watch the **Smoking Fry** bit, and Morgan's interview with Eric Schlosser (who wrote **Fast Food Nation**).
+
+We also signed up for CSA (Community Supported Agriculture) from [Great Country Farms](http://www.greatcountryfarms.com). [Max and I went there in August](/archive/2004/08/07/h20_the_best_weekend_ever.php) and had a great time. Their produce is excellent, and I can't wait to get it every week next year.
+
+Dieting is a lot easier when it's **for** something. When it's not self-deprivation, but for a reason, it's a whole lot easier. I think I'll be able to keep the weight off this time (because now, even when I'm not paying attention to what I eat, I'm not gaining anything back, and am still losing weight). It's not a diet, it's just how I eat now, which feels great. That isn't to say we don't go out anymore. We do, and I still splurge on the occasional country-fried steak. But, we do it at restaurants, not fast food places. On top of that, we try to eat at locally owned places when possible. We eat at Linda's or Amphora instead of IHOP. We go to Emilio's when we want good pizza (and boy, it's good). I've got more to say about the local business thing... a whole new project I'm working on (very slowly... keep getting interrupted).
+
+So... go watch it. It'll change you.

@@ -1,8 +1,0 @@
----
-title: "Blargh"
-date: 2007-01-31
-categories: 
-  - "jen"
----
-
-Max is still sick, but happy in spirit, and I am tired of it! (Him being sick). I haven't been able to go to Costco, my household routine is in disarray, and Brian and I are tired of staying inside. And I am sure as heck tired of getting up early in the morning, unnecessarily. Booooooo to it all.

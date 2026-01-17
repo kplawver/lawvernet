@@ -1,0 +1,16 @@
+---
+title: I forgot the mainpoint of my post earlier
+date: 2008-06-03
+tags:
+slug: "i_forgot_the_ma"
+---
+
+So, where was I? ... Oh yes, the Red Cross says that my blood is special and extra-needed and I feel extra motivated to donate more. THEY SHOULD TELL THIS TO EVERYONE. They don't even need to lie, "Your blood, Ms. Jones, tested positive for virus chryosomethingoranother. We need your blood to treat patients with serious injuries and illnesses." See? No lying or truth-fudging.
+
+In other news, the carpet guys are still here. Kevin is upstairs putting furniture back where it belongs, reassembling one of the kids' beds even though it is not his responsibility. This means he will be too tired to help me with the "real" to do list later tonight. The good news is that the upstairs carpet looks nice. It's just light brown. The bad news is the carpet in the basement makes my eyes cross. It's two-toned berber and is just busy-looking. Oops. The carpet guys also didn't do one area completely and then work on the second area- they did them simultaneously- which means that my plan of working on the basement when they moved to work upstairs was totally shot. Oh well. More for me to do later.
+
+Brian's got the pukey-sickness again. Ugh.
+
+I am about 2.5 seconds away from exploding from the stress.
+
+ETA- I just canceled the painters, which is a huge load off. I just couldn't keep up, moving things from place to place in the wake of/in prep for the various goings on here. Phew. I'mma gonna rest for a bit.

@@ -1,0 +1,28 @@
+---
+title: Talk about burying the lead
+date: 2008-11-11
+tags:
+  - "beach"
+  - "brian"
+  - "jen"
+  - "kevin"
+  - "max"
+---
+
+I want to blog, except I don't really have anything to say. So, mundane details it is!!
+
+Max received his first quarter report card. He got all A's and E's (exceeds expectations) except in music where he got a 'meet expectations.' He has school until almost 4, which doesn't leave a lot of time for more than homework, dinner, and a bit of down time. I want to get him into sports or music, but most of them start too late and keeping everyone healthy for more than 2 weeks in a row has been a challenge.
+
+Brian has school three days a week and really enjoys it. He gets a little bit of Spanish, music, and art. Considering how inexpensive it is and the fact that they had openings, I am surprised of the quality of care. He had a check up last week where he was pronounced mostly healthy. He has slight allergies and eczema, which we are treating with OTC allergy meds and fish oil. He was really well behaved for the almost 2 hours we were there. Several of the staff commented on it. :)
+
+Kevin works a lot. He also grills a lot and listens to music. I think that is all I have to say about him.
+
+The doctor upped my dosage of anti-crazy medicine. YAY! I love not being crazy. I'm not sure if it is working yet. Kevin could probably tell you though.
+
+We went to a bbq over the weekend that was set here: [iconic Savannah](http://www.flickr.com/photos/kplawver/3018612679/). It was really beautiful, like a movie setting.
+
+Since we have family just outside of DC, I am thinking of taking the boys up for Obama's inauguration. It's the day after MLK Day. Imagine all of the fun parades and festivities! The 10-hour drive is kind of daunting though since it will be just 3 weeks after our last 10-hour drive and Kevin won't be coming with us.
+
+On Saturday, Nov 15, there is a [national protest against Prop 8](http://jointheimpact.com) in almost a hundred cities across the country. [Check for a location near you here](http://jointheimpact.wetpaint.com/). We're taking the kids down to Jacksonville to participate since it is closer than Atlanta. It also seems like a better choice since Florida just passed a similar measure.
+
+Last Friday I took the boys to the beach because I thought it would be the last nice day. But nope! The boys have today off for Veteran's Day and the weather isn't bad, so we are going to the beach again. YAY for living so close to the beach.

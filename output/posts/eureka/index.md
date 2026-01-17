@@ -1,6 +1,0 @@
----
-title: "Eureka!"
-date: 2008-06-01
----
-
-Oh my heavens! I just realized that Kevin can help me get ready for the new carpet tomorrow after he gets home. Hallelujah. My plan today was to finish up the basement. I am about 5 trips away from being done but I'm TIRED. And I can't just do it tomorrow because I have the boys' rooms to finish. Oy. But then I remembered Kevin. Wheeeee.

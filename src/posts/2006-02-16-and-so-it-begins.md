@@ -1,0 +1,17 @@
+---
+title: And So It Begins
+date: 2006-02-16
+tags:
+  - "travel"
+slug: "and_so_it_begins"
+---
+
+Thus begins the Spring Travel Bonanza! It got off to a good start last night with dinner @ [Taqueria Los Charros](http://www.mountainviewca.net/restaurants/taquerialoscharros.html) with [my brother](http://tim.lawver.net), [Kristin](http://booboolina.com), [Jessa](http://jessajune.com), Valerie (from AOL), Arun (also from AOL), and Michaela (yep, you guessed it). The food was great (mmmm, carnitas), and the company was excellent. Even though I'd spent 6 hours crammed in the window seat of a plane that apparently had no ventilation, it was a lot of fun.
+
+It's been a great week so far. My appointment with Dr. Ankle went swimmingly. He says I'm doing "super" and am doing all the right things. He says my ankle looks good, and other than some knee pain (left knee, which he says is probably tendonitis from favoring that leg for the past 7 months or so), which I'm getting looked at next week, things are moving along nicely.
+
+Then, I got my annual review, which went even more swimmingly. I got a promotion! I'm no longer a Senior Software Engineer. I'm now a Principal Software Engineer, which is extremely cool. I already wrote about [my standards story](/archive/2005/09/08/h11_my_standards_story.php). I'm thinking of writing my AOL story, because it's pretty crazy. I've been with the company almost 11 years, and that still shocks me every time I think about it. To think where I started, and where I am now (and where I plan on going - the triangle's not the only thing I'm planning on turning on its ear), it still boggles my mind.
+
+Back to the Spring Travel Bonanza... I'm in Mountain View this week, then next Saturday, I leave for France to attend the [W3C Tech Plenary](http://w3.org), where I'll get to hang out with Arun, [Mr. Glazman](http://www.glazman.org) and [Molly](http://molly.com) (and all the rest of the CSS guys, hi guys!). Then, four days after that, it's off to [SxSW](http://2006.sxsw.com) and then home for a little while. Then, it's (probably) off to XTech, WWW2006 and then who knows?
+
+I like frequent flyer miles...

@@ -1,9 +1,9 @@
 {
-  "title": "lawvernet",
-  "description": "My eleventy bloggy blog",
+  "title": "Ultranormal",
+  "description": "100% AI-free half-assed writing hand crafted by Kevin Lawver about programming, life, cooking and random nonsense.",
   "url": "https://lawver.net",
   "author": {
     "name": "Kevin Lawver",
-    "email": ""
+    "email": "kevin@lawver.net"
   }
 }

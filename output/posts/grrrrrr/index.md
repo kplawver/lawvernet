@@ -1,6 +1,0 @@
----
-title: "Grrrrrr."
-date: 2006-09-07
----
-
-I hate school. Getting up at 6:30 to get Max feed, dressed, and out of the door is just too frakkin' early! Let's go back to summertime! Summertime was great! Boo to school and fall and holidays coming up.

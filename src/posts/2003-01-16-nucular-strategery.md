@@ -1,0 +1,13 @@
+---
+title: Nucular Strategery
+date: 2003-01-16
+tags:
+  - "politics"
+slug: "nucular_strategery"
+---
+
+["There's an old saying in Tennessee - I know it's in Texas - probably in Tennessee - that says, fool me once, shame on - shame on you. Fool me - you can't get fooled again." Nashville, Tenn., Sept. 17, 2002](http://slate.msn.com/id/76886/ "The Complete Bushisms - Updated frequently. By Jacob Weisberg")
+
+Wow. How did this guy get elected? Every day I watch a news conference or read the news, I cringe at what comes out of his mouth. And now the [National Sanctity of Life Day](http://search.cnn.com/cnn/redir?source=cnn&errorFlag=0&requestId=82095&clickedItemRank=1&userQuery=sanctity+of+life&clickedItemURN=http%3A%2F%2Fcnn.com%2F2003%2FALLPOLITICS%2F01%2F15%2Fbush.abortion.ap%2Findex.html) and [Patriot Day](http://www.cnn.com/2002/ALLPOLITICS/09/05/ar911.patriot.day/index.html)? On NSoLD, I don't care where you stand on abortion, and I'm not going to get into my position on it here, but how big was the wheelbarrow he used to roll his balls into the room to make that announcement? This guy has no sense of what he's doing looks like, does he? He's all for sticking us with his wacky Religious Right agenda without considering the objections of anyone who may have a differeing opinion. There are now dozens, if not hundreds of examples of the Bush (part Deux) Administration making Black and White declarations about things without knowing all sides of the issue. For example, let's create an energy policy in secret without talking to even the most conservative enviromental groups? Not one! Let's create a national Anti-Abortion day without thinking that this is a Democracy and there is a large percentage of Americans who will be offended by it (probably much larger than those who think this is a good idea)! Woo-hoo!! Ok, on to Patriot Day... What a meaningless and stupid name for a day to commemorate one of the worst acts of violence in American history. One of the others, an act of war that led us into WWII in the Pacific doesn't have a holiday. We don't celebrate December 7th. We don't give it a name. It's the day something terrible happened. Let's leave it be and let people remember it how they want or need to.
+
+Compassionate Conservatism is a joke. It's an evil joke played on the American people, and I'm sick to my stomach over it. Bush Junior has done nothing but stick it to the middle class and the poor in his time in office. He's bungled situation after situation with his unnuanced and uninformed positions and policies and I for one can't wait until I get to cast my next ballot for President.

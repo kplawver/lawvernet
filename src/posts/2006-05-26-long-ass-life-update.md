@@ -1,0 +1,36 @@
+---
+title: Long-ass life update
+date: 2006-05-26
+tags:
+  - "ankle"
+  - "brian"
+  - "daily-tedium"
+  - "family"
+  - "jen"
+  - "kevin"
+  - "love"
+  - "marriage"
+  - "max"
+  - "tv"
+slug: "long_ass_life_update"
+---
+
+**Brian** has completely left babyhood and has entered toddlerville. He's the big T-W-O now! He has tantrums, gets into all sorts of trouble, and tries to do please-let-me-have-my-way, puppy dog eyes. When it doesn't work, he laughs sheepishly. So adorable. He watches Blues Clues, loves bubbles and drawing. He loves his blankets, but isn't really into stuffed animals. At the end of the day, his feet stink-eww, the number one sign that he isn't a baby anymore. He can say: ball, bubble, apple, moon, car, and sign more. That one sign was a huge wahoo! moment for us. Mostly he just points vigorously. Apparently I have watched too much _Prison Break_ while Brian is around, because he sneaks into the dishwasher for a butter knife and then proceeds to slip it into the window casing. Silly kid. He is a great helper and assists with the dishes, laundry, and putting trash in the trash can. I know he will grow out of this soon, so I am taking advantage of it. I can't put dishes into the dish washer when he is around though, because he keeps trying to "help" me by putting the dirty dishes away and then he cries in frustration. So I just wait until bedtime and then procrastinate doing them anyway. Heh.
+
+**Max** is a kid, no longer a baby or a toddler. A real kid. At six, he is one of the smartest people I know. (Which, I only know like four people, so take that for what it is worth.) He is very creative and lovable and tall and funny. He started soccer this Spring. He has been really enjoying it, but is really bad at it. I read somewhere there is a Fall league; I am going to sign him up for it too. I also want to get him into karate. Maybe take it with him, as a mom/son bonding activity. I don't want to hit or kick blocks of wood though. Hmm, do you think he'd be embarrassed to take karate with me?
+
+Kindergarten finishes up in 2 weeks, then I am enrolling Max in summer camp. They have all sorts of cool activities and field trips planned. It sounds like a lot of fun. So only 2 more weeks of Max only having half-days away from me. Soon he'll be spending as much time away from the home as he does at home, awake. Eep! I still have things to tell him: don't eat before you swim, always wear sunscreen, and it's okay to use some phrases ironically like "raise the roof" but when in doubt just don't. Speaking of talks, I was giving Max a refresher about people not seeing/touching/showing private parts and penises and Max was all, "I know, Mom" with an eye-roll tone-of-voice.
+
+I am a mom of two real kids now. They interact like real people. I even have to seperate them sometimes! It's odd and cool, at the same time.
+
+I am at home, as usual. Now that Brian is officially no longer a baby, I have been looking into doing some volunteer work. The local shelter doesn't need any help right now. Isn't that just bizarre and, I suppose, a good thing? The Red Cross is currently at the top of my list, but I am not sure what to do with Brian. I think I may have to put this off for a few more years. I can't find a daycare place that will let me do a half-day. Their definition of part time is all day Tuesday and Thursday. Eh. I guess I could go that route, and then just pick up Brian early. We'll see. Money is meant to be spent, right?
+
+I am also looking into joining a gym, one that has daycare attached. That way, I can sit in the locker room for an hour each morning and have some peace. Ha! I am going to make Kevin come with me. Ideally, I'd like someplace with an indoor track, but they seem to be in short supply.
+
+My biggest dream right now is to spend 24 hours in bed with Kevin, only getting up to answer the door for takeout and for the bathroom. I have been trying to finagle this for over a year now, since I stopped nursing Brian, but so far no luck. We'll lie in bed together, watch movies, eat takeout, listen to music, take a nap, talk, and it will be marvelous. Ahhh. Doesn't that sound nice?
+
+My BFF was telling me that a lot of her friends are constantly fighting with their husbands. I said "I'm not." She said, "I know. You don't have to convince me of that because I _know_." Isn't that a great compliment? I am not sure how or why I got so lucky with Kevin. We have a great marriage and I am so thankful for him. Maybe because we are sometimes laid-back about the same things (how to spend money, the house) and other times only one of us really cares about other things (where to vacation, what kind of car to buy). Whatever, it works. Viva la KevandJen!
+
+Most of my tv watching happens between 6am-10am when I am awake but don't want to be and the brain isn't functioning yet. Thank heavens for Tivo, so I don't have to watch _The Today Show_. Tivo is also how I am able to provide you such witty and purposeful tv commentary like I sometimes do. I know you are all appreciative even if you don't comment. Jerks. Hey, there is a new show starting in a couple of weeks called _Wind Fall_. I expect it to be bad, but since this is summer hiatus, I will take anything.
+
+**Kevin** has started traveling for work again. He didn't finish his physical therapy before the travels kicked up. I am not sure whether he will start it again or not. He is supposed to be home most of the summer, so maybe that is something he will look into. He has been really busy, happy, and successful with work. So busy in fact, we haven't had the time to buy the new-to-us car we've decided to get. Sad, isn't it? Yea, I don't know what else is going on with him. Read his blog to the right <------------ to learn more. :)
