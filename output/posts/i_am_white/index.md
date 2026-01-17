@@ -1,0 +1,12 @@
+---
+title: "I am white"
+date: 2002-03-19
+categories: 
+  - "kevin"
+---
+
+Yes, you heard it here first. I'm pale and I'm okay with that. I joined a bowling league last night. I wore rented shoes and threw heavy orbs at unsuspecting wooden shapes, in the hopes of knocking all the them down so I could receive high-fives and well-meant congratulations. I'm a middle-class white guy who now has "bowling league member" on my resume. I even did ok for not having bowled in several years (I'm having a hard time pinning down when exactly I bowled last...). I bowled a 90 my first game, a 109 the second, and after working out most of the kinks, rolled a 147 in the last game. That's respectable, I think.
+
+The other thing I noticed about bowling leagues is how accurate [The Big Lebowski](http://us.imdb.com/Title?0118715) is. I saw several people wearing DudePants™: Brightly colored, elastic-waisted, not quite warm-up pants, pants. If you check out the cover of the DVD, you can make out the kind I'm talking about. There was even one older genteman in a purple polo shirt and purple and black zebra DudePants™. They were amazing, on top of the fact that he looked like Captain Kangeroo. He was **Captain KangerDude**, bowling on the **Greenjeans Hardware and Appliance Team**. I can't wait till next week... I never knew people watching at the bowling alley would be so much fun.
+
+In geeky news, I wrote a full-text indexer and search engine for our intranet yesterday. I love it when an idea that just comes to me actually works. I was trying to get to sleep Saturday night and just couldn't stop thinking about it. So, I came in yesterday morning, finished up everything I had to do work-wise and then spent several hours writing, tweaking, testing and laughing as I saw pages go in,and orderly lists of unique words and counts came out. It was the most fun I've had at work in a long time.

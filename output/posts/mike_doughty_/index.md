@@ -1,0 +1,8 @@
+---
+title: "Mike Doughty - Haughty Melodic"
+date: 2005-05-03
+categories: 
+  - "music"
+---
+
+Don't do anything else. Go out and get this album **right now**. It's amazing. It's gorgeous. It's better than anything he's ever done before. It's better than any **Soul Coughing** album (although individual Coughing songs are stellar, their albums were wholly uneven affairs). Every song on this album cooks with an intensity that was missing from most of **Skittish** and **Rockity Roll**. This album has some songs that match and exceed those stellar Coughing gems, and some that will stick in your head forever.\\ **Busting Up A Starbucks** is angry, raw, bluesy and powerful. Mike reaches deep, and drops his voice to a growl. The driving drums propels each verse to the hypnotic and kick-ass chorus, where the Morphine-esque sax kicks in and whirls your head around.\\ **Tremendous Brunettes** is a ton of fun. A beautiful piano line driving the song forward, with an unexpected, but perfect, guest appearance by Dave Mathews rounds out the fun. Yes, the song is as funny as the title would lead you to believe. It's great fun. It sounds almost like a sea shanty, is as much fun, and will keep you singing along at the top of your lungs on the way home.\\ **His Truth Is Marching On** is a better anthem than **Move On** (and I friggin' love that song). This one is larger, a personal plea to a higher power for that connection that's missing. The lyrics are rock solid, punching and will take you in. It's good stuff.\\ Thanks to [Jodi Chromey](http://iwilldare.com) for letting me know the album was out. Go get it. Go. Now. I mean it.

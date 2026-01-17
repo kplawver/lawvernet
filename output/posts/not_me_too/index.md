@@ -1,0 +1,8 @@
+---
+title: "Not me too!"
+date: 2007-02-05
+categories: 
+  - "brian"
+---
+
+I cannot get sick, I must not get sick, I refuse to get sick, I will not get sick.\\ Oy, I think I am sick too.\\ Brian is super sick. Took him into the doctor today, then shuffled on over to the hospital for a chest x-ray and lab work, and then back to the doctor's office for injections of antibiotics. He has THE FLU (not to be confused with, "Boss, I can't come into today because I... cough cough... am sick. I think I have the flu."), a double ear infection, his white count is elevated so maybe something else too, I don't know, and the doctor is worried about pneumonia. Brian looks so bad- his eyes are red and puffy and they are constantly leaking tears. His nose is also constantly running, so Brian has dried snot in various places around his face. His clothes and my clothes from this past weekend were frequently wet. Eww, gross, I know. He is lethargic and just wants to be rocked. He isn't eating well but he is drinking his juice and Gatorade, so no worries. I spent all day (and most of the weekend) but for 20 minutes and while I was driving, with Brian in my arms. I should have Kevin take a picture of the poor little guy. He looks like the poster boy for some charity. It's really pathetic. My left arm is killing me from holding him for so long. Brian weight 38 pounds, which is officially the size of a 4 year old. I think doctors need new charts.

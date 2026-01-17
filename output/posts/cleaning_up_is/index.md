@@ -1,0 +1,8 @@
+---
+title: "Cleaning up is fun to do."
+date: 2007-03-13
+categories: 
+  - "jen"
+---
+
+20x2 is a tradition where 20 people are given 2 minutes to present their answer to the same hypothetical question. This year's question was, "What if..." Kevin decided to do his on "What if Max were in charge?" Hee. Check out the video to the left. I heard someone did hers on "What if the internet didn't exist?" My initial response: oh the horror! '80s flashbacks with the hair and the leg warmers. Arrrrggk. I am looking forward to Kevin's recap. Aren't you?\\ Kevin's birthday is coming up. What should I get him?\\ Auntie M wanted to know why, when, how I am going to Paris. Here's the explanation: Kevin was asked to speak at a conference there in May. I decided to tag along. My mom even agreed to watch the kids. YAY!\\ I have a meeting with Max's new principal tomorrow. I am really tired of the run around I have been getting from the school, the district office, my dr's office. Even the phone book and internet haven't been useful. Grrr.\\ In slightly similar news, Anne typed in a two paragraph's of Max's favorite reading material, _The New Scientist_, into a website that can determine its reading level. One paragraph came in at 9.5 (half way through first year of high school) and another came in at 15.3 (part way through third year of college). Cool, huh? Not sure how much Max actually understands since we don't read the magazine too, but he talks about the articles a lot like he understands them. Max also enjoys reading kiddie books too, like _James and the Giant Peach_, so he's fairly well-rounded. He is even starting to get into the world culture books Nana bought him.

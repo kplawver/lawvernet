@@ -1,0 +1,10 @@
+---
+title: "I Can't!!"
+date: 2004-09-29
+categories: 
+  - "funny"
+---
+
+[I'm Mormon](http://icantimmormon.com/products/view_product.html?type=standard&product_line=products&product_id=79&name=I%20Can't%20...%20I'm%20Mormon&name2=T-Shirt). Everyone is getting one of these this Christmas, including me. OK, not **everyone**, just us Mormons. Everyone else gets [WWJD (for a Klondike bar)](http://www.tshirthell.com/shirts/tshirt.php?sku=a64).
+
+Apparently, [some people can't take a joke](http://deseret.com/dn/view/0,1249,595093852,00.html). What, you don't have non-member friends who've asked you if you want a drink, a smoke, anything? Come on, people... get real.

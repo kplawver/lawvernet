@@ -1,0 +1,8 @@
+---
+title: "Huh?"
+date: 2007-10-03
+categories: 
+  - "politics"
+---
+
+I am honestly confused by an article I read this morning: [US Sailor: Don't deport my wife](http://www.cnn.com/2007/US/10/03/military.deportation/index.html). I thought that people married to US citizens got to stay in the US regardless of their status, unless something else was going on (fake marriage, criminal from elsewhere). So, what's up with the possibility that this woman, and many more like her, could be deported? Does the law state that the husband and wife have to live together? That is the only thing I can fathom that would make the wife's future unknown, since obviously she and her husband can't live together while he is serving in Iraq. If that is the case, how frakin' easy would it be to change this stupid law as it applies to military personnel? Why is it causing such a ruckus? Come on, stupid government, fix this teeny tiny little problem and let's move on to tougher issues.

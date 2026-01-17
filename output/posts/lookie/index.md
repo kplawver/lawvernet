@@ -1,0 +1,22 @@
+---
+title: "Lookie!"
+date: 2010-08-01
+categories: 
+  - "kevin"
+---
+
+Look at this _picture_ Kevin took. Aren't the colors gorgeous? I love the bits of white poking up sharply at the bottom.\\ [![Photobucket](images/carwashsmall1.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=carwashsmall1.jpg)\\ Things like this is why I have such a hard time decorating our bedroom. I am very drawn to modern art, like above and my other favorite picture from Kevin:
+
+[![Photobucket](images/2743295922_7052d242c1.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=2743295922_7052d242c1.jpg)
+
+And I love this one:
+
+[![Photobucket](images/2761849145_9a6747d8e6.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=2761849145_9a6747d8e6.jpg)
+
+and this bokeh:
+
+[![Photobucket](images/2759002747_3e652bd0ab.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/?action=view&current=2759002747_3e652bd0ab.jpg)
+
+But I usually end up going for something more soothing (and boring).
+
+At least the pictures aren't going anywhere and when we eventually buy a house, I'll have lots of fun choices!!

@@ -1,0 +1,10 @@
+---
+title: "Moonrise"
+date: 2008-12-12
+categories: 
+  - "photos"
+---
+
+[![The moon rises over the the tidal marsh](images/3103940786_79e4c6104d.jpg)](http://flickr.com/photos/kplawver/3103940786/)
+
+The moon is closer to the earth than it's been at any time since 1993, so I had to stop and take pictures on the way home.

@@ -1,0 +1,10 @@
+---
+title: "Brian \o/"
+date: 2010-10-05
+categories: 
+  - "brian"
+---
+
+Brian's really tearing it up at school, in a good way. He received the first High Flying Hawk Award for his class for embodying the monthly theme of Peace. He has all A's on his progress report. He scored 100% on his first two Accelerated Reader tests. He has all 100% on his spelling tests each week. He got a 100% on his Summer Reading Project.
+
+Check him out at his first soccer game:\\ [![Photobucket](images/5051010448_3ec643995c_b-1.jpg)](http://s52.photobucket.com/albums/g23/jenjenhead/Family/?action=view&current=5051010448_3ec643995c_b-1.jpg)

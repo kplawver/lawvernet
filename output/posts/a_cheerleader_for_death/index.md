@@ -1,0 +1,14 @@
+---
+title: "A Cheerleader for Death"
+date: 2003-07-23
+categories: 
+  - "politics"
+---
+
+Michelle's at it again, [blasting someone who's lamenting us killing Uday and Qusay Hussein](http://asmallvictory.net/archives/003968.html). Now, I'm not sad they're dead. But, it would have been nice to capture them alive and put them on trial for their crimes. They could even be tried by the new Iraqi Governing Council, as a show that they do actually have some power. I don't see how people can view these two psychopaths' deaths as a victory for the President. He didn't find them, corner them, or shoot them. The military did. The military, and most likely military intelligence, deserve the credit for this one, plain and simple. No matter what the President says, we're still at war in Iraq. It's a different phase of the war, but still war. Claiming military victories or losses as political capital is the height of hypocrisy, no matter which side of center your politics lie.
+
+Michelle says she's a cheerleader for the deaths of those who want us dead. I hope that's hyperbole. I'd rather be a cheerleader for justice. I would love to see Saddam and those that worked for him face the people of Iraq and be held accountable for their crimes. That's justice. Just killing people who disagree with us is the bully's way out, and just saying, "Well, we're the biggest and strongest so we're right" isn't a justifiable reason.
+
+Justice is more important than death. Seeing someone dead doesn't mean their influence has died. Killing someone in battle makes them a martyr to their supporters. Trying them in front of an impartial court (ok, for the Hussein family, that could be difficult) makes them guilty, and decreases their "Martyrability". If everyone can see their crimes laid out in the bright lights of a court room, it becomes that much harder for reasonable people to support them. The unreasonable and zealots will support them no matter what (just look at the militia movement and Tim McVeigh), but they're not really who we should be trying to persuade. The reasonable people in Iraq and the Middle East need to see that we're not butchers. We're offering them something better - the rule of law. We're offering them self-determination and freedoms that they've never experienced. Once the people of Iraq can see that, and we can convince them (and ourselves) that we're not there for our own selfish purposes, we'll be on our way to stability and peace.
+
+I understand that the Brothers Hussein put up a fight, so their deaths were probably unavoidable. I'm not blaming anyone involved in the firefight for their deaths. They acted as they should have - they returned fire. It think would have been **better** had they been taken alive and stood trial. Am I glad they're no longer going to kill, torture and maim their people? **Yeah, I am**. I wish they could have been put on trial first though.

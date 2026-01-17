@@ -1,0 +1,8 @@
+---
+title: "Yea, baby!"
+date: 2006-10-25
+categories: 
+  - "veronica-mars"
+---
+
+I am totally in love with Dick.\\ Who's with me?\\ Other **Veronica Mars** thoughts:\\ This ep had the look and feel of season one. Very dark, literally, which is awesome. And Veronica was back to pissing people off, alienating herself as she investigates. Super yay to that. The show needs to keep up this angle. But, um... she has a picture of the rapist? So, the mystery is solved now? I seriously doubt that, but this picture bit confuses me.\\ On a totally shallow note- I dislike that the actress who plays Parker got to keep her hair while the other rape victims are showed without hair. They could have at least put Parker in some fake-looking wigs.\\ In **Gilmore Girls** news- They are rerunning quirky town storylines! The great pickle smell of '06 is the same as the rotten eggs of... whenever that was. Boo to that. This ep proved that they can get rid of Luke. And the stupid Aerie girls need to go. And yay for Logan in the flesh.

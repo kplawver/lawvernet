@@ -1,0 +1,6 @@
+---
+title: "Ack."
+date: 2008-04-09
+---
+
+B's sleeping schedule has been wonky lately. Today is one of those wonky days where he woke up at 4 am, ready to start the day. Boooooooo. I think I might turn on some cartoons and try to grab some more Z's on the couch.

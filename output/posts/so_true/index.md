@@ -1,0 +1,6 @@
+---
+title: "So true!"
+date: 2005-12-05
+---
+
+Seen on a t-shirt: Abstinence is for virgins.\\ Hee. That is so true! I want that shirt. I would never wear it outside of the house and I don't wear t-shrts anyway, so it would be a huge waste of money. But heeeee.

@@ -1,0 +1,45 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Custom theme colors and styles */
+@theme {
+  --color-primary: #2563eb;
+  --color-primary-dark: #1d4ed8;
+  --font-family-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-family-serif: 'Merriweather', ui-serif, Georgia, serif;
+}
+
+/* Base styles */
+body {
+  @apply font-sans antialiased;
+}
+
+/* Prose customizations for blog content */
+.prose {
+  @apply max-w-none;
+}
+
+.prose a {
+  @apply text-primary hover:text-primary-dark transition-colors;
+}
+
+.prose img {
+  @apply rounded-lg shadow-md;
+}
+
+.prose pre {
+  @apply bg-gray-900 text-gray-100 rounded-lg;
+}
+
+.prose code:not(pre code) {
+  @apply bg-gray-100 text-gray-800 px-1.5 py-0.5 rounded text-sm;
+}
+
+/* Skip to content link for accessibility */
+.skip-link {
+  @apply absolute -top-10 left-0 bg-primary text-white px-4 py-2 z-50 transition-all;
+}
+
+.skip-link:focus {
+  @apply top-0;
+}

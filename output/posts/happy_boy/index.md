@@ -1,0 +1,8 @@
+---
+title: "Happy Boy"
+date: 2006-05-23
+---
+
+[![Happy Birthday!!](images/151860911_d29eb8be56_m.jpg)](http://www.flickr.com/photos/kplawver/151860911/ "photo sharing")
+
+[Happy Birthday!!](http://www.flickr.com/photos/kplawver/151860911/)\\ One of the pictures from Brian's birthday party. What a happy, happy boy. I'm so lucky to have two amazing and different boys. Brian's quieter than Max was, and cuddlier, but so unbelievably happy most of the time.

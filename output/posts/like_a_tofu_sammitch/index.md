@@ -1,0 +1,12 @@
+---
+title: "Like A Tofu Sammitch"
+date: 2003-03-28
+categories: 
+  - "daily-tedium"
+---
+
+Not gonna talk about the war... not gonna talk about the war... not gonna talk about the war... I got flamed over at [A Small Victory](http://www.asmallvictory.net/mt/mt-tb.cgi/2008). I'm not going to say what it's about or why I got into it other than I couldn't resist. Go read for yourself (I am taking bets though on how long it will take for someone to call me a Nazi).
+
+I met Jen and Max for lunch today. Max is my favorite little kid ever. I know, he's my son, but it still counts. I asked him what he wanted to do tonight while he was sitting there gnoshing on chicken nuggets. Max piped up and said, "MAKE COOKIES!!" We're going to dust off the cookie sheet, pull out the flour, sugar, baking soda, vanilla and butter and make ourselves some chocolate chip goodness. I then asked him what we were going to do after we made cookies. Of course, he said, "We're gonna eat one!" And we will.
+
+Each paragraph in this post will be completely unrelated... if you hadn't caught that already. I've been keeping this quiet since we launched it, but I just can't anymore. I met with a couple guys from [DevEdge](http://devedge.netscape.com) on Wednesday to see if we could make our product faster/better/happier. Now, I'm pretty confident that I'm good at what I do. I do my best when at all possible, and the best I can under circumstances that dictate something other than the best. Ok, back to the DevEdge guys. They came in, and told me my DOCTYPE wasn't in caps, and that was a problem. Fine, I can live with that, and they said it doesn't affect the pageload anyway. I'm not hip on DOCTYPE's anyway, and it's easy enough to fix. That was it. That was the only problem that I have control over. They actually said they learned some new tricks looking at my markup, and that makes me happy. So, what was it that they were looking at? [AOL Search](http://aolsearch.aol.com). We quietly relaunched it earlier this month. I was able to shave a second off the page load time by totally redoing the markup underneath. Other than a couple places in the results that I don't have control over, there are no tables, and everything is contained in DIVs. There's one inline stylesheet. Oh yeah, and it had to look EXACTLY the same as it did before, and I had to learn a new language in like two weeks to get it done. This has been a good week for my ego.

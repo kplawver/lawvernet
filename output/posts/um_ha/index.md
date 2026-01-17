@@ -1,0 +1,6 @@
+---
+title: "Um, ha?"
+date: 2006-03-08
+---
+
+A woman is suing Walgreen's because of some remarks the pharmacy staff (unintentionally?) put on her pill bottles. [Read about it here.](http://www.sun-sentinel.com/news/local/southflorida/sfl-pwalgreens08mar08,0,7108212.story?coll=sfla-home-headlines)\\ This makes me chuckle and remember when I was trying to get a prescription of valium filled and the pharmacy kept me waiting over 2 hours. I kept thinking to myself, "Do they know what the prescription is for? Shouldn't they try a little harder to get it to me?"

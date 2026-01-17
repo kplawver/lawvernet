@@ -1,0 +1,8 @@
+---
+title: "Tv"
+date: 2008-04-23
+categories: 
+  - "tv"
+---
+
+Tell me you people are watching **How I Met Your Mother**. This week's episode rocked! (Ha, literally.) Since I am a total spoiler-phobe, I was completely surprised at the many, many awesome surprises! Foshizzle, eh? Now I am off to check the Robin Sparkles videos that I have seen running amok on YouTube.\\ And if you aren't watching **How I Met Your Mother** (CBS, Monday, 8:30), I weep for you.

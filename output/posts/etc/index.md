@@ -1,0 +1,10 @@
+---
+title: "Etc"
+date: 2002-04-17
+categories: 
+  - "linux"
+---
+
+- I updated my [linux newbie page](/geek/linux_newbie.html) to tell you how to start XWindows from the command prompt.
+    
+- Also, if you were planning on installing [YellowDog Linux 2.2](http://www.yellowdoglinux.com) on a newer quicksilver G4 - **don't**. Let me save you the trouble. There's a problem with the new kernel and the installer that will totally hose you. Stick with 2.1 for now. It's safer. Install and the product work great on my crap old Powerbook, but not my new machine. Go figure.

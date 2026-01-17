@@ -1,0 +1,33 @@
+{
+  "name": "lawvernet",
+  "version": "1.0.0",
+  "description": "My eleventy bloggy blog.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy",
+    "clean": "rm -rf _site",
+    "import": "node scripts/import-wordpress.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kplawver/lawvernet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kplawver/lawvernet/issues"
+  },
+  "homepage": "https://github.com/kplawver/lawvernet#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@tailwindcss/typography": "^0.5.19",
+    "autoprefixer": "^10.4.23",
+    "luxon": "^3.7.2",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "wordpress-export-to-markdown": "^3.0.4"
+  }
+}

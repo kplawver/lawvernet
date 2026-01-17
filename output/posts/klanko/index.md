@@ -1,0 +1,8 @@
+---
+title: "Klanko"
+date: 2005-01-05
+categories: 
+  - "computing"
+---
+
+My pal [Jon](http://www.ape-law.com) is a genius (he says he's retarded, so I guess that makes him a savant). His latest [Klanko](http://moderntales.com/series.php?name=openbook "Modern Tales: Open Book") is amazing. It's my favorite piece of his yet (and I loved the **Klanko Discovers His Middle Finger** so much, I bought the original artwork). Read it now, before Open Book makes you pay for it.

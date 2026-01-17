@@ -1,0 +1,9 @@
+---
+title: "TV rec"
+date: 2006-05-05
+categories: 
+  - "tv"
+  - "veronica-mars"
+---
+
+The _Supernatural_ finale last night was so awesome! It had everything a great finale should: angsty confrontations, emotional realizations, demon-y exposition. Dean's raw rage was so palpable it was scary. "I LIED!" Eeeep. That freaked me out, and he is the good guy.\\ The TVGuide.com reviewer agrees with me. YAY! For some reason, I get immense pleasure in being validated by professional critics. I am not sure why that is. Probably because I wasn't allowed to watch _The Three Stooges_ as a kid.\\ Last year, I revealed the wonderful pleasures of _Veronica Mars_ to you. This year, I give you _Supernatural_. Go forth and enjoy, my little kiddies. (It is on The WB/ new network CW.)\\ Speaking of tv, how much do I love that Starbucks and the like are taking down the Mob? So much! Hee.\\ ETA- Someone just emailed me that they watched the _Supernatural_ finale after I mentioned it and THEY LIKED IT! Yay for my first convert.

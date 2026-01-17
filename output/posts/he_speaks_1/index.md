@@ -1,0 +1,9 @@
+---
+title: "He speaks!"
+date: 2005-09-15
+categories: 
+  - "brian"
+  - "family"
+---
+
+Brian's first word is officially "Max." I am the mom, so I get to decide. Brian has mimicked sounds before, like "mama" and "dada" but we've never been sure if there was any meaning behind it. He has also done a breathy "hi" before, but again we weren't sure if he intended to greet us or if it just came out that way. But we are sure that Brian uses Max correctly, pointing at his brother when he says it. He can't say it correctly, but it is obvious what he is trying to say. Go Brian!

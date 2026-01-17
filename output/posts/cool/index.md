@@ -1,0 +1,6 @@
+---
+title: "Cool"
+date: 2006-05-11
+---
+
+Just as it started raining, my iTunes playlist turned to "I'm only happy when it rains."

@@ -1,0 +1,16 @@
+---
+title: "Yo Yo Max"
+date: 2003-05-29
+categories: 
+  - "family"
+---
+
+New Pictures!!
+
+[![](images/DCP_3335.jpg)](/photos/archive/cat_20030528_max_and_the_yoyo.html)
+
+Max has discovered some of the joys of yo-yo-ing. Why some? Because he can drop it like the best of them; getting it to come back up is the trick. This problem is compounded by the fact that the string is longer than he is tall (hence him standing on the dining room table). He still loves it and laughs his little head off every time he lets go of the yo-yo and watches it roll down the string towards the floor. Last night, we ended up using the yo-yo as a fishing line. We caught six little fish and made a lovely fish pie out of flour, the fish, carrots, water, eggs and celery (Max and I came up with the ingredient list - he contributed the flour, water, eggs and fish - he's smart).
+
+He's so much fun now. He has a great little blooming imagination, a joy for play and is smart enough to come up with and get jokes. He's devoid of cynicism and **almost** completely lacking in guile (almost... he tries to be sneaky, but he's not very good at it yet).
+
+This morning, Max helped me water the flower Jen got for her birthday, and then wanted to take [some pictures](/photos/archive/002655.html). Do kids come funner than three and a half? If so, I don't know if I can take it.

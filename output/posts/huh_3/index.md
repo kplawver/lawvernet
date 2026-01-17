@@ -1,0 +1,8 @@
+---
+title: "Huh?"
+date: 2007-10-28
+categories: 
+  - "politics"
+---
+
+This makes no sense to me: [NY to allow illegal immigrants to get drivers license](http://www.cnn.com/2007/US/10/27/immigrant.licenses.ap/index.html). I'm not anti-illegal immigrant, but this change is asinine; it reads like an 8th grade social studies project. I can't believe educated, professional, adults came up with this plan and other educated, professional, adults agreed to it. Just... GAH! The government is stupid.\\ If anyone needs me I will be returning to my "head-in-the-sand" state of existence. I was much happier and less frustrated there. _Buffy the Vampire Slayer_ Season 2, here I come!

@@ -1,0 +1,6 @@
+---
+title: "Yo ho ho!"
+date: 2008-06-26
+---
+
+The internet has been super cranky and unreliable, so no real updates. Sorry. (That's aimed at my folks, mostly.) It's also been a pain for Kevin, who hasn't gotten out of the habit of working 24/7. :) When the internet connection does work, you should see Kevin and me jump into action. It's pretty funny.\\ And for some reason, my long distance isn't working, which is a super pain too.\\ Blarg.

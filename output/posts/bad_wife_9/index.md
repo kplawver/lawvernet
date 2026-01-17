@@ -1,0 +1,8 @@
+---
+title: "Bad wife #9"
+date: 2007-03-20
+categories: 
+  - "jen"
+---
+
+Hmm, I don't think I've ever made a bad wife post before. (We'll discuss reasons why at some later point.)\\ Today is Kevin's birthday. Happy Birthday, Kevin!\\ I don't have a cake for him. Bad me.\\ In my defense, we were supposed to go to The Cheesecake Factory and I thought a birthday cake after cheesecake would be too much. But Kevin is feeling ill and wants to curl up with some leftover homemade beef stew instead. So, no cake. Sorry, dear. I'll do better next year!

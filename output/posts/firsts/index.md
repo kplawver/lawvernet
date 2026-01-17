@@ -1,0 +1,6 @@
+---
+title: "Firsts"
+date: 2008-08-06
+---
+
+Max got rickrolled today for the first time. (No, Mom, this isn't anything bad and doesn't hve anything to do with losing your shoes.)\\ Brian used the manual can opener today. He was so proud of himself that he exclaimed, "Me didn't need any help; me did it all by myself!!" My old can opener was really hard to use even I could barely get it to work. I think this is where his excitement came from.\\ Brian drew his first dirty picture today. He was drawing attics with various amenities. One had a bathroom, so of course he had to draw a penis that could use the bathroom. Then he drew the boy to go with it. They were the same size. He then "built" (really, he just drew) a penis for me so I could use a urinal too.

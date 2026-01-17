@@ -1,0 +1,8 @@
+---
+title: "Awesome!"
+date: 2007-02-01
+categories: 
+  - "tv"
+---
+
+The news and entertainment shows have been showing that crazy bride video _after_ I linked to it. My new motto should be: **shares crap first**. It turns out that the crazy bride video was a fake, posted by a wanna-be actress, which is ok by me because I questioned its authenticity in my post. Had I not, I would have been embarrassed. Also, I don't think the bride was so great, but her friends did an awesome job of acting. Major kudos to them. They felt so real to me, I wanted to bitch-slap two of them and pet the third.\\ Here is another awesome video totally worth one minute and ten seconds of your time: [The Liberation of Katie Holmes](http://youtube.com/watch?v=V4MRN26VinE). It's an oldie, but a goody.\\ Max is back at school. Hope he is doing ok. Cross your fingers! But he passed his cold to Kevin. Boooo! And to Brian. Super booooo! We ran out of baby cold medicine this morning. "Oh noes" heard all around the Lawver house this morning. Until I realized that Brian isn't a baby. He is old enough to actually take most of the same medicine Max can. Then a whole new type of "Oh noes" were heard being wailed.\\ In other awesome news-\\ **Supernatural kicked ass last week**. _Kicked. Ass._ Literally. Figuratively. Lots of ass, lots of kicking. The CW is streaming the episode online if anyone is interested. A new episode airs tonight. Yippeee!\\ **Veronica Mars** has been super cool since coming back from holiday hiatus. It, too, is being streamlined on the web.\\ That's all I got. What's being awesome in your life?

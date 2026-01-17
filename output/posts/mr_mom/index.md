@@ -1,0 +1,9 @@
+---
+title: "Mr. Mom"
+date: 2006-04-19
+categories: 
+  - "family"
+  - "tv"
+---
+
+Jen's left me, left me for Mississippi for almost a _whole week_. Her parents (without my permission, mind you) decided that moving to the deep deep South was a good idea. I, of course, having lived there, tried to talk them out of it, but I lost. Jen's down there helping them unpack and move in, which means I'm here with the boys.\\ It's harder than it looks, getting a kindergartner ready for school and to the bus stop on time. It's not all that easy to hang out with a 22-month old all day either. I had no idea how many changes of clothes Brian goes through in day. The kid is a mess machine. I think he's been training for over a year for this week and is unleashing the combined force of his cuteness and mess-making skills all at once.\\ That said, it's not all _that_ bad. Brian helped me clean up the **Amazing Fake Easter Grass Disaster of 2006** this morning. He got really into picking up the pieces of grass, yelling with little boy joy every time he found another piece, then running back and putting it into the bag. We cleaned up all the grass, then played a couple rounds of Tiger Woods, then changed his clothes again and went to pick Max up from the bus stop. After that, it was off to Amphora, where Brian covered 60% of his body with ketchup after I left the wipes in the car. I led him, like a leper, to the bathroom cleaned him up, and now we're at home, and it's nap time (time for me to get some work done).\\ I wish I could take a nap... pray for me.\\ (oh, and the first episode of Season Two of **Doctor Who** was _awesome_.)

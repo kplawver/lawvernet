@@ -1,0 +1,53 @@
+const { DateTime } = require("luxon");
+
+module.exports = function(eleventyConfig) {
+  // Pass through static assets
+  eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy("src/css");
+
+  // Date filters
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("LLLL d, yyyy");
+  });
+
+  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
+  });
+
+  eleventyConfig.addFilter("isoDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
+  });
+
+  // Create a collection of posts sorted by date (newest first)
+  eleventyConfig.addCollection("posts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/posts/**/*.md").sort((a, b) => {
+      return b.date - a.date;
+    });
+  });
+
+  // Excerpt filter for post previews
+  eleventyConfig.addFilter("excerpt", (content) => {
+    if (!content) return "";
+    const stripped = content.replace(/<[^>]*>/g, "");
+    const words = stripped.split(/\s+/).slice(0, 50).join(" ");
+    return words + (stripped.split(/\s+/).length > 50 ? "..." : "");
+  });
+
+  // Head filter - get first n items from array
+  eleventyConfig.addFilter("head", (array, n) => {
+    if (!Array.isArray(array)) return [];
+    return array.slice(0, n);
+  });
+
+  return {
+    dir: {
+      input: "src",
+      output: "_site",
+      includes: "_includes",
+      data: "_data"
+    },
+    templateFormats: ["md", "njk", "html"],
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk"
+  };
+};

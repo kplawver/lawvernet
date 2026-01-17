@@ -1,0 +1,8 @@
+---
+title: "Me=Dumb"
+date: 2007-01-15
+categories: 
+  - "jen"
+---
+
+Explain to me why I have no problem going to sleep at _7 pm_ sometimes when Kevin is home, but can't force myself to go to bed before midnight when he isn't?\\ ETA- My attempt at sleeping in this morning failed spectacularly. Booooo.

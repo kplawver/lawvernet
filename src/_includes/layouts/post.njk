@@ -1,0 +1,54 @@
+---
+layout: layouts/base.njk
+---
+<article class="max-w-3xl mx-auto px-4 py-12">
+  <header class="mb-8">
+    <h1 class="text-4xl font-bold text-gray-900 mb-4">{{ title }}</h1>
+    <div class="flex items-center gap-4 text-gray-500">
+      <time datetime="{{ date | isoDate }}">{{ date | readableDate }}</time>
+      {% if tags %}
+      <div class="flex items-center gap-2">
+        <span class="text-gray-400">|</span>
+        {% for tag in tags %}
+          {% if tag != "posts" %}
+          <a href="/tags/{{ tag | slugify }}/" class="text-sm bg-gray-100 hover:bg-gray-200 px-2 py-1 rounded transition-colors">
+            {{ tag }}
+          </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="prose prose-lg prose-gray max-w-none">
+    {{ content | safe }}
+  </div>
+
+  <nav class="mt-12 pt-8 border-t border-gray-200">
+    <div class="flex justify-between">
+      {% set previousPost = collections.posts | getPreviousCollectionItem %}
+      {% set nextPost = collections.posts | getNextCollectionItem %}
+
+      {% if previousPost %}
+      <a href="{{ previousPost.url }}" class="group flex items-center gap-2 text-gray-600 hover:text-primary transition-colors">
+        <svg class="w-5 h-5 group-hover:-translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+        </svg>
+        <span class="max-w-[200px] truncate">{{ previousPost.data.title }}</span>
+      </a>
+      {% else %}
+      <span></span>
+      {% endif %}
+
+      {% if nextPost %}
+      <a href="{{ nextPost.url }}" class="group flex items-center gap-2 text-gray-600 hover:text-primary transition-colors">
+        <span class="max-w-[200px] truncate">{{ nextPost.data.title }}</span>
+        <svg class="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+        </svg>
+      </a>
+      {% endif %}
+    </div>
+  </nav>
+</article>

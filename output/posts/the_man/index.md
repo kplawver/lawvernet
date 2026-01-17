@@ -1,0 +1,18 @@
+---
+title: "The Man"
+date: 2002-12-10
+categories: 
+  - "daily-tedium"
+---
+
+Don't fight the **Man**... it only leads to pain, my friend.
+
+To explain, web standards: CSS, DIV's, XHTML, the whole "separating content from display" nonsense, etc... it's hard. It's really hard. It's especially hard when you have an extremely wide range of browsers to support, a rigid and uncompromising client, a design that doesn't lend itself to it and no time. But, because I'm a glutton for punishment, I tried it anyway. I went on a windmill fighting crusade to make things "better" and now I'm paying the price by taking this gorgeous, validating, sleek and fast site I've built with my two hands and turn it into a hacked up mutant of a thing that works in everything under the sun (except Netscape 4.x, thank God).
+
+When clients tell you they want it "fast", you better make sure that they understand what that means. If your client wants a page with a lot of data on it to be "fast", it can't have much aside from the data. If you have fifteen K of data, you can't add fifteen K of graphics, stylesheets and javascript on top it and expect it to load in six seconds over a modem. It's just not going to happen. Unless you remove some graphics and javascript, you're screwed and are going to spend the rest of your life trying to fit a cow down the garbage disposal.
+
+And let's talk about "users". What is wrong with you people? Why do so many of you insist on NOT upgrading? Don't you realize that if you upgraded, things would work better? You have lots of yummy browser flavors to choose from. Personally, I would suggest [Mozilla 1.2.1](http://www.mozilla.org), but you're welcome to use IE (oh shut up, there's no way I'm linking to it), Netscape 7, Chimera, Phoenix, heck, Opera will probably even work.
+
+It's a losing battle if everything we build is interpretted by browsers that can't keep up. Unfortunately, there's no argument I can think of to convince a reasonable business person that denying users of older browsers to upgrade.
+
+... I'm grumpy. My cold has come back and I can't sleep, and I'm working my butt off. Excuse my rantings, I'm going to go take some NyQuil.

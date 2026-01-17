@@ -1,0 +1,16 @@
+---
+title: "I love..."
+date: 2005-07-22
+---
+
+Today is my mom's birthday, so Happy Birthday Mom! You are wonderful, loving, fun to be with and a great mom. I am really lucky to have you. And so are Kevin, Max and Brian.\\ Some of my other loves, in random order (cuz I can't pick my fave):
+
+- Tivo
+- Italian food
+- iTunes
+- T-shirt sheets
+- Veronica Mars
+- The beach (the real beach, not the movie)
+- Arizona Basketball
+- naps
+- my van

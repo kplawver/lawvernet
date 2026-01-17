@@ -1,0 +1,14 @@
+---
+title: "Uncles"
+date: 2001-04-25
+categories: 
+  - "kevin"
+---
+
+(preface: I know I said I'd continue the Tucson story, but I don't feel like it. Get over it)
+
+I've decided something. I don't have enough uncles. I have one that I have any contact with, and well, that's just not enough. My wife has a ton of them. There's something cool about watching them all together. Her dad has four brothers and two sisters, who I now see more often than my own solitary uncle. They're all funny, slightly raunchy (in a Sunday-old-man kind of way, stuff you grandma might blush at, but nothing really awful) and narcoleptic. One uncle fell asleep mid-sentence at Thanksgiving dinner a couple years ago. I'm straying a bit, but you get the idea. There are even the in-law uncles, Norm and Watts (first name, not last), who are great too. That's a grand total of 6 semi-uncles I have now. I love them to death (well, most of them). But, they're not MY uncles. I get them by association.
+
+We've gone to visit them in Michigan a couple times now, and they all came to Tucson for our wedding. I love seeing this giant nuclear family together. I just wish my side of the family were more like that. Maybe it will once the other kids go and start families, and we become the aunts and uncles (one way being the oldest sucks).
+
+Back to my original point of not having enough uncles. Uncles are fun. Uncles do cool things. Uncles should be good for embarrassing stories about your parents. I have one uncle who I don't talk to enough, and doesn't seem to dish the dirt on my mom (I think because he knows she could kill him even though she's 5'6" and he's 6'4"). Uncles should also be good for advice. You should be able to go to your uncles for manly advice about things you wouldn't ask your dad about. And here's what I realized today, I want Garrison Keilor to be my uncle. I listen to [Prairie Home Companion](http://www.prairiehome.org) whenever I'm in the car on Saturday night, and sometimes on Sunday mornings, and his voice is always so wise and comforting, even when it's funny. I read his column @ [Salon.com](http://www.salon.com), and he says wise, comforting, funny, uncle-y things to the people who write in. He seems like a good guy to go to dinner with. And who can ever have enough people to enjoy going to dinner with?

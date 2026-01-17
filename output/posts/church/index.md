@@ -1,0 +1,8 @@
+---
+title: "Church"
+date: 2006-07-16
+categories: 
+  - "religion"
+---
+
+My mom asked if I was just blowing off steam when I blogged last week about the church. While that was part of it (writing is cathartic), I am also serious about this. I understand the church's position on _preaching_ out against gay marriage, but to enact a law? That is just wrong. Not only does it go against the idea of 'Separation of Church and State,' it also goes against the church's 11th Article of Faith: _We claim the privilege of worshiping Almighty God according to the dictates of our own conscience, and allow all men the same privilege, let them worship how, where, or what they may._\\ After every change within the church, members have fallen away, unable to accept the change. This may be true of me now.

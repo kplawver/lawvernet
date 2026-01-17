@@ -1,0 +1,14 @@
+---
+title: "I Got a C!"
+date: 2010-09-27
+categories: 
+  - "uplaya"
+---
+
+Our CEO came in today and wanted to see me in his office. Now, this doesn't happen all that often, so I was a little surprised. But, it was good news! Since I've been at [Music Intelligence Solutions](http://uplaya.com), I've been referred to as everything from "Lead Engineer", to "Lead Technical Architect" to, in rare cases, "CTO", depending on who I or David (the CEO) was talking to.
+
+Thankfully, all of that title confusion is over, as I'm now _officially_ the CTO of the company!\\ I never thought I'd be CTO of anything. The thought never entered my mind until a few years ago when AOL's CTO left and I e-mailed the COO and asked if he would be replaced. I thought to myself, "Hey, I could be CTO. Wait a minute, I _really could_ be CTO." And that's where it started. I had a new goal - be good enough at what I do to some day be CTO of the company. At the time, the goal was to be CTO of AOL, but I'm now glad that _didn't_ happen. I'm the CTO of the right company at the right time, and it feels pretty damned good.
+
+My job isn't going to change at all. I'm still _lots_ of other things at the moment - sysadmin, developer, manager, project manager, product manager in a couple cases, etc. But, it's still a big step to be the CTO of any company, especially one with the potential we have at MIS.
+
+Enough celebrating - I have to get back to work!

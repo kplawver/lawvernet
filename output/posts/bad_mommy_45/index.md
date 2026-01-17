@@ -1,0 +1,6 @@
+---
+title: "Bad Mommy #45"
+date: 2006-10-24
+---
+
+I am obviously the worst mother ever, since I can't figure out to play Katamari for my 2 year old. The screen says click "X" for ok, and nothing happens when I do. I click "start" and "select" and nothing freakin' happens!! Grrr. Oh, except Brian starts crying like I am stabbing a puppy over and over again. He keeps handing me the controller, "Here you go," very hopefully. But I don't know how to get it to work! GAH! I give up. Seriously. The smartest decision I ever made was to never play video games with Max. I am re-enacting this policy for Brian. And he can't make me feel guilty! No, he can't! I won't cave. Even if he is the cutest, snotty-nosed, teary-eyed toddler ever.

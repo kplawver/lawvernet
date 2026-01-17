@@ -1,0 +1,10 @@
+---
+title: "AIM Pages and Safari"
+date: 2006-05-17
+categories: 
+  - "aol"
+  - "javascript"
+  - "os-x"
+---
+
+I've seen this now [a couple places](http://web20show.com/articles/2006/05/12/microformats-because-now-theyre-cool), and figured I'd comment on it (not in an official way, but in a "I feel your pain" way). The current falderal is about [AIM Pages](http://www.aimpages.com) and Safari and how it doesn't work yet. We tried, honest we did. But, Safari has certain "issues" with its DOM support (it's a standard, ya know) and other javascript features. We did our best to work around them and get things working, but when it came down to crunch time, we had to concentrate on the big two (Firefox and IE). We _will_ support Safari. We're actually very close, just have a few annoying things to work around and it'll be done. We love Safari. All us Mac users on the team were really sad that we had to drop it for the first release. But, we had to.\\ It actually has very little to do with standards compliance. No modern browser is fully DOM 2 compliant. No modern browser is fully CSS 2.1 compliant. They _all_ have quirks. We've found more one-line crash-causing javascript commands working on this project than I can count. We've found things to hate in all the browsers.\\ I used to think that browsers were in a pretty good place, especially Firefox and Safari. I was wrong. They're all too slow, too quirky and aren't reliable enough. They all crash too easily, take too much work to do things the "right" way, and in most cases, it's actually better to do things the _wrong_ way because that's the way the browsers "like" it. For example, it's _way_ faster, takes less code and uses less CPU to use innerHTML than creating DOM nodes and appending them. If the right way's not the right way, it's the wrong way. Until the browsers actually reward using the standard, there isn't much point. The rewards for using semantic and valid markup, and good CSS are well known. There aren't a lot of rewards right now for using the DOM.\\ But, where was I? Oh yeah, Safari... we're working on it.

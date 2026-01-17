@@ -1,0 +1,12 @@
+---
+title: "We're Back!!"
+date: 2003-08-31
+categories: 
+  - "daily-tedium"
+---
+
+That was no fun, but I'm mostly back online. There are still a bunch of missing photos, and some links may be broken because I changed the permalinks to something a little more managable (having one directory with 1900+ files in it is never a good idea). I know, you're not supposed to break permalinks, but I don't care. I did it anyway. It's my site.
+
+Why did I switch? Well, as you may have seen, my site was down for a while. Why? Well, apparently, my previous web host was hit by a dDOS attack, which explains the site being unreachable. But, why, after it came back, were all my html files 0-length, and every time Movable Type went to recreate them, were they 0-length? I didn't change anything. Plus, this isn't the first time my site, or part of the service has gone down. So... I'm gone. Now, I'm with [Insider Hosting](http://www.insiderhosting.com), and am really impressed so far. The MySQL performance alone is much better than with the [old host](http://www.bizland.com). Plus, they have a really cool control panel and SpamAssassin!
+
+I've got a lot of stuff to talk about, but I'm sick today... again. So, the new pics, and other stuff will probably wait until Tuesday when I can get the rest of them back online.

@@ -1,0 +1,8 @@
+---
+title: "I'm Huh?"
+date: 2002-09-26
+categories: 
+  - "daily-tedium"
+---
+
+According to one of the Ops guys at work, I'm Da MAAAAN. I'm not sure what I should do to cement my status as DA MAAAAAN, but I'm open to suggestions.

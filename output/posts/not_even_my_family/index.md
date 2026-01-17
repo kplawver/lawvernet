@@ -1,0 +1,6 @@
+---
+title: "Not even my family?"
+date: 2005-12-22
+---
+
+Wow, no one wanted to talk about heaven? Huh. I find that odd given the time of the year it is. I understand that religion is a sticky subject, since it is so personal and everyone thinks they are right. But come on, man, Heaven rocks!\\ BW's special also included a snippet from a scientist who located a "mutated" gene in some people and these people are more likely to believe in a higher power. Because I am already a believer, this just confirms my belief rather than make me question it. Perhaps God has given some people the extra gift of believing easily through this unusual gene.\\ BW also talked about near death experiences. Some scientists claim these experiences are simply hallucinations caused by a dying brain. Having never had one, I can't say. However, I am confused that some people would be greeted and welcomed into Heaven but then "returned" back to their bodies. Wouldn't God know that these people weren't really going to die? So what's with the big unneeded "welcome"?\\ Just in case it wasn't clear before, I don't know everything. :) But it is fun to speculate about.\\ Now then, on to the more pressing topic: who stabbed Felix?

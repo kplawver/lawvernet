@@ -1,0 +1,38 @@
+---
+title: "My Giant"
+date: 2019-01-08
+categories: 
+  - "family"
+  - "jen"
+  - "kevin"
+  - "marriage"
+tags: 
+  - "dreams"
+  - "twin-peaks"
+---
+
+If you go back through the archives, there are several posts about how funny my wife is. It's been a while since I posted a new Jen story, and writing here is one of my resolutions for the year... so here we go.
+
+At 3:50AM this morning, while I was very much asleep, Jen grabbed my leg and yelled, "There's something terrible happening!"
+
+"What?" I muttered trying to open my eyes and figure things out.
+
+"Something bad is happening **_in the house_**. Go check it out!"
+
+I was definitely awake now. I hopped up, rushed out of the bedroom, checked the kitchen, the doors, the windows, the floor (you know, for blood maybe? it was early), and then stood in the living room and just listened for a bit. Nothing. It was a house very much asleep... except for me.
+
+I walked back to the bedroom.
+
+"Did you find anything?"
+
+"Nope. Nothing's burning, no blood, all the doors are still locked. I think we're good."
+
+"Maybe it was just a dream? OK, sorry, I know you don't go back to sleep easily."
+
+"It's fine. Better to check than not."
+
+With that, Jen put her sleep mask back on, rolled over and was asleep within 30 seconds. I think she was awake for maybe five minutes. I, of course, laid there, heart racing, trying to get back to sleep, for 45 minutes before I gave up, made tea (so I didn't wake anyone up with the coffee grinder) and headed for the couch.
+
+Re-reading this, it doesn't sound as funny as it feels. But, it is a thing that happened, which makes it _perfect_ for a blog post, right?
+
+(and the title is a **Twin Peaks** reference... Jen is my very own giant, telling me crypticly that something is terribly wrong and to go fix it)

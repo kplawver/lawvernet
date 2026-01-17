@@ -1,0 +1,8 @@
+---
+title: "Crap!"
+date: 2005-12-01
+categories: 
+  - "travel"
+---
+
+I couldn't sleep at all last night. So, crappity crap crap. I gave up at 4:30, when I would only have 90 minutes until my day official began. I blame Hawaii. How am I supposed to take care of my three boys nows?

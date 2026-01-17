@@ -1,0 +1,6 @@
+---
+title: "Oh, man!"
+date: 2008-08-05
+---
+
+My first caffeine free, diet coke in almost a month tastes like ass. Back to water for me. (And sneaking Kevin's really yummy Cherry Limeade.)

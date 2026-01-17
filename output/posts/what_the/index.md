@@ -1,0 +1,8 @@
+---
+title: "What about a Pop Tart in the dryer?"
+date: 2006-05-19
+categories: 
+  - "tv"
+---
+
+From The Salon article about _The OC_ finale: _every scene with \[Mischa Barton\] in it had a way of reminding you that you had a Pop Tart in the toaster or laundry in the dryer._\\ I have absolutely no idea what this means, but I kind of love it anyway. Mischa has been soooo bad on this show, it makes me want to gouge my eyes out with a spork. (Thankfully I stopped watching a long while ago, so no sporking needed.) What I really want to know is, what happened to the wonderful young actress first noticed on _Once & Again_?\\ Here is a blurb about The CW from some tv critic: _the combination alone of **Veronica Mars**, Smallville, Gilmore Girls and **Supernatural** guarantee **the single best network schedule** since the amazing, never-to-be-equaled, 2000-01 WB season that included Buffy, Angel, Dawson's Creek, Felicity, Gilmore Girls, Roswell, Popular and Charmed..._ (emphasis all mine)\\ I guess I don't have to be _that_ embarrassed to watch The CW then! Though, to keep my cool points from totally plummeting, I must say that HBO is the second-most watched network in my house. Well, not counting Nick, Jr. :)

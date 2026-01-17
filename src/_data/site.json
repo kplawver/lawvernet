@@ -1,0 +1,9 @@
+{
+  "title": "lawvernet",
+  "description": "My eleventy bloggy blog",
+  "url": "https://lawver.net",
+  "author": {
+    "name": "Kevin Lawver",
+    "email": ""
+  }
+}

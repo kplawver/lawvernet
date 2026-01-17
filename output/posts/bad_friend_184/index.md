@@ -1,0 +1,8 @@
+---
+title: "Bad Friend #184"
+date: 2007-03-21
+categories: 
+  - "jen"
+---
+
+A friend just posted this: My mom just called and my grandpa died.\\ And all I can think of is, "Man, he must have **really** not wanted to talk to your mom." Inappropriate laughter is the best kind. I was laughing so hard I squirted pear bits all over the computer. Oh man.

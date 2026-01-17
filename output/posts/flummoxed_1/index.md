@@ -1,0 +1,6 @@
+---
+title: "Flummoxed"
+date: 2003-01-04
+---
+
+I'm in a bad mood. I'm mostly in a bad mood because I came home sick from work yesterday and spent all today feeling like microwaved elephant dung. I'm fatigued, congested, my various pains are paining me and I'm just plain old grumpy. It's time like these that make me want to say all the unpleasant things I normally keep to myself. Which means this is a good time to stop.

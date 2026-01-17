@@ -1,0 +1,6 @@
+---
+title: "Hey hey"
+date: 2008-07-25
+---
+
+Good news! We might have a tenant for our Va townhouse. Woot. I got a message from the prop manager saying that she wanted to discuss an application. Keep your fingers crossed. Hopefully the application doesn't involve 14 rottweillers, 3 smokers, and a rent of only half of our asking price, yes?\\ PS- Kev, I still can't email out. IM is probably the best way for me to contact you. Nothing important is going on though, except me complaining about the kids. :\* Tash is coming by in a bit too. Any message you want to pass on?

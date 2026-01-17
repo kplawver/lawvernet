@@ -1,0 +1,10 @@
+---
+title: "Nvu .5"
+date: 2004-10-12
+categories: 
+  - "computing"
+---
+
+Need to make a web page and wouldn't know an HTML tag if it jumped up and closed itself around your head? Well, then go [download Nvu](http://www.nvu.com/download.html "Nvu Download Page")!! It's a great WYSIWYG editor (you know, like Word), and has gotten better with every release. There's even an OS X build now!
+
+**UPDATE**: For the uninitiated, WYSIWYG is an acronym. It stands for "What You See Is What You Get". Programs like Microsoft Word or other word processors are WYSIWYG, as are web editors like the aforementioned Nvu, Mozilla Composer, Dreamweaver, etc. Notepad is a good example of the opposite of a WYSIWYG editor.

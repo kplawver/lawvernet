@@ -1,0 +1,11 @@
+---
+title: "Life in Ga"
+date: 2008-07-31
+categories: 
+  - "brian"
+  - "jen"
+  - "kevin"
+  - "max"
+---
+
+Kevin is working way too much. He's up everyday before the alarm and is even out of the house before I wake up.\\ I am not sure if it is because we are new here, because we are renting, or maybe just due to it being summer, but I feel like I am on vacation with no to do list. Wheeee. The boys and I just goof around all day until it's time for me to make dinner. And I actually have been cooking, even breakfast! (The boys got used to having a hot breakfast after a week at Babb's house and a week in a hotel. Boo. No more cold, continental ones for them. Ha.) Last night I made enchiladas and tortilla soup for the first time and they turned out fabulously!! Sadly, Kevin worked really late and missed the first presentation.\\ The house is nice, but the kitchen is a bit small. Everything is a mess, but a functioning one. I am not even bothering to unpack everything. There are still boxes everywhere and I don't really plan to change that, since we don't have any visitors coming soon :(. The boys are sharing a room, one room is a play room that no one uses- but it's pretty, one room is full of food storage, and that leaves the master for us and K's not-yet-set-up office.\\ The boys seem to be happy but miss Kevin. Max has been alternating between playing on the computer and reading Harry Potter. Brian flits from toy to toy. He likes to run and scoot around the circle of the house (living room to dining room to kitchen to family room to entry way to living room, etc). We also play in the sprinklers a lot and then he hops in the shower to get his feet clean. We don't have tv yet, so in the wee morning when I am not ready to be awake and in the afternoon before Brian crashes for a nap, we watch the same 4 videos. The other day I splurged and bought _Flushed Away_, so make that 5 videos.\\ That's pretty much our life so far!

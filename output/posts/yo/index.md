@@ -1,0 +1,8 @@
+---
+title: "Yo"
+date: 2006-10-01
+categories: 
+  - "tv"
+---
+
+Dudes! Other people like **Supernatural** too: [Supernatural Premiere Review.](http://www.screenhead.com/reviews/supernatural-premiere-review.html):\\ bq. Against all odds, "Supernatural" is just plain cool. But the show isn't cool in the way of hip, well-dressed prime time TV stars aspire to be. Instead, "Supernatural" is its own kind of Americana cool, with classic rock tunes blasting out of an old beat-up Chevy Impala filled to the brim with salt-loaded shotguns and holy water... Weaving its own way through haunted highways and small towns, "Supernatural" is a refreshing break from most network horror shows. While the promos might seem glitzy thrown in with the rest of CW's fare, try looking past the surface and you'll see an intriguing mythology emerging in the heart of America.\\ And um, to prove that I have a life beyond tv and vomiting kids: Go Redskins! (Oh wait, that is TV) I could update you on Max's pneumonia, but that falls under the vomiting kids category. Uh. Um. Thinks really hard. Scratches head. I will leave you with this thought: E probably still equals M times C Squared, but I am kinda too busy thinking how Polka Dots changes the Joe and Blue dynamic and how best to get my kids to keep their food down to really know for sure.

@@ -1,0 +1,8 @@
+---
+title: "Oh Come On!"
+date: 2006-09-17
+categories: 
+  - "jen"
+---
+
+How unfair is it that I have a chest cold that makes it impossible to breathe deeply AND menstrual cramps that require deep, relaxing breaths? I think I need a brownie. But that would just clog up my throat even more. Pooh! So unfair.\\ ETA- And my Midol isn't working **at all**. It is a conspiracy, I tell you! Sheesh!
