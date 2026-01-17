@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title }}{% if title %} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ description or site.description }}">
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
 
   <!-- Tailwind CSS via CDN -->
   <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
@@ -52,44 +52,38 @@
 <body class="min-h-screen flex flex-col bg-gray-50 text-gray-900">
   <a href="#main-content" class="skip-link">Skip to content</a>
 
-  <header class="bg-white border-b border-gray-200">
-    <nav class="max-w-4xl mx-auto px-4 py-6">
-      <div class="flex items-center justify-between">
-        <a href="/" class="text-2xl font-bold text-gray-900 hover:text-primary transition-colors">
-          {{ site.title }}
-        </a>
-        <ul class="flex items-center gap-6">
-          <li>
-            <a href="/" class="text-gray-600 hover:text-primary transition-colors{% if page.url == '/' %} text-primary font-medium{% endif %}">
-              Home
-            </a>
-          </li>
-          <li>
-            <a href="/tags/" class="text-gray-600 hover:text-primary transition-colors{% if page.url == '/tags/' %} text-primary font-medium{% endif %}">
-              Tags
-            </a>
-          </li>
-          <li>
-            <a href="/about/" class="text-gray-600 hover:text-primary transition-colors{% if page.url == '/about/' %} text-primary font-medium{% endif %}">
-              About
-            </a>
-          </li>
-          <li>
-            <a href="/feed/" class="text-gray-600 hover:text-primary transition-colors" title="RSS Feed">
-              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                <path d="M5 3a1 1 0 000 2c5.523 0 10 4.477 10 10a1 1 0 102 0C17 8.373 11.627 3 5 3z"/>
-                <path d="M4 9a1 1 0 011-1 7 7 0 017 7 1 1 0 11-2 0 5 5 0 00-5-5 1 1 0 01-1-1z"/>
-                <circle cx="5" cy="15" r="2"/>
-              </svg>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-  </header>
-
   <main id="main-content" class="flex-grow">
-    {{ content | safe }}
+    <div class="max-w-3xl mx-auto px-4 py-16">
+      <header class="mb-12">
+        <h1 class="text-5xl font-bold text-gray-900 mb-4">{{ site.title }}</h1>
+        <p class="text-xl text-gray-600 mb-8">{{ site.description }}</p>
+        <nav>
+          <ul class="flex items-center gap-6">
+            <li>
+              <a href="/about/" class="text-gray-600 hover:text-primary transition-colors">
+                About
+              </a>
+            </li>
+            <li>
+              <a href="/tags/" class="text-gray-600 hover:text-primary transition-colors{% if page.url == '/tags/' %} text-primary font-medium{% endif %}">
+                Tags
+              </a>
+            </li>
+            <li>
+              <a href="/feed/" class="text-gray-600 hover:text-primary transition-colors" title="RSS Feed">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M5 3a1 1 0 000 2c5.523 0 10 4.477 10 10a1 1 0 102 0C17 8.373 11.627 3 5 3z"/>
+                  <path d="M4 9a1 1 0 011-1 7 7 0 017 7 1 1 0 11-2 0 5 5 0 00-5-5 1 1 0 01-1-1z"/>
+                  <circle cx="5" cy="15" r="2"/>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+
+      {{ content | safe }}
+    </div>
   </main>
 
   <footer class="bg-white border-t border-gray-200 mt-16">

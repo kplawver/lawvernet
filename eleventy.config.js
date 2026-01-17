@@ -35,7 +35,22 @@ module.exports = function(eleventyConfig) {
   // Excerpt filter for post previews
   eleventyConfig.addFilter("excerpt", (content) => {
     if (!content) return "";
-    const stripped = content.replace(/<[^>]*>/g, "");
+    // Remove HTML tags
+    let stripped = content.replace(/<[^>]*>/g, "");
+    // Decode HTML entities (strip angle brackets)
+    stripped = stripped
+      .replace(/&nbsp;/g, " ")
+      .replace(/&amp;/g, "&")
+      .replace(/&lt;|&gt;/g, "")
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;|&apos;/g, "'")
+      .replace(/&#(\d+);/g, (_, num) => String.fromCharCode(num))
+      .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)));
+    // Remove naked URLs (http://, https://, www.)
+    stripped = stripped.replace(/https?:\/\/[^\s]+/g, "");
+    stripped = stripped.replace(/www\.[^\s]+/g, "");
+    // Clean up extra whitespace
+    stripped = stripped.replace(/\s+/g, " ").trim();
     const words = stripped.split(/\s+/).slice(0, 50).join(" ");
     return words + (stripped.split(/\s+/).length > 50 ? "..." : "");
   });
