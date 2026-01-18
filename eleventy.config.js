@@ -7,6 +7,7 @@ module.exports = function(eleventyConfig) {
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/.htaccess");
 
   // Date filters
   eleventyConfig.addFilter("readableDate", (dateObj) => {

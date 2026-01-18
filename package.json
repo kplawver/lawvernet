@@ -9,7 +9,8 @@
     "clean": "rm -rf _site",
     "import": "node scripts/import-wordpress.js",
     "cleanup": "node scripts/cleanup-posts.js",
-    "new": "node scripts/new-post.js"
+    "new": "node scripts/new-post.js",
+    "deploy": "npm run build && rsync -avz --delete _site/ kplawver@iad1-shared-e1-03.dreamhost.com:/home/kplawver/dev.lawver.net/public/blog/"
   },
   "repository": {
     "type": "git",
