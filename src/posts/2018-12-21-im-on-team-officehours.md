@@ -3,7 +3,7 @@ title: "I'm on Team #OfficeHours"
 date: 2018-12-21
 coverImage: "DFE98371-CFB3-4C6B-854D-9C2D4BBEBD40.jpeg"
 tags:
-  - "officehours"
+  - "office-hours"
   - "development"
   - "non-profits"
   - "ruby-on-rails"
@@ -19,21 +19,21 @@ Some rules, because it wouldn't be official without some:
 - Please don't try to sell me anything. If you want to get feedback on your pitch, great, but I just... I don't want to.
 
 - You set the agenda. Some things you might ask me about:
-    - Savannah's tech scene, and/or [TechSAV](https://techsav.co).
-    
-    - Savannah restaurants
-    
-    - Baking bread
-    
-    - Technical leadership
-    
-    - Ruby on Rails or CSS (or databases or javascript or whatever)
-    
-    - How to create a guerilla organization that actually gets things done.
-    
-    - How to write a resume that a robot can read
-    
-    - Being on a board
+  - Savannah's tech scene, and/or [TechSAV](https://techsav.co).
+
+  - Savannah restaurants
+
+  - Baking bread
+
+  - Technical leadership
+
+  - Ruby on Rails or CSS (or databases or javascript or whatever)
+
+  - How to create a guerilla organization that actually gets things done.
+
+  - How to write a resume that a robot can read
+
+  - Being on a board
 
 - I guess "no sales pitches" is really the only _rule_.
 

@@ -1,0 +1,41 @@
+{% if page.url != '/' %}
+<li>
+  <a href="/" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors">
+    Home
+  </a>
+</li>
+{% endif %}
+<li>
+  <a href="/tags/" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors{% if page.url == '/tags/' %} text-primary dark:text-primary-light font-medium{% endif %}">
+    Tags
+  </a>
+</li>
+<li>
+  <a href="/about/" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors{% if page.url == '/about/' %} text-primary dark:text-primary-light font-medium{% endif %}">
+    About
+  </a>
+</li>
+<li>
+  <a href="/office-hours/" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors{% if page.url == '/office-hours/' %} text-primary dark:text-primary-light font-medium{% endif %}">
+    Office Hours
+  </a>
+</li>
+<li>
+  <a href="/feed/" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors" title="RSS Feed">
+    <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+      <path d="M5 3a1 1 0 000 2c5.523 0 10 4.477 10 10a1 1 0 102 0C17 8.373 11.627 3 5 3z"/>
+      <path d="M4 9a1 1 0 011-1 7 7 0 017 7 1 1 0 11-2 0 5 5 0 00-5-5 1 1 0 01-1-1z"/>
+      <circle cx="5" cy="15" r="2"/>
+    </svg>
+  </a>
+</li>
+<li>
+  <button @click="darkMode = !darkMode" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors" title="Toggle dark mode" aria-label="Toggle dark mode">
+    <svg x-show="darkMode" class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+      <path fill-rule="evenodd" d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" clip-rule="evenodd"/>
+    </svg>
+    <svg x-show="!darkMode" class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+      <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"/>
+    </svg>
+  </button>
+</li>
