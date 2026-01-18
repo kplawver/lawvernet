@@ -9,6 +9,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/.htaccess");
 
+  // Favicon files at root level
+  eleventyConfig.addPassthroughCopy({ "src/favicon.ico": "favicon.ico" });
+  eleventyConfig.addPassthroughCopy({ "src/apple-touch-icon.png": "apple-touch-icon.png" });
+  eleventyConfig.addPassthroughCopy({ "src/favicon-32x32.png": "favicon-32x32.png" });
+  eleventyConfig.addPassthroughCopy({ "src/favicon-16x16.png": "favicon-16x16.png" });
+  eleventyConfig.addPassthroughCopy({ "src/site.webmanifest": "site.webmanifest" });
+
   // Date filters
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("LLLL d, yyyy");
