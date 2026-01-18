@@ -30,6 +30,7 @@
   "homepage": "https://github.com/kplawver/lawvernet#readme",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-navigation": "^1.0.5",
     "@tailwindcss/typography": "^0.5.19",
     "autoprefixer": "^10.4.23",
     "eleventy-plugin-embed-everything": "^1.21.1",

@@ -1,9 +1,13 @@
 const { DateTime } = require("luxon");
 const embedEverything = require("eleventy-plugin-embed-everything");
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = function(eleventyConfig) {
   // Embed plugin for YouTube, Vimeo, Spotify, etc.
   eleventyConfig.addPlugin(embedEverything);
+
+  // Navigation plugin
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/css");

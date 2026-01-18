@@ -2,6 +2,9 @@
 layout: layouts/page.njk
 title: About
 description: Learn more about the author and this blog.
+eleventyNavigation:
+  key: About
+  order: 3
 ---
 
 This is my blog. It’s been around since [2000](/2000/07/welcome_to_lawv) and it’s hibernated more than once.

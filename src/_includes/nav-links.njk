@@ -1,25 +1,19 @@
-{% if page.url != '/' %}
+{% for entry in collections.all | eleventyNavigation %}
+{% if entry.url != '/' or page.url != '/' %}
 <li>
-  <a href="/" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors">
-    Home
+  <a href="{{ entry.url }}" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors{% if page.url == entry.url %} text-primary dark:text-primary-light font-medium{% endif %}">
+    {{ entry.title }}
   </a>
 </li>
 {% endif %}
+{% endfor %}
+{% for entry in navigation.external %}
 <li>
-  <a href="/tags/" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors{% if page.url == '/tags/' %} text-primary dark:text-primary-light font-medium{% endif %}">
-    Tags
+  <a href="{{ entry.url }}" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors" target="_blank" rel="noopener"{% if entry.icon %} title="{{ entry.title }}" aria-label="{{ entry.title }}"{% endif %}>
+    {% if entry.icon %}{{ entry.icon | safe }}{% else %}{{ entry.title }}{% endif %}
   </a>
 </li>
-<li>
-  <a href="/about/" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors{% if page.url == '/about/' %} text-primary dark:text-primary-light font-medium{% endif %}">
-    About
-  </a>
-</li>
-<li>
-  <a href="/office-hours/" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors{% if page.url == '/office-hours/' %} text-primary dark:text-primary-light font-medium{% endif %}">
-    Office Hours
-  </a>
-</li>
+{% endfor %}
 <li>
   <a href="/feed.xml" class="text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors" title="RSS Feed">
     <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
