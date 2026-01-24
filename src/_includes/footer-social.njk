@@ -1,3 +1,37 @@
+<nav class="mb-8" aria-label="Footer navigation">
+  <ul class="flex flex-wrap justify-center gap-x-8 gap-y-4 text-sm">
+    {% for entry in collections.all | eleventyNavigation %}
+    <li>
+      <a href="{{ entry.url }}" class="text-gray-600 hover:text-primary dark:text-slate-400 dark:hover:text-primary-light transition-colors">
+        {{ entry.title }}
+      </a>
+      {% if entry.children.length %}
+      <ul class="mt-2 ml-4 space-y-1">
+        {% for child in entry.children %}
+        <li>
+          <a href="{{ child.url }}" class="text-gray-500 hover:text-primary dark:text-slate-500 dark:hover:text-primary-light transition-colors">
+            {{ child.title }}
+          </a>
+          {% if child.children.length %}
+          <ul class="mt-1 ml-4 space-y-1">
+            {% for grandchild in child.children %}
+            <li>
+              <a href="{{ grandchild.url }}" class="text-gray-400 hover:text-primary dark:text-slate-600 dark:hover:text-primary-light transition-colors">
+                {{ grandchild.title }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+
 <p class="text-center text-gray-500 dark:text-slate-400 text-sm mb-2">
   You can also find me on <a href="https://social.lol/@kpl" class="text-primary hover:underline dark:text-primary-light">the Fediverse</a> and (ick) <a href="https://www.linkedin.com/in/kevinlawver/" class="text-primary hover:underline dark:text-primary-light">LinkedIn</a>.  If you want to see some old school classic social nonsense, you can also check out my <a href="https://tweets.lawver.net" class="text-primary hover:underline dark:text-primary-light">Twitter archive</a>.
 </p>
