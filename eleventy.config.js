@@ -45,6 +45,56 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  // Collection of unique years with their posts
+  eleventyConfig.addCollection("postsByYear", function(collectionApi) {
+    const posts = collectionApi.getFilteredByGlob("src/posts/**/*.md");
+    const yearMap = {};
+
+    posts.forEach(post => {
+      const year = DateTime.fromJSDate(post.date, { zone: "utc" }).toFormat("yyyy");
+      if (!yearMap[year]) {
+        yearMap[year] = [];
+      }
+      yearMap[year].push(post);
+    });
+
+    // Convert to array sorted by year descending, with posts sorted by date descending
+    return Object.keys(yearMap)
+      .sort((a, b) => b - a)
+      .map(year => ({
+        year,
+        posts: yearMap[year].sort((a, b) => b.date - a.date)
+      }));
+  });
+
+  // Collection of unique year/month combinations with their posts
+  eleventyConfig.addCollection("postsByYearMonth", function(collectionApi) {
+    const posts = collectionApi.getFilteredByGlob("src/posts/**/*.md");
+    const monthMap = {};
+
+    posts.forEach(post => {
+      const dt = DateTime.fromJSDate(post.date, { zone: "utc" });
+      const key = dt.toFormat("yyyy/LL"); // e.g., "2024/01"
+      if (!monthMap[key]) {
+        monthMap[key] = {
+          year: dt.toFormat("yyyy"),
+          month: dt.toFormat("LL"),
+          monthName: dt.toFormat("LLLL"),
+          posts: []
+        };
+      }
+      monthMap[key].posts.push(post);
+    });
+
+    // Convert to array sorted by date descending
+    return Object.keys(monthMap)
+      .sort((a, b) => b.localeCompare(a))
+      .map(key => ({
+        ...monthMap[key],
+        posts: monthMap[key].posts.sort((a, b) => b.date - a.date)
+      }));
+  });
+
   // Excerpt filter for post previews
   eleventyConfig.addFilter("excerpt", (content) => {
     if (!content) return "";
