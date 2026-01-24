@@ -6,6 +6,9 @@ pagination:
   alias: tag
   filter:
     - all
+    - posts
+    - postsByYear
+    - postsByYearMonth
 permalink: /tags/{{ tag | slugify }}/
 eleventyComputed:
   title: "Tagged: {{ tag }}"

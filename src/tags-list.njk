@@ -11,7 +11,7 @@ eleventyNavigation:
 
   <ul class="flex flex-wrap gap-3">
     {% for tag, posts in collections | dictsort %}
-      {% if tag != "all" %}
+      {% if tag not in ["all", "posts", "postsByYear", "postsByYearMonth"] %}
       <li>
         <a href="/tags/{{ tag | slugify }}/" class="inline-block bg-gray-100 hover:bg-gray-200 dark:bg-slate-700 dark:hover:bg-slate-600 dark:text-slate-200 px-3 py-2 rounded transition-colors">
           {{ tag | humanizeTag }} <span class="text-gray-500 dark:text-slate-400">({{ posts.length }})</span>

@@ -34,6 +34,14 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy/LL");
   });
 
+  eleventyConfig.addFilter("monthYear", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("LLLL yyyy");
+  });
+
+  eleventyConfig.addFilter("monthYearShort", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("LL/yyyy");
+  });
+
   eleventyConfig.addFilter("isoDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
   });
