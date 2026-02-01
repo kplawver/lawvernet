@@ -1,13 +1,13 @@
 ---
 layout: layouts/page.njk
-title: Blogroll
+title: Blogroll - A list of places where people write words that you can read!
 description: Blogs I read and recommend.
 eleventyNavigation:
   key: Blogroll
   order: 7
 ---
 
-<p class="mb-8">A blogroll is a list of blogs that I read and recommend. It's a tradition from the early days of blogging, and I'm happy to keep it alive.</p>
+I decided that if I'm going to go old school, I'm going to go all the way old school and try to bring back the blogroll.  For now, it's "powered" by a janky hand-export of some of my feed reader's categories, which I need to redo since people are all over the place and the categories kind of no longer make sense - but it works for now (because there's a script that checks to make sure every site is still up)!
 
 {% for category in blogroll.categories %}
 <h2 class="text-2xl font-bold text-gray-900 dark:text-slate-50 mt-8 mb-2">{{ category.name }}</h2>
