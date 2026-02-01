@@ -140,6 +140,16 @@ module.exports = function(eleventyConfig) {
       .replace(/\b\w/g, c => c.toUpperCase());
   });
 
+  // Extract domain from URL
+  eleventyConfig.addFilter("domain", (url) => {
+    if (!url) return "";
+    try {
+      return new URL(url).hostname;
+    } catch {
+      return url.replace(/^https?:\/\//, '').split('/')[0];
+    }
+  });
+
   return {
     dir: {
       input: "src",

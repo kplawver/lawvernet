@@ -1,0 +1,24 @@
+---
+layout: layouts/page.njk
+title: Blogroll
+description: Blogs I read and recommend.
+eleventyNavigation:
+  key: Blogroll
+  order: 7
+---
+
+<p class="mb-8">A blogroll is a list of blogs that I read and recommend. It's a tradition from the early days of blogging, and I'm happy to keep it alive.</p>
+
+{% for category in blogroll.categories %}
+<h2 class="text-2xl font-bold text-gray-900 dark:text-slate-50 mt-8 mb-2">{{ category.name }}</h2>
+<ul class="space-y-2 list-none pl-0 ml-0">
+  {% for item in category.items %}
+  <li class="flex items-baseline gap-2">
+    <img src="https://icons.duckduckgo.com/ip3/{{ item.url | domain }}.ico" alt="" class="w-4 h-4 flex-shrink-0 relative top-0.5" />
+    <span>
+      <a href="{{ item.url }}" class="text-primary hover:text-primary-dark dark:text-primary-light dark:hover:text-primary font-medium">{{ item.title }}</a>{% if item.description %}<span class="text-gray-600 dark:text-gray-400"> - {{ item.description }}</span>{% endif %}
+    </span>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

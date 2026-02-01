@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Blogroll</title>
+  </head>
+  <body>
+    <outline text="Favorites" title="Favorites">
+      <outline type="rss" text="I Will Dare" title="I Will Dare" htmlUrl="https://iwilldare.com" description="Jodi has been blogging as long as I have and is my favorite writer, on the internet or off."/>
+      <outline type="rss" text="Kottke" title="Kottke" htmlUrl="https://kottke.org" description="Everyone's read Jason Kottke forever, right? Still one of the best sources of interesting stuff on the internet." />
+      <outline text="Whatever" title="Whatever" type="rss" htmlUrl="https://whatever.scalzi.com" description="One of my favorite authors, and fun fact, he kind of used to work for me (in that he was the in-house blogger for ficlets)"/>
+      <outline text="wreckage/salvage" title="wreckage/salvage" type="rss" htmlUrl="https://www.wrecka.ge/" description="Deep reporting on deeply important things."/>
+      <outline type="rss" htmlUrl="https://talkingpointsmemo.com" title="Talking Points Memo" description="My go-to for political commentary. I've read Josh Marshall since 2000 and haven't stopped." />
+    </outline>
+    <outline text="Friends and Family" title="Friends and Family">
+      <outline text="Abstractioneer by John Panzer" title="Abstractioneer by John Panzer" type="rss" htmlUrl="https://www.abstractioneer.org/"/>
+      <outline text="elisa nader" title="elisa nader" type="rss" htmlUrl="https://elisanader.tumblr.com/"/>
+      <outline text="Idea Place" title="Idea Place" type="rss" htmlUrl="https://ideaplace.tumblr.com/"/>
+      <outline text="Draw Something, Steve" title="Draw Something, Steve" type="rss" htmlUrl="https://sgchipman.tumblr.com/"/>
+      <outline text="John Herren’s Blog" title="John Herren’s Blog" type="rss" htmlUrl="https://jhherren.wordpress.com"/>
+      <outline text="it's true. i am the real mike golay." title="it's true. i am the real mike golay." type="rss" htmlUrl="https://therealmikegolay.tumblr.com/"/>
+      <outline text="psd" title="psd" type="rss" htmlUrl="https://psd.tumblr.com/"/>
+      <outline text="The Continuing Adventures of Dr Dzoe" title="The Continuing Adventures of Dr Dzoe" type="rss" htmlUrl="https://drdzoe.com"/>
+      <outline text="g9g :: The oft-disjointed thoughts of Porter Glendinning" title="g9g :: The oft-disjointed thoughts of Porter Glendinning" type="rss" htmlUrl="http://www.g9g.org/"/>
+      <outline text="User Experience Design" title="User Experience Design" type="rss" htmlUrl="http://jimlaneuxd.blogspot.com/"/>
+      <outline text="sixtwothree.org: Posts" title="sixtwothree.org: Posts" type="rss" htmlUrl="https://sixtwothree.org/posts"/>
+      <outline text="Ernie Miller" title="Ernie Miller" type="rss" htmlUrl="https://ernie.io"/>
+      <outline text="May Like The Month" title="May Like The Month" type="rss" htmlUrl="https://www.maycod.es/blog/"/>
+      <outline text="Will Jessop's Writings" title="Will Jessop's Writings" type="rss" htmlUrl="https://willj.net/"/>
+      <outline text="Blog by Rusty Conover" title="Blog by Rusty Conover" type="rss" htmlUrl="https://rusty.today"/>
+      <outline text="Optional but Encouraged with Breanne Boland" title="Optional but Encouraged with Breanne Boland" type="rss" htmlUrl="https://buttondown.com/optionalbutencouraged"/>
+
+    </outline>
+    <outline text="New Finds" title="New Finds">
+      <outline text="Think Quarterly" title="Think Quarterly" type="rss" htmlUrl="http://thinkquarterly.co.uk/"/>
+      <outline text="Kitchen Soap" title="Kitchen Soap" type="rss" htmlUrl="http://www.kitchensoap.com"/>
+      <outline text="Longform" title="Longform" type="rss" htmlUrl="https://longform.org/"/>
+      <outline text="Untitled" title="Untitled" type="rss" htmlUrl="https://meganamram.tumblr.com/"/>
+      <outline text="Rules for My Unborn Son" title="Rules for My Unborn Son" type="rss" htmlUrl="https://rulesformyunbornson.tumblr.com/"/>
+      <outline text="Content from The Batman Villain Project" title="Content from The Batman Villain Project" type="rss" htmlUrl="https://www.flickr.com/photos/wanderingbert/sets/72157608993449413"/>
+      <outline text="Rampaged Reality" title="Rampaged Reality" type="rss" htmlUrl="https://rampagedreality.com"/>
+      <outline text="Dating a Developer" title="Dating a Developer" type="rss" htmlUrl="https://datingadeveloper.tumblr.com/"/>
+      <outline text="Writing - rachelbythebay" title="Writing - rachelbythebay" type="rss" htmlUrl="https://rachelbythebay.com/w/"/>
+      <outline text="Manuel Moreale — Everything Feed" title="Manuel Moreale — Everything Feed" type="rss" htmlUrl="https://manuelmoreale.com"/>
+      <outline text="mimi smartypants" title="mimi smartypants" type="rss" htmlUrl="https://mimismartypants.com"/>
+      <outline text="Robin Rendle" title="Robin Rendle" type="rss" htmlUrl="https://robinrendle.com/"/>
+      <outline text="Lucy Bellwood" title="Lucy Bellwood" type="rss" htmlUrl="https://lucybellwood.com"/>
+      <outline text="Blaseball News Network" title="Blaseball News Network" type="rss" htmlUrl="https://blaseball.news/"/>
+      <outline text="localghost" title="localghost" type="rss" htmlUrl="https://localghost.dev"/>
+      <outline text="drcathicks" title="drcathicks" type="rss" htmlUrl="https://www.drcathicks.com/blog"/>
+      <outline text="everything changes" title="everything changes" type="rss" htmlUrl="https://everythingchanges.us/"/>
+      <outline text="Westenberg." title="Westenberg." type="rss" htmlUrl="https://www.joanwestenberg.com/"/>
+    </outline>
+    <outline text="Ruby on Rails" title="Ruby on Rails">
+      <outline text="ones zeros majors and minors" title="ones zeros majors and minors" type="rss" htmlUrl="http://ozmm.org/"/>
+      <outline text="Tenderlove Making" title="Tenderlove Making" type="rss" htmlUrl="https://tenderlovemaking.com/"/>
+      <outline text="James on Software" title="James on Software" type="rss" htmlUrl="http://jamesgolick.com/"/>
+      <outline text="RailsTips by John Nunemaker" title="RailsTips by John Nunemaker" type="rss" htmlUrl="http://railstips.org/blog/"/>
+      <outline text="The Buckblog" title="The Buckblog" type="rss" htmlUrl="http://weblog.jamisbuck.org"/>
+      <outline text="Phusion Blog" title="Phusion Blog" type="rss" htmlUrl="https://blog.phusion.nl/"/>
+      <outline text="technicalpickles - Josh Nichols on the Internet" title="technicalpickles - Josh Nichols on the Internet" type="rss" htmlUrl="http://technicalpickles.com/posts.html"/>
+      <outline text="Adam Keys is Thinking" title="Adam Keys is Thinking" type="rss" htmlUrl="https://therealadam.com/"/>
+      <outline text="I am BARRY HESS" title="I am BARRY HESS" type="rss" htmlUrl="https://bjhess.com"/>
+      <outline text="Ryan Bigg’s Blog" title="Ryan Bigg’s Blog" type="rss" htmlUrl="https://ryanbigg.com/"/>
+      <outline text="Robby on Rails" title="Robby on Rails" type="rss" htmlUrl="https://robbyonrails.com/"/>
+    </outline>
+    <outline text="Web Dev" title="Web Dev">
+      <outline text="ongoing by Tim Bray" title="ongoing by Tim Bray" type="rss" htmlUrl="https://www.tbray.org/ongoing/"/>
+      <outline text="Sam Ruby" title="Sam Ruby" type="rss" htmlUrl="https://intertwingly.net/blog/"/>
+      <outline text="BitWorking" title="BitWorking" type="rss" htmlUrl="https://bitworking.org/"/>
+      <outline text="Coding Horror" title="Coding Horror" type="rss" htmlUrl="https://blog.codinghorror.com/"/>
+      <outline text="High Performance Web Sites" title="High Performance Web Sites" type="rss" htmlUrl="https://www.stevesouders.com/blog"/>
+      <outline text="Kitchen Soap" title="Kitchen Soap" type="rss" htmlUrl="http://www.kitchensoap.com"/>
+      <outline text="aws advent" title="aws advent" type="rss" htmlUrl="https://awsadvent.tumblr.com/"/>
+      <outline text="inessential.com" title="inessential.com" type="rss" htmlUrl="https://inessential.com/"/>
+      <outline text="in progress" title="in progress" type="rss" htmlUrl="https://cwilso.com"/>
+      <outline text="Paul Downey" title="Paul Downey" type="rss" htmlUrl="http://blog.whatfettle.com"/>
+      <outline text="Adactio: Journal" title="Adactio: Journal" type="rss" htmlUrl="https://adactio.com/journal/"/>
+      <outline text="456 Berea Street" title="456 Berea Street" type="rss" htmlUrl="https://www.456bereastreet.com/"/>
+      <outline text="Snook.ca" title="Snook.ca" type="rss" htmlUrl="https://snook.ca/"/>
+      <outline text="Thoughts From Eric" title="Thoughts From Eric" type="rss" htmlUrl="https://meyerweb.com/eric/thoughts"/>
+      <outline text="Let's Encrypt" title="Let's Encrypt" type="rss" htmlUrl="https://letsencrypt.org/"/>
+      <outline text="LJ's Blog" title="LJ's Blog" type="rss" htmlUrl="https://www.lottejackson.com"/>
+      <outline text="24 ways" title="24 ways" type="rss" htmlUrl="https://24ways.org/"/>
+      <outline text="Mike Industries" title="Mike Industries" type="rss" htmlUrl="https://mikeindustries.com/blog"/>
+      <outline text="charity.wtf" title="charity.wtf" type="rss" htmlUrl="https://charity.wtf"/>
+      <outline text="Julia Evans" title="Julia Evans" type="rss" htmlUrl="https://jvns.ca"/>
+      <outline text="GarrettDimon.com Full" title="GarrettDimon.com Full" type="rss" htmlUrl="https://garrettdimon.com/feed"/>
+      <outline text="blog.lmorchard.com" title="blog.lmorchard.com" type="rss" htmlUrl="https://blog.lmorchard.com"/>
+      <outline text="Aaron Gustafson: Latest Posts &amp; Links" title="Aaron Gustafson: Latest Posts &amp; Links" type="rss" htmlUrl="https://www.aaron-gustafson.com"/>
+      <outline text="Practical Artificial Intelligence" title="Practical Artificial Intelligence" type="rss" htmlUrl="https://www.practicalai.io/"/>
+      <outline text="Rubix Code" title="Rubix Code" type="rss" htmlUrl="https://rubikscode.net"/>
+      <outline text="Kelly Sutton" title="Kelly Sutton" type="rss" htmlUrl="https://kellysutton.com/"/>
+      <outline text="Piper Haywood" title="Piper Haywood" type="rss" htmlUrl="https://piperhaywood.com/"/>
+      <outline text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" type="rss" htmlUrl="https://alistapart.com"/>
+      <outline text="Winnie Lim" title="Winnie Lim" type="rss" htmlUrl="https://winnielim.org"/>
+      <outline text="Stream | Joe Gregorio" title="Stream | Joe Gregorio" type="rss" htmlUrl="https://stream.bitworking.org/"/>
+      <outline text="Ana Rodrigues" title="Ana Rodrigues" type="rss" htmlUrl="https://ohhelloana.blog"/>
+      <outline text="Maggie Appleton" title="Maggie Appleton" type="rss" htmlUrl="https://maggieappleton.com/"/>
+      <outline text="maya.land" title="maya.land" type="rss" htmlUrl="https://maya.land/"/>
+      <outline text="Sara Soueidan — UI developer" title="Sara Soueidan — UI developer" type="rss" htmlUrl="https://www.sarasoueidan.com/"/>
+      <outline text="Erin Kissane's small internet website" title="Erin Kissane's small internet website" type="rss" htmlUrl="https://erinkissane.com"/>
+      <outline text="coralie's contemplations in markup" title="coralie's contemplations in markup" type="rss" htmlUrl="https://blog.koalie.net"/>
+    </outline>
+    <outline text="SXSW People" title="SXSW People">
+      <outline text="random($foo)" title="random($foo)" type="rss" htmlUrl="https://randomfoo.net"/>
+      <outline text="Derek Powazek" title="Derek Powazek" type="rss" htmlUrl="https://powazek.com"/>
+      <outline text="onfocus.com" title="onfocus.com" type="rss" htmlUrl="https://www.onfocus.com/"/>
+      <outline text="Scott Andrew" title="Scott Andrew" type="rss" htmlUrl="https://scottandrew.com/"/>
+      <outline text="Brewster's Field Guide to Web 2.666" title="Brewster's Field Guide to Web 2.666" type="rss" htmlUrl="http://kentbrewster.com"/>
+      <outline text="Consolation Champs" title="Consolation Champs" type="rss" htmlUrl="https://www.consolationchamps.com"/>
+      <outline text="dan says..." title="dan says..." type="rss" htmlUrl="https://dansays.tumblr.com/"/>
+      <outline text="Blog - baratunde.com" title="Blog - baratunde.com" type="rss" htmlUrl="https://www.baratunde.com/blog/"/>
+      <outline text="shooshee | sheeshoo" title="shooshee | sheeshoo" type="rss" htmlUrl="https://shooshee.tumblr.com/"/>
+      <outline text="M-D's Random Thoughts" title="M-D's Random Thoughts" type="rss" htmlUrl="https://www.m-dnovember.com"/>
+      <outline text="kd's 'Title Goes Here'" title="kd's 'Title Goes Here'" type="rss" htmlUrl="http://k-dj.blogspot.com/"/>
+      <outline text="Global Spin" title="Global Spin" type="rss" htmlUrl="http://globalspin.com"/>
+      <outline text="Happy Day" title="Happy Day" type="rss" htmlUrl="https://daviddylanthomas.tumblr.com/"/>
+      <outline text="vanderwal.net Off the Top" title="vanderwal.net Off the Top" type="rss" htmlUrl="https://www.vanderwal.net/random/index.php"/>
+      <outline text="Christopher Schmitt" title="Christopher Schmitt" type="rss" htmlUrl="https://christopher.org/"/>
+      <outline text="Comments on:" title="Comments on:" type="rss" htmlUrl="https://factoryjoe.com"/>
+      <outline text="Simon Willison's Weblog: Entries" title="Simon Willison's Weblog: Entries" type="rss" htmlUrl="http://simonwillison.net/"/>
+      <outline text="Waxy.org" title="Waxy.org" type="rss" htmlUrl="https://waxy.org/"/>
+      <outline text="Jason A. Hoffman" title="Jason A. Hoffman" type="rss" htmlUrl="https://fullhoffman.com"/>
+      <outline text="Kevin Smokler" title="Kevin Smokler" type="rss" htmlUrl="https://kevinsmokler.com"/>
+      <outline text="waferbaby" title="waferbaby" type="rss" htmlUrl="https://waferbaby.com/"/>
+      <outline text="Anil Dash" title="Anil Dash" type="rss" htmlUrl="https://anildash.com/"/>
+      <outline text="tewalkerjr" title="tewalkerjr" type="rss" htmlUrl="https://tewalkerjr.com"/>
+    </outline>
+    <outline text="Industry News" title="Industry News">
+      <outline text="Joel on Software" title="Joel on Software" type="rss" htmlUrl="https://www.joelonsoftware.com"/>
+      <outline text="BrianOberkirch.com" title="BrianOberkirch.com" type="rss" htmlUrl="https://www.brianoberkirch.com/"/>
+      <outline text="Think Quarterly" title="Think Quarterly" type="rss" htmlUrl="http://thinkquarterly.co.uk/"/>
+      <outline text="Doc Searls Weblog" title="Doc Searls Weblog" type="rss" htmlUrl="https://doc.searls.com"/>
+      <outline text="The Technium" title="The Technium" type="rss" htmlUrl="https://kk.org/thetechnium"/>
+      <outline text="BRYCE DOT VC" title="BRYCE DOT VC" type="rss" htmlUrl="https://bryce.vc/"/>
+      <outline text="Blog - Creative Commons" title="Blog - Creative Commons" type="rss" htmlUrl="https://creativecommons.org/blog/"/>
+      <outline text="Ben Pieratt, Blog" title="Ben Pieratt, Blog" type="rss" htmlUrl="https://blog.pieratt.com/"/>
+      <outline text="The Distance" title="The Distance" type="rss" htmlUrl="https://thedistance.basecamp.com"/>
+      <outline text="Useful Mac" title="Useful Mac" type="rss" htmlUrl="https://usefulmac.com/"/>
+      <outline text="MacStories" title="MacStories" type="rss" htmlUrl="https://www.macstories.net/"/>
+      <outline text="Ben Horowitz - Andreessen Horowitz" title="Ben Horowitz - Andreessen Horowitz" type="rss" htmlUrl="https://a16z.com"/>
+      <outline text="Stacking the Bricks" title="Stacking the Bricks" type="rss" htmlUrl="https://stackingthebricks.com/"/>
+      <outline text="Rands in Repose" title="Rands in Repose" type="rss" htmlUrl="https://randsinrepose.com"/>
+      <outline text="The Verge - Full RSS for subscribers | The Verge" title="The Verge - Full RSS for subscribers | The Verge" type="rss" htmlUrl="https://www.theverge.com"/>
+      <outline text="The Verge - Notepad for subscribers | The Verge" title="The Verge - Notepad for subscribers | The Verge" type="rss" htmlUrl="https://www.theverge.com"/>
+    </outline>
+    <outline text="Funny" title="Funny">
+      <outline text="Diesel Sweeties webcomic by rstevens" title="Diesel Sweeties webcomic by rstevens" type="rss" htmlUrl="http://dieselsweeties.com"/>
+      <outline text="The Oatmeal - Comics by Matthew Inman" title="The Oatmeal - Comics by Matthew Inman" type="rss" htmlUrl="http://theoatmeal.com/"/>
+      <outline text="what if?" title="what if?" type="rss" htmlUrl="https://what-if.xkcd.com"/>
+      <outline text="Nedroid Picture Diary RSS" title="Nedroid Picture Diary RSS" type="rss" htmlUrl="http://nedroid.com"/>
+      <outline text="garfield minus garfield" title="garfield minus garfield" type="rss" htmlUrl="https://garfieldminusgarfield.net/"/>
+      <outline text="IF WE DON'T, REMEMBER ME." title="IF WE DON'T, REMEMBER ME." type="rss" htmlUrl="https://iwdrm.tumblr.com/"/>
+      <outline text="LiarTownUSA" title="LiarTownUSA" type="rss" htmlUrl="https://liartownusa.tumblr.com/"/>
+      <outline text="Being a female software engineer" title="Being a female software engineer" type="rss" htmlUrl="https://femalesoftwareeng.tumblr.com/"/>
+      <outline text="Tragedy Series" title="Tragedy Series" type="rss" htmlUrl="https://tragedyseries.tumblr.com/"/>
+      <outline text="Chainsawsuit by Kris Straub – now that's what i call content" title="Chainsawsuit by Kris Straub – now that's what i call content" type="rss" htmlUrl="http://chainsawsuit.com"/>
+      <outline text="Poorly Drawn Lines" title="Poorly Drawn Lines" type="rss" htmlUrl="https://poorlydrawnlines.com"/>
+      <outline text="Married To The Sea" title="Married To The Sea" type="rss" htmlUrl="http://www.marriedtothesea.com"/>
+      <outline text="Toothpaste For Dinner" title="Toothpaste For Dinner" type="rss" htmlUrl="http://www.toothpastefordinner.com"/>
+      <outline text="HOBOTOPIA" title="HOBOTOPIA" type="rss" htmlUrl="http://apelad.blogspot.com/"/>
+      <outline text="Thumbs and Ammo" title="Thumbs and Ammo" type="rss" htmlUrl="http://thumbsandammo.blogspot.com/"/>
+      <outline text="Running a startup" title="Running a startup" type="rss" htmlUrl="https://runningastartup.tumblr.com/"/>
+      <outline text="Running from Camera" title="Running from Camera" type="rss" htmlUrl="http://runningfromcamera.blogspot.com/"/>
+      <outline text="Sleep Talkin' Man" title="Sleep Talkin' Man" type="rss" htmlUrl="http://sleeptalkinman.blogspot.com/"/>
+      <outline text="DevOps Reactions" title="DevOps Reactions" type="rss" htmlUrl="https://devopsreactions.tumblr.com/"/>
+      <outline text="Loading Artist" title="Loading Artist" type="rss" htmlUrl="https://loadingartist.com/"/>
+      <outline text="Cats Checking Into Things" title="Cats Checking Into Things" type="rss" htmlUrl="https://catscheckingintothings.tumblr.com/"/>
+      <outline text="Cats Getting Things" title="Cats Getting Things" type="rss" htmlUrl="https://catsgettingthings.tumblr.com/"/>
+      <outline text="Hipster Animals: A Field Guide" title="Hipster Animals: A Field Guide" type="rss" htmlUrl="https://hipster-animals.tumblr.com/"/>
+      <outline text="explodingdog" title="explodingdog" type="rss" htmlUrl="https://explodingdog.tumblr.com/"/>
+      <outline text="Fuck off, Jesus!" title="Fuck off, Jesus!" type="rss" htmlUrl="https://fuckoffjesus.tumblr.com/"/>
+      <outline text="COMICS &amp; NONSENSE BY PETER" title="COMICS &amp; NONSENSE BY PETER" type="rss" htmlUrl="https://rockpapercynic.tumblr.com/"/>
+      <outline text="RELAUNCHED" title="RELAUNCHED" type="rss" htmlUrl="http://relaunched-blog.blogspot.com/"/>
+      <outline text="TEENAGE MUTANT NINJA NOSES" title="TEENAGE MUTANT NINJA NOSES" type="rss" htmlUrl="https://teenagemutantninjanoses.tumblr.com/"/>
+      <outline text="https://spidermanspiderman.tumblr.com/" title="https://spidermanspiderman.tumblr.com/" type="rss" htmlUrl="https://spidermanspiderman.tumblr.com/"/>
+      <outline text="https://teamcoco.tumblr.com/" title="https://teamcoco.tumblr.com/" type="rss" htmlUrl="https://teamcoco.tumblr.com/"/>
+      <outline text="Uploads from MacLane" title="Uploads from MacLane" type="rss" htmlUrl="https://www.flickr.com/photos/27826007@N05/"/>
+      <outline text="W3C Memes" title="W3C Memes" type="rss" htmlUrl="https://w3cmemes.tumblr.com/"/>
+      <outline text="GREAT SHOWDOWNS by scott c." title="GREAT SHOWDOWNS by scott c." type="rss" htmlUrl="https://greatshowdowns.com/"/>
+      <outline text="HANDYMARTIAN'S ILLUSTRATED ALIENS" title="HANDYMARTIAN'S ILLUSTRATED ALIENS" type="rss" htmlUrl="https://illustratedaliens.tumblr.com/"/>
+      <outline text="The System" title="The System" type="rss" htmlUrl="http://www.systemcomic.com"/>
+      <outline text="Simpsonized" title="Simpsonized" type="rss" htmlUrl="https://drawthesimpsons.tumblr.com/"/>
+      <outline text="Behind Bob's Burgers" title="Behind Bob's Burgers" type="rss" htmlUrl="https://behindbobsburgers.com/"/>
+      <outline text="Animals Sucking at Jumping" title="Animals Sucking at Jumping" type="rss" htmlUrl="https://animalssuckingatjumping.tumblr.com/"/>
+      <outline text="HOBOTOPIA" title="HOBOTOPIA" type="rss" htmlUrl="https://hobotopia.com/"/>
+      <outline text="Futuramized" title="Futuramized" type="rss" htmlUrl="https://futuramized.tumblr.com/"/>
+      <outline text="Chris Piascik" title="Chris Piascik" type="rss" htmlUrl="https://chrispiascik.tumblr.com/"/>
+      <outline text="Swear Trek" title="Swear Trek" type="rss" htmlUrl="https://sweartrek.com/"/>
+      <outline text="LOLNEIN" title="LOLNEIN" type="rss" htmlUrl="https://lolnein.tumblr.com/"/>
+      <outline text="w3cmemes Living Standard" title="w3cmemes Living Standard" type="rss" htmlUrl="https://w3cmemes.wordpress.com"/>
+      <outline text="Meowskertown" title="Meowskertown" type="rss" htmlUrl="https://meowskertown.tumblr.com/"/>
+      <outline text="All GIFs" title="All GIFs" type="rss" htmlUrl="https://gifs.cackhanded.net"/>
+    </outline>
+    <outline text="Food Things" title="Food Things">
+      <outline text="Orangette" title="Orangette" type="rss" htmlUrl="http://orangette.blogspot.com/"/>
+      <outline text="The Woks of Life" title="The Woks of Life" type="rss" htmlUrl="https://thewoksoflife.com/"/>
+      <outline text="Southern Foodways Alliance" title="Southern Foodways Alliance" type="rss" htmlUrl="https://www.southernfoodways.org"/>
+      <outline text="Caramel Potatoes" title="Caramel Potatoes" type="rss" htmlUrl="https://caramelpotatoes.com"/>
+      <outline text="Red House Spice" title="Red House Spice" type="rss" htmlUrl="https://redhousespice.com/"/>
+      <outline text="Nancie's Table" title="Nancie's Table" type="rss" htmlUrl="https://nanciemcdermott.com"/>
+      <outline text="Ruhlman" title="Ruhlman" type="rss" htmlUrl="https://ruhlman.com/"/>
+      <outline text="La Piña en la Cocina" title="La Piña en la Cocina" type="rss" htmlUrl="https://pinaenlacocina.com/"/>
+      <outline text="Post Punk Kitchen" title="Post Punk Kitchen" type="rss" htmlUrl="https://www.theppk.com/"/>
+    </outline>
+  </body>
+</opml>
