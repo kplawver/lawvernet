@@ -11,7 +11,7 @@ I've abandoned most of the major social networks over the past few years. I dele
 
 I believe in the open web and have for over thirty years. We've gotten lazy and allowed ourselves, our friends and our families to get "captured" by large corporations who've turned us against one another to their own ends.
 
-It's time to build new things, and I don't know what looks like but it's probably a lot like the Fediverse - smaller, distributed, and built by people who care about people.
+It's time to build new things, and I don't know what that looks like but it's probably a lot like the Fediverse - smaller, distributed, and built by people who care about people.
 
 So, with all that said, here's where I am, kind of in order of priority?
 
