@@ -85,6 +85,42 @@ async function main() {
     }
   }
 
+  // Remove specific sections entirely
+  const sectionsToRemove = ['My Stuff', 'Tumblr', 'Podcasts'];
+  for (const section of sectionsToRemove) {
+    const escapedSection = section.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const sectionRegex = new RegExp(`\\s*<outline text="${escapedSection}" title="${escapedSection}">[\\s\\S]*?</outline>`, 'g');
+    const before = opml;
+    opml = opml.replace(sectionRegex, '');
+    if (opml !== before) {
+      console.log(`Removed section: ${section}`);
+    }
+  }
+
+  // Remove empty sections (outlines with no children)
+  const emptySectionRegex = /\s*<outline text="[^"]*" title="[^"]*"\/>\s*/g;
+  const selfClosingMatches = opml.match(emptySectionRegex);
+  if (selfClosingMatches) {
+    for (const m of selfClosingMatches) {
+      const name = m.match(/text="([^"]*)"/)?.[1];
+      // Skip leaf-level entries that have htmlUrl (those are actual feeds, not sections)
+      if (!m.includes('htmlUrl')) {
+        console.log(`Removed empty section: ${name}`);
+      }
+    }
+  }
+  // Remove empty section outlines (self-closing outlines without htmlUrl are empty categories)
+  opml = opml.replace(/\s*<outline text="[^"]*" title="[^"]*"(?!.*htmlUrl)\s*\/>/g, '');
+
+  // Move "Faves" section to the top (right after <body>)
+  const favesRegex = /(\s*<outline text="Faves" title="Faves">[\s\S]*?<\/outline>)/;
+  const favesMatch = opml.match(favesRegex);
+  if (favesMatch) {
+    opml = opml.replace(favesRegex, '');
+    opml = opml.replace(/<body>\n/, `<body>\n${favesMatch[1]}\n`);
+    console.log('Moved "Faves" to the top of the blogroll.');
+  }
+
   // Clean up any empty lines that might have been left
   opml = opml.replace(/\n\s*\n\s*\n/g, '\n\n');
 
