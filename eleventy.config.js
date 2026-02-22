@@ -75,6 +75,13 @@ module.exports = function(eleventyConfig) {
       }));
   });
 
+  // Toots collection sorted by date (newest first)
+  eleventyConfig.addCollection("toots", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/toots/**/*.md").sort((a, b) => {
+      return b.date - a.date;
+    });
+  });
+
   // Collection of unique year/month combinations with their posts
   eleventyConfig.addCollection("postsByYearMonth", function(collectionApi) {
     const posts = collectionApi.getFilteredByGlob("src/posts/**/*.md");
@@ -138,6 +145,26 @@ module.exports = function(eleventyConfig) {
     return tag
       .replace(/[-_]/g, ' ')
       .replace(/\b\w/g, c => c.toUpperCase());
+  });
+
+  // Filter toots to those matching a given date
+  eleventyConfig.addFilter("tootsForDate", (toots, date) => {
+    if (!toots || !date) return [];
+    const target = DateTime.fromJSDate(date, { zone: "utc" }).toFormat("yyyy-LL-dd");
+    return toots.filter(toot => {
+      const tootDate = DateTime.fromJSDate(toot.date, { zone: "utc" }).toFormat("yyyy-LL-dd");
+      return tootDate === target;
+    });
+  });
+
+  // Filter toots to those matching a given year/month (e.g., "2026/02")
+  eleventyConfig.addFilter("tootsForMonth", (toots, year, month) => {
+    if (!toots || !year || !month) return [];
+    const target = `${year}-${month}`;
+    return toots.filter(toot => {
+      const tootMonth = DateTime.fromJSDate(toot.date, { zone: "utc" }).toFormat("yyyy-LL");
+      return tootMonth === target;
+    });
   });
 
   // Extract domain from URL
