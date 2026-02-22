@@ -1,0 +1,46 @@
+<div class="border border-gray-200 dark:border-slate-700 rounded-lg p-4 mb-4 bg-white dark:bg-slate-800">
+  {% if toot.data.type == "boost" and toot.data.boostOf %}
+  <div class="flex items-center gap-2 text-sm text-gray-500 dark:text-slate-400 mb-2">
+    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+    </svg>
+    <span>Boosted <a href="{{ toot.data.boostOf.url }}" class="text-primary hover:underline dark:text-primary-light" rel="noopener noreferrer" target="_blank">{{ toot.data.boostOf.author }}</a> ({{ toot.data.boostOf.handle }})</span>
+  </div>
+  {% endif %}
+
+  {% if toot.data.spoilerText %}
+  <details class="mb-2">
+    <summary class="cursor-pointer text-gray-700 dark:text-slate-300 font-medium">
+      CW: {{ toot.data.spoilerText }}
+    </summary>
+    <div class="mt-2 prose prose-sm dark:prose-invert max-w-none dark:prose-a:text-primary-light">
+      {{ toot.content | safe }}
+    </div>
+  </details>
+  {% else %}
+  <div class="prose prose-sm dark:prose-invert max-w-none dark:prose-a:text-primary-light">
+    {{ toot.content | safe }}
+  </div>
+  {% endif %}
+
+  {% if toot.data.media and toot.data.media.length %}
+  <div class="mt-3 grid gap-2 {{ 'grid-cols-2' if toot.data.media.length > 1 else '' }}">
+    {% for item in toot.data.media %}
+      {% if item.type == "image" %}
+      <img src="{{ item.url }}" alt="{{ item.alt }}" class="rounded-lg w-full h-auto" loading="lazy">
+      {% elif item.type == "video" or item.type == "gifv" %}
+      <video src="{{ item.url }}" class="rounded-lg w-full" controls {{ "autoplay loop muted" if item.type == "gifv" else "" }}>
+        {{ item.alt }}
+      </video>
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="mt-3 flex items-center justify-between text-sm text-gray-500 dark:text-slate-400">
+    <time datetime="{{ toot.date | isoDate }}">{{ toot.date | readableDate }}</time>
+    {% if toot.data.mastodonUrl %}
+    <a href="{{ toot.data.mastodonUrl }}" class="text-primary hover:underline dark:text-primary-light" rel="noopener noreferrer" target="_blank">View on Mastodon</a>
+    {% endif %}
+  </div>
+</div>
