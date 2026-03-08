@@ -52,39 +52,39 @@
     $el.querySelectorAll('.comic-bubble').forEach(b => b.classList.add(colors[Math.floor(Math.random() * colors.length)]));
   ">
     <!-- Top row -->
-    <span class="comic-bubble" style="--rot:-15deg; top:-2%;   left:-2%;  width:30vw">{% include "svg/boom.svg" %}</span>
-    <span class="comic-bubble" style="--rot:10deg;  top:1%;    left:18%;  width:20vw">{% include "svg/poof.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-8deg;  top:-1%;   left:38%;  width:25vw">{% include "svg/crash.svg" %}</span>
-    <span class="comic-bubble" style="--rot:18deg;  top:2%;    right:12%; width:22vw">{% include "svg/pow.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-12deg; top:-3%;   right:-2%; width:32vw">{% include "svg/kaboom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-15deg; top:-2%;   left:-2%;  width:clamp(365px,56vw,820px)">{% include "svg/boom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:10deg;  top:1%;    left:18%;  width:clamp(270px,44vw,660px)">{% include "svg/poof.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-8deg;  top:-1%;   left:38%;  width:clamp(320px,50vw,750px)">{% include "svg/crash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:18deg;  top:2%;    right:12%; width:clamp(290px,46vw,700px)">{% include "svg/pow.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-12deg; top:-3%;   right:-2%; width:clamp(380px,58vw,850px)">{% include "svg/kaboom.svg" %}</span>
     <!-- Upper-middle row -->
-    <span class="comic-bubble" style="--rot:30deg;  top:15%;   left:5%;   width:18vw">{% include "svg/ouch.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-22deg; top:12%;   left:30%;  width:22vw">{% include "svg/smash.svg" %}</span>
-    <span class="comic-bubble" style="--rot:8deg;   top:10%;   right:22%; width:24vw">{% include "svg/bang.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-30deg; top:14%;   right:4%;  width:20vw">{% include "svg/wham.svg" %}</span>
+    <span class="comic-bubble" style="--rot:30deg;  top:15%;   left:5%;   width:clamp(240px,40vw,600px)">{% include "svg/ouch.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-22deg; top:12%;   left:30%;  width:clamp(290px,46vw,700px)">{% include "svg/smash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:8deg;   top:10%;   right:22%; width:clamp(310px,48vw,720px)">{% include "svg/bang.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-30deg; top:14%;   right:4%;  width:clamp(270px,44vw,660px)">{% include "svg/wham.svg" %}</span>
     <!-- Middle row -->
-    <span class="comic-bubble" style="--rot:12deg;  top:35%;   left:-2%;  width:28vw">{% include "svg/zap.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-18deg; top:32%;   left:20%;  width:22vw">{% include "svg/pow.svg" %}</span>
-    <span class="comic-bubble" style="--rot:25deg;  top:30%;   left:44%;  width:30vw">{% include "svg/boom.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-8deg;  top:35%;   right:14%; width:23vw">{% include "svg/crash.svg" %}</span>
-    <span class="comic-bubble" style="--rot:15deg;  top:33%;   right:-2%; width:25vw">{% include "svg/kaboom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:12deg;  top:35%;   left:-2%;  width:clamp(350px,54vw,800px)">{% include "svg/zap.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-18deg; top:32%;   left:20%;  width:clamp(290px,46vw,700px)">{% include "svg/pow.svg" %}</span>
+    <span class="comic-bubble" style="--rot:25deg;  top:30%;   left:44%;  width:clamp(365px,56vw,820px)">{% include "svg/boom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-8deg;  top:35%;   right:14%; width:clamp(300px,47vw,710px)">{% include "svg/crash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:15deg;  top:33%;   right:-2%; width:clamp(320px,50vw,750px)">{% include "svg/kaboom.svg" %}</span>
     <!-- Lower-middle row -->
-    <span class="comic-bubble" style="--rot:-25deg; top:58%;   left:2%;   width:20vw">{% include "svg/poof.svg" %}</span>
-    <span class="comic-bubble" style="--rot:18deg;  top:55%;   left:22%;  width:26vw">{% include "svg/smash.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-10deg; top:60%;   left:48%;  width:22vw">{% include "svg/ouch.svg" %}</span>
-    <span class="comic-bubble" style="--rot:28deg;  top:56%;   right:16%; width:24vw">{% include "svg/wham.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-15deg; top:58%;   right:-2%; width:28vw">{% include "svg/bang.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-25deg; top:58%;   left:2%;   width:clamp(270px,44vw,660px)">{% include "svg/poof.svg" %}</span>
+    <span class="comic-bubble" style="--rot:18deg;  top:55%;   left:22%;  width:clamp(335px,52vw,780px)">{% include "svg/smash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-10deg; top:60%;   left:48%;  width:clamp(290px,46vw,700px)">{% include "svg/ouch.svg" %}</span>
+    <span class="comic-bubble" style="--rot:28deg;  top:56%;   right:16%; width:clamp(310px,48vw,720px)">{% include "svg/wham.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-15deg; top:58%;   right:-2%; width:clamp(350px,54vw,800px)">{% include "svg/bang.svg" %}</span>
     <!-- Bottom row -->
-    <span class="comic-bubble" style="--rot:20deg;  bottom:-3%; left:-2%;  width:35vw">{% include "svg/kaboom.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-12deg; bottom:0%;  left:22%;  width:22vw">{% include "svg/zap.svg" %}</span>
-    <span class="comic-bubble" style="--rot:8deg;   bottom:-2%; left:45%;  width:28vw">{% include "svg/boom.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-20deg; bottom:2%;  right:18%; width:24vw">{% include "svg/pow.svg" %}</span>
-    <span class="comic-bubble" style="--rot:15deg;  bottom:-2%; right:-2%; width:30vw">{% include "svg/crash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:20deg;  bottom:-3%; left:-2%;  width:clamp(400px,62vw,900px)">{% include "svg/kaboom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-12deg; bottom:0%;  left:22%;  width:clamp(290px,46vw,700px)">{% include "svg/zap.svg" %}</span>
+    <span class="comic-bubble" style="--rot:8deg;   bottom:-2%; left:45%;  width:clamp(350px,54vw,800px)">{% include "svg/boom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-20deg; bottom:2%;  right:18%; width:clamp(310px,48vw,720px)">{% include "svg/pow.svg" %}</span>
+    <span class="comic-bubble" style="--rot:15deg;  bottom:-2%; right:-2%; width:clamp(365px,56vw,820px)">{% include "svg/crash.svg" %}</span>
     <!-- Gap fillers -->
-    <span class="comic-bubble" style="--rot:-35deg; top:22%;   left:14%;  width:16vw">{% include "svg/smash.svg" %}</span>
-    <span class="comic-bubble" style="--rot:22deg;  top:20%;   right:35%; width:18vw">{% include "svg/poof.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-18deg; top:72%;   left:12%;  width:20vw">{% include "svg/wham.svg" %}</span>
-    <span class="comic-bubble" style="--rot:30deg;  top:75%;   right:10%; width:18vw">{% include "svg/ouch.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-35deg; top:22%;   left:14%;  width:clamp(240px,40vw,600px)">{% include "svg/smash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:22deg;  top:20%;   right:35%; width:clamp(240px,40vw,600px)">{% include "svg/poof.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-18deg; top:72%;   left:12%;  width:clamp(270px,44vw,660px)">{% include "svg/wham.svg" %}</span>
+    <span class="comic-bubble" style="--rot:30deg;  top:75%;   right:10%; width:clamp(240px,40vw,600px)">{% include "svg/ouch.svg" %}</span>
   </div>
   <a href="#main-content" class="skip-link">Skip to content</a>
 
