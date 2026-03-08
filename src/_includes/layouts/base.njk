@@ -1,45 +1,18 @@
 <!DOCTYPE html>
-<html lang="en" class="scroll-smooth" x-data="{
-  darkMode: localStorage.getItem('darkMode') !== null
-    ? localStorage.getItem('darkMode') === 'true'
-    : window.matchMedia('(prefers-color-scheme: dark)').matches,
-  mobileMenuOpen: false
-}" x-init="
-  $watch('darkMode', val => localStorage.setItem('darkMode', val));
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
-    if (localStorage.getItem('darkMode') === null) darkMode = e.matches;
-  });
-" :class="{ 'dark': darkMode }">
+<html lang="en" class="scroll-smooth" x-data="siteApp" :class="{ 'dark': darkMode }">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}{% if title %} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ description or site.description }}">
 
-  <!-- Alpine.js for dark mode toggle -->
-  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-
   <!-- Tailwind CSS via CDN -->
   <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
-  <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          colors: {
-            primary: '#2563eb',
-            'primary-dark': '#1d4ed8',
-            // WCAG AAA compliant dark mode colors
-            'primary-light': '#93c5fd', // blue-300, 9.5:1 on slate-900
-          },
-          fontFamily: {
-            sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-            serif: ['Merriweather', 'ui-serif', 'Georgia', 'serif'],
-          }
-        }
-      }
-    }
-  </script>
+  <script src="/assets/js/tailwind.config.js"></script>
+
+  <!-- Site JS (Alpine component registration) + Alpine.js -->
+  <script defer src="/assets/js/site.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -73,28 +46,7 @@
   <!-- JSON Feed -->
   <link rel="alternate" type="application/feed+json" title="{{ site.title }}" href="/feed.json">
 
-  <style>
-    .skip-link {
-      position: absolute;
-      top: -40px;
-      left: 0;
-      background: #2563eb;
-      color: white;
-      padding: 8px 16px;
-      z-index: 100;
-      transition: top 0.3s;
-    }
-    .skip-link:focus {
-      top: 0;
-    }
-    .dark .skip-link {
-      background: #93c5fd;
-      color: #0f172a;
-    }
-    [x-cloak] {
-      display: none !important;
-    }
-  </style>
+  <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body class="min-h-screen flex flex-col bg-gray-50 text-gray-900 dark:bg-slate-900 dark:text-slate-50 transition-colors duration-200">
   <a href="#main-content" class="skip-link">Skip to content</a>
