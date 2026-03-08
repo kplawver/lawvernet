@@ -1,8 +1,45 @@
+/* ============================================================
+   CSS Custom Properties
+   ============================================================ */
+:root {
+  /* Ink & structure */
+  --ink:      #111827;
+  --page-bg:  #FEF9EE;
+
+  /* UI primary (red) */
+  --primary:       #DC2626;
+  --primary-light: #FCA5A5;
+
+  /* Comic accent palette */
+  --comic-red:    #E63946;
+  --comic-yellow: #FFD700;
+  --comic-blue:   #0057B8;
+  --comic-green:  #2DC653;
+  --comic-orange: #FF6B00;
+
+  /* Panels */
+  --panel-bg:     #ffffff;
+  --panel-border: var(--ink);
+  --panel-shadow: var(--ink);
+
+  /* Dark mode accent (amber) */
+  --dark-accent: #F59E0B;
+}
+
+.dark {
+  --panel-bg:     #1e293b;
+  --panel-border: var(--dark-accent);
+  --panel-shadow: var(--dark-accent);
+}
+
+/* ============================================================
+   Skip link
+   ============================================================ */
 .skip-link {
   position: absolute;
   top: -40px;
   left: 0;
-  background: #2563eb;
+  background: var(--primary);
   color: white;
   padding: 8px 16px;
   z-index: 100;
@@ -12,29 +49,32 @@
   top: 0;
 }
 .dark .skip-link {
-  background: #93c5fd;
+  background: var(--primary-light);
   color: #0f172a;
 }
+
 [x-cloak] {
   display: none !important;
 }
 
-/* Pagefind */
+/* ============================================================
+   Pagefind
+   ============================================================ */
 .pagefind-ui {
   --pagefind-ui-scale: 0.9;
-  --pagefind-ui-primary: #2563eb;
+  --pagefind-ui-primary: var(--primary);
   --pagefind-ui-text: #374151;
-  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-background: var(--panel-bg);
   --pagefind-ui-border: #d1d5db;
   --pagefind-ui-tag: #e5e7eb;
   --pagefind-ui-border-width: 1px;
   --pagefind-ui-border-radius: 8px;
-  --pagefind-ui-font: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --pagefind-ui-font: 'Radio Canada', ui-sans-serif, system-ui, sans-serif;
 }
 .dark .pagefind-ui {
-  --pagefind-ui-primary: #93c5fd;
+  --pagefind-ui-primary: var(--primary-light);
   --pagefind-ui-text: #e2e8f0;
-  --pagefind-ui-background: #1e293b;
+  --pagefind-ui-background: var(--panel-bg);
   --pagefind-ui-border: #475569;
   --pagefind-ui-tag: #334155;
 }
@@ -42,8 +82,120 @@
   font-weight: 400;
 }
 .pagefind-ui .pagefind-ui__result-link {
-  color: #2563eb;
+  color: var(--primary);
 }
 .dark .pagefind-ui .pagefind-ui__result-link {
-  color: #93c5fd;
+  color: var(--primary-light);
+}
+
+/* ============================================================
+   Comic background bubbles
+   ============================================================ */
+.comic-bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.comic-bubble {
+  position: absolute;
+  display: block;
+  color: var(--comic-red); /* default before JS assigns a class */
+  rotate: var(--rot, 0deg);
+  animation: comic-float 7s ease-in-out infinite;
+}
+.comic-bubble svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Random color classes assigned by Alpine on page load */
+.comic-bubble.comic-color-red    { color: var(--comic-red); }
+.comic-bubble.comic-color-yellow { color: var(--comic-yellow); }
+.comic-bubble.comic-color-blue   { color: var(--comic-blue); }
+.comic-bubble.comic-color-orange { color: var(--comic-orange); }
+.comic-bubble.comic-color-green  { color: var(--comic-green); }
+.comic-bubble:nth-child(2)  { animation-delay: -1.5s; }
+.comic-bubble:nth-child(3)  { animation-delay: -3.0s; }
+.comic-bubble:nth-child(4)  { animation-delay: -4.5s; }
+.comic-bubble:nth-child(5)  { animation-delay: -6.0s; }
+.comic-bubble:nth-child(6)  { animation-delay: -0.8s; }
+.comic-bubble:nth-child(7)  { animation-delay: -2.3s; }
+.comic-bubble:nth-child(8)  { animation-delay: -5.1s; }
+.comic-bubble:nth-child(9)  { animation-delay: -3.7s; }
+.comic-bubble:nth-child(10) { animation-delay: -1.2s; }
+.comic-bubble:nth-child(11) { animation-delay: -4.2s; }
+.comic-bubble:nth-child(12) { animation-delay: -2.7s; }
+.comic-bubble:nth-child(13) { animation-delay: -6.3s; }
+.comic-bubble:nth-child(14) { animation-delay: -0.5s; }
+.comic-bubble:nth-child(15) { animation-delay: -5.5s; }
+.comic-bubble:nth-child(16) { animation-delay: -3.3s; }
+.comic-bubble:nth-child(17) { animation-delay: -1.8s; }
+.comic-bubble:nth-child(18) { animation-delay: -4.8s; }
+.comic-bubble:nth-child(19) { animation-delay: -2.0s; }
+.comic-bubble:nth-child(20) { animation-delay: -6.5s; }
+.comic-bubble:nth-child(21) { animation-delay: -1.0s; }
+.comic-bubble:nth-child(22) { animation-delay: -3.5s; }
+.comic-bubble:nth-child(23) { animation-delay: -5.0s; }
+.comic-bubble:nth-child(24) { animation-delay: -2.5s; }
+.comic-bubble:nth-child(25) { animation-delay: -4.0s; }
+.comic-bubble:nth-child(26) { animation-delay: -0.3s; }
+.comic-bubble:nth-child(27) { animation-delay: -6.8s; }
+.comic-bubble:nth-child(28) { animation-delay: -3.8s; }
+
+@keyframes comic-float {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-18px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .comic-bubble { animation: none; }
+}
+
+/* ============================================================
+   Masthead title
+   ============================================================ */
+.masthead-title {
+  font-size: clamp(3.5rem, 13vw, 9rem);
+  line-height: 1.05;
+  display: inline-block;
+  color: var(--ink);
+  background: var(--comic-yellow);
+  padding: 0.05em 0.3em;
+  -webkit-text-stroke: 3px var(--ink);
+  box-shadow: 8px 8px 0 var(--ink);
+  transform: rotate(-2deg);
+  letter-spacing: 0.03em;
+}
+.dark .masthead-title {
+  box-shadow: 8px 8px 0 var(--dark-accent);
+}
+
+/* ============================================================
+   Section headings
+   ============================================================ */
+.section-title {
+  font-size: clamp(2rem, 6vw, 4rem);
+  line-height: 1.05;
+  display: inline-block;
+  color: var(--section-title-color, #ffffff);
+  background: var(--section-title-bg, var(--comic-blue));
+  padding: 0.2em 0.3em 0.05em;
+  -webkit-text-stroke: 3px var(--ink);
+  box-shadow: 8px 8px 0 var(--ink);
+  transform: rotate(2deg);
+  letter-spacing: 0.03em;
+}
+.dark .section-title {
+  box-shadow: 8px 8px 0 var(--dark-accent);
+}
+
+/* ============================================================
+   Comic panels
+   ============================================================ */
+.comic-panel {
+  background: var(--panel-bg);
+  border: 3px solid var(--panel-border);
+  box-shadow: 5px 5px 0 var(--panel-shadow);
 }

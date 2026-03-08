@@ -2,9 +2,11 @@
 layout: layouts/base.njk
 ---
 <article class="max-w-3xl mx-auto px-4 py-12" data-pagefind-body>
-  <header class="mb-8">
-    <h1 class="text-4xl font-bold text-gray-900 dark:text-slate-50 mb-4" data-pagefind-meta="title">{{ title }}</h1>
-    <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-gray-500 dark:text-slate-400">
+
+  <h1 class="section-title font-display mb-10" style="--section-title-bg: var(--comic-red);" data-pagefind-meta="title">{{ title }}</h1>
+
+  <div class="comic-panel p-8">
+    <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-gray-500 dark:text-slate-400 mb-8">
       <time datetime="{{ date | isoDate }}">{{ date | readableDate }}</time>
       {% if tags %}
       <div class="flex flex-wrap items-center gap-2" data-pagefind-ignore>
@@ -19,23 +21,23 @@ layout: layouts/base.njk
       </div>
       {% endif %}
     </div>
-  </header>
 
-  <div class="prose prose-lg prose-gray dark:prose-invert max-w-none dark:prose-a:text-primary-light dark:prose-headings:text-slate-50 dark:prose-strong:text-slate-50 dark:prose-code:text-slate-200">
-    {{ content | safe }}
+    <div class="prose prose-lg prose-gray dark:prose-invert max-w-none dark:prose-a:text-primary-light dark:prose-headings:text-slate-50 dark:prose-strong:text-slate-50 dark:prose-code:text-slate-200">
+      {{ content | safe }}
+    </div>
   </div>
 
   {% set dayToots = collections.toots | tootsForDate(date) %}
   {% if dayToots.length > 0 %}
   <aside class="mt-12 pt-8 border-t border-gray-200 dark:border-slate-700">
-    <h2 class="text-2xl font-semibold text-gray-800 dark:text-slate-100 mb-4">Also on {{ date | readableDate }}</h2>
+    <h2 class="section-title font-display mb-6" style="--section-title-bg: var(--comic-green); font-size: clamp(1.25rem, 3vw, 2rem); transform: rotate(-2deg);">Also on {{ date | readableDate }}</h2>
     {% for toot in dayToots %}
       {% include "toot-card.njk" %}
     {% endfor %}
   </aside>
   {% endif %}
 
-  <nav class="mt-12 pt-8 border-t border-gray-200 dark:border-slate-700">
+  <nav class="comic-panel mt-12 p-6">
     <div class="flex flex-wrap items-center justify-between gap-4">
       {% set previousPost = collections.posts | getPreviousCollectionItem %}
       {% set nextPost = collections.posts | getNextCollectionItem %}

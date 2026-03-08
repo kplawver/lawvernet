@@ -9,27 +9,29 @@ eleventyComputed:
   title: "{{ yearData.year }} Archive"
 ---
 <div class="max-w-3xl mx-auto px-4 py-12">
-  <h1 class="text-4xl font-bold text-gray-900 dark:text-slate-50 mb-2">{{ yearData.year }}</h1>
-  <p class="text-gray-500 dark:text-slate-400 mb-8">{{ yearData.posts.length }} post{% if yearData.posts.length != 1 %}s{% endif %}</p>
+  <h1 class="section-title font-display mb-10" style="--section-title-bg: var(--comic-red);">{{ yearData.year }}</h1>
 
-  <ul class="space-y-6">
-    {% for post in yearData.posts %}
-    <li class="border-b border-gray-200 dark:border-slate-700 pb-6 last:border-0">
-      <article>
-        <h2 class="text-xl font-semibold mb-1">
-          <a href="{{ post.url }}" class="text-gray-900 hover:text-primary dark:text-slate-50 dark:hover:text-primary-light transition-colors">
-            {{ post.data.title }}
-          </a>
-        </h2>
-        <time datetime="{{ post.date | isoDate }}" class="text-sm text-gray-500 dark:text-slate-400">
-          {{ post.date | readableDate }}
-        </time>
-      </article>
-    </li>
-    {% endfor %}
-  </ul>
+  <div class="comic-panel p-8">
+    <p class="text-gray-500 dark:text-slate-400 mb-6">{{ yearData.posts.length }} post{% if yearData.posts.length != 1 %}s{% endif %}</p>
+    <ul class="space-y-6">
+      {% for post in yearData.posts %}
+      <li class="border-b border-gray-200 dark:border-slate-700 pb-6 last:border-0">
+        <article>
+          <h2 class="text-xl font-display font-semibold mb-1">
+            <a href="{{ post.url }}" class="text-gray-900 hover:text-primary dark:text-slate-50 dark:hover:text-primary-light transition-colors">
+              {{ post.data.title }}
+            </a>
+          </h2>
+          <time datetime="{{ post.date | isoDate }}" class="text-sm text-gray-500 dark:text-slate-400">
+            {{ post.date | readableDate }}
+          </time>
+        </article>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
 
-  <p class="mt-12">
+  <p class="mt-8">
     <a href="/archive/" class="text-primary hover:underline dark:text-primary-light">&larr; All archives</a>
   </p>
 </div>

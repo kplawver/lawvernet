@@ -17,7 +17,7 @@
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Contrail+One&family=Radio+Canada:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 
   <!-- Canonical URL -->
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
@@ -46,44 +46,90 @@
 
   <link rel="stylesheet" href="/assets/css/site.css">
 </head>
-<body class="min-h-screen flex flex-col bg-gray-50 text-gray-900 dark:bg-slate-900 dark:text-slate-50 transition-colors duration-200">
+<body class="min-h-screen flex flex-col bg-[#FEF9EE] text-gray-900 dark:bg-slate-900 dark:text-slate-50 transition-colors duration-200 relative">
+  <div class="comic-bg" aria-hidden="true" x-init="
+    const colors = ['comic-color-red','comic-color-yellow','comic-color-blue','comic-color-orange','comic-color-green'];
+    $el.querySelectorAll('.comic-bubble').forEach(b => b.classList.add(colors[Math.floor(Math.random() * colors.length)]));
+  ">
+    <!-- Top row -->
+    <span class="comic-bubble" style="--rot:-15deg; top:-2%;   left:-2%;  width:30vw">{% include "svg/boom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:10deg;  top:1%;    left:18%;  width:20vw">{% include "svg/poof.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-8deg;  top:-1%;   left:38%;  width:25vw">{% include "svg/crash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:18deg;  top:2%;    right:12%; width:22vw">{% include "svg/pow.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-12deg; top:-3%;   right:-2%; width:32vw">{% include "svg/kaboom.svg" %}</span>
+    <!-- Upper-middle row -->
+    <span class="comic-bubble" style="--rot:30deg;  top:15%;   left:5%;   width:18vw">{% include "svg/ouch.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-22deg; top:12%;   left:30%;  width:22vw">{% include "svg/smash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:8deg;   top:10%;   right:22%; width:24vw">{% include "svg/bang.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-30deg; top:14%;   right:4%;  width:20vw">{% include "svg/wham.svg" %}</span>
+    <!-- Middle row -->
+    <span class="comic-bubble" style="--rot:12deg;  top:35%;   left:-2%;  width:28vw">{% include "svg/zap.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-18deg; top:32%;   left:20%;  width:22vw">{% include "svg/pow.svg" %}</span>
+    <span class="comic-bubble" style="--rot:25deg;  top:30%;   left:44%;  width:30vw">{% include "svg/boom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-8deg;  top:35%;   right:14%; width:23vw">{% include "svg/crash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:15deg;  top:33%;   right:-2%; width:25vw">{% include "svg/kaboom.svg" %}</span>
+    <!-- Lower-middle row -->
+    <span class="comic-bubble" style="--rot:-25deg; top:58%;   left:2%;   width:20vw">{% include "svg/poof.svg" %}</span>
+    <span class="comic-bubble" style="--rot:18deg;  top:55%;   left:22%;  width:26vw">{% include "svg/smash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-10deg; top:60%;   left:48%;  width:22vw">{% include "svg/ouch.svg" %}</span>
+    <span class="comic-bubble" style="--rot:28deg;  top:56%;   right:16%; width:24vw">{% include "svg/wham.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-15deg; top:58%;   right:-2%; width:28vw">{% include "svg/bang.svg" %}</span>
+    <!-- Bottom row -->
+    <span class="comic-bubble" style="--rot:20deg;  bottom:-3%; left:-2%;  width:35vw">{% include "svg/kaboom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-12deg; bottom:0%;  left:22%;  width:22vw">{% include "svg/zap.svg" %}</span>
+    <span class="comic-bubble" style="--rot:8deg;   bottom:-2%; left:45%;  width:28vw">{% include "svg/boom.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-20deg; bottom:2%;  right:18%; width:24vw">{% include "svg/pow.svg" %}</span>
+    <span class="comic-bubble" style="--rot:15deg;  bottom:-2%; right:-2%; width:30vw">{% include "svg/crash.svg" %}</span>
+    <!-- Gap fillers -->
+    <span class="comic-bubble" style="--rot:-35deg; top:22%;   left:14%;  width:16vw">{% include "svg/smash.svg" %}</span>
+    <span class="comic-bubble" style="--rot:22deg;  top:20%;   right:35%; width:18vw">{% include "svg/poof.svg" %}</span>
+    <span class="comic-bubble" style="--rot:-18deg; top:72%;   left:12%;  width:20vw">{% include "svg/wham.svg" %}</span>
+    <span class="comic-bubble" style="--rot:30deg;  top:75%;   right:10%; width:18vw">{% include "svg/ouch.svg" %}</span>
+  </div>
   <a href="#main-content" class="skip-link">Skip to content</a>
 
-  <main id="main-content" class="flex-grow">
-    <div class="max-w-3xl mx-auto px-4 py-16">
-      <header class="mb-12">
-        <h1 class="text-5xl font-bold text-gray-900 dark:text-slate-50 mb-4">{{ site.title }}</h1>
-        <p class="text-xl text-gray-600 dark:text-slate-300 mb-8">{{ site.description }}</p>
+  <main id="main-content" class="flex-grow relative z-10">
+
+    <!-- Full-width comic book masthead -->
+    <header class="w-full border-y-[5px] border-[#111827] dark:border-amber-400 bg-[#FEF9EE] dark:bg-slate-900 relative">
+      <!-- Nav row -->
+      <div class="flex items-center justify-between px-6 pt-4 pb-2">
+        <span class="text-xs font-sans uppercase tracking-[0.2em] text-gray-400 dark:text-slate-500">Est. 2000 · Vol. 1</span>
         <nav>
-          <!-- Desktop nav -->
           <ul class="hidden md:flex items-center gap-6">
             {% include "nav-links.njk" %}
           </ul>
-          <!-- Mobile hamburger button -->
           <button @click="mobileMenuOpen = !mobileMenuOpen" class="md:hidden text-gray-600 hover:text-primary dark:text-slate-300 dark:hover:text-primary-light transition-colors" aria-label="Toggle menu" :aria-expanded="mobileMenuOpen">
-            <!-- Hamburger icon -->
             <svg x-show="!mobileMenuOpen" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
             </svg>
-            <!-- Close icon -->
             <svg x-show="mobileMenuOpen" x-cloak class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
             </svg>
           </button>
-          <!-- Mobile nav menu -->
-          <div x-show="mobileMenuOpen" x-cloak x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-0 -translate-y-2" x-transition:enter-end="opacity-100 translate-y-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 translate-y-0" x-transition:leave-end="opacity-0 -translate-y-2" class="md:hidden mt-4 pt-4 border-t border-gray-200 dark:border-slate-700">
+          <div x-show="mobileMenuOpen" x-cloak x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-0 -translate-y-2" x-transition:enter-end="opacity-100 translate-y-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 translate-y-0" x-transition:leave-end="opacity-0 -translate-y-2" class="absolute right-4 top-16 bg-white dark:bg-slate-800 border-2 border-[#111827] dark:border-amber-400 shadow-[4px_4px_0_#111827] dark:shadow-[4px_4px_0_theme(colors.amber.400)] p-4 z-20">
             <ul class="flex flex-col gap-4">
               {% include "nav-links.njk" %}
             </ul>
           </div>
         </nav>
-      </header>
+      </div>
 
+      <!-- Giant title -->
+      <div class="text-center py-10 px-4">
+        <h1 class="masthead-title font-display">{{ site.title }}</h1>
+        <p class="text-lg mt-8 font-sans text-gray-600 dark:text-slate-300 max-w-xl mx-auto">{{ site.description }}</p>
+      </div>
+    </header>
+
+    <!-- Post list content -->
+    <div class="max-w-3xl mx-auto px-4 py-10">
       {{ content | safe }}
     </div>
+
   </main>
 
-  <footer class="bg-white border-t border-gray-200 mt-16 dark:bg-slate-800 dark:border-slate-700">
+  <footer class="bg-white border-t border-gray-200 mt-16 dark:bg-slate-800 dark:border-slate-700 relative z-10">
     <div class="max-w-4xl mx-auto px-4 py-8">
       {% include "footer-search.njk" %}
       {% include "footer-social.njk" %}
