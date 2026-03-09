@@ -3,31 +3,31 @@
    ============================================================ */
 :root {
   /* Ink & structure */
-  --ink:      #111827;
-  --page-bg:  #FEF9EE;
+  --ink: #111827;
+  --page-bg: #fef9ee;
 
   /* UI primary (red) */
-  --primary:       #DC2626;
-  --primary-light: #FCA5A5;
+  --primary: #dc2626;
+  --primary-light: #fca5a5;
 
   /* Comic accent palette */
-  --comic-red:    #E63946;
-  --comic-yellow: #FFD700;
-  --comic-blue:   #0057B8;
-  --comic-green:  #2DC653;
-  --comic-orange: #FF6B00;
+  --comic-red: #e63946;
+  --comic-yellow: #ffd700;
+  --comic-blue: #0057b8;
+  --comic-green: #2dc653;
+  --comic-orange: #ff6b00;
 
   /* Panels */
-  --panel-bg:     #ffffff;
+  --panel-bg: #ffffff;
   --panel-border: var(--ink);
   --panel-shadow: var(--ink);
 
   /* Dark mode accent (amber) */
-  --dark-accent: #F59E0B;
+  --dark-accent: #f59e0b;
 }
 
 .dark {
-  --panel-bg:     #1e293b;
+  --panel-bg: #1e293b;
   --panel-border: var(--dark-accent);
   --panel-shadow: var(--dark-accent);
 }
@@ -69,7 +69,7 @@
   --pagefind-ui-tag: #e5e7eb;
   --pagefind-ui-border-width: 1px;
   --pagefind-ui-border-radius: 8px;
-  --pagefind-ui-font: 'Radio Canada', ui-sans-serif, system-ui, sans-serif;
+  --pagefind-ui-font: "Radio Canada", ui-sans-serif, system-ui, sans-serif;
 }
 .dark .pagefind-ui {
   --pagefind-ui-primary: var(--primary-light);
@@ -103,7 +103,8 @@
   display: block;
   color: var(--comic-red); /* default before JS assigns a class */
   rotate: var(--rot, 0deg);
-  animation: comic-float 7s ease-in-out infinite;
+  opacity: 1;
+  /* animation name/duration/delay set by Alpine JS */
 }
 .comic-bubble svg {
   display: block;
@@ -112,45 +113,20 @@
 }
 
 /* Random color classes assigned by Alpine on page load */
-.comic-bubble.comic-color-red    { color: var(--comic-red); }
-.comic-bubble.comic-color-yellow { color: var(--comic-yellow); }
-.comic-bubble.comic-color-blue   { color: var(--comic-blue); }
-.comic-bubble.comic-color-orange { color: var(--comic-orange); }
-.comic-bubble.comic-color-green  { color: var(--comic-green); }
-.comic-bubble:nth-child(2)  { animation-delay: -1.5s; }
-.comic-bubble:nth-child(3)  { animation-delay: -3.0s; }
-.comic-bubble:nth-child(4)  { animation-delay: -4.5s; }
-.comic-bubble:nth-child(5)  { animation-delay: -6.0s; }
-.comic-bubble:nth-child(6)  { animation-delay: -0.8s; }
-.comic-bubble:nth-child(7)  { animation-delay: -2.3s; }
-.comic-bubble:nth-child(8)  { animation-delay: -5.1s; }
-.comic-bubble:nth-child(9)  { animation-delay: -3.7s; }
-.comic-bubble:nth-child(10) { animation-delay: -1.2s; }
-.comic-bubble:nth-child(11) { animation-delay: -4.2s; }
-.comic-bubble:nth-child(12) { animation-delay: -2.7s; }
-.comic-bubble:nth-child(13) { animation-delay: -6.3s; }
-.comic-bubble:nth-child(14) { animation-delay: -0.5s; }
-.comic-bubble:nth-child(15) { animation-delay: -5.5s; }
-.comic-bubble:nth-child(16) { animation-delay: -3.3s; }
-.comic-bubble:nth-child(17) { animation-delay: -1.8s; }
-.comic-bubble:nth-child(18) { animation-delay: -4.8s; }
-.comic-bubble:nth-child(19) { animation-delay: -2.0s; }
-.comic-bubble:nth-child(20) { animation-delay: -6.5s; }
-.comic-bubble:nth-child(21) { animation-delay: -1.0s; }
-.comic-bubble:nth-child(22) { animation-delay: -3.5s; }
-.comic-bubble:nth-child(23) { animation-delay: -5.0s; }
-.comic-bubble:nth-child(24) { animation-delay: -2.5s; }
-.comic-bubble:nth-child(25) { animation-delay: -4.0s; }
-.comic-bubble:nth-child(26) { animation-delay: -0.3s; }
-.comic-bubble:nth-child(27) { animation-delay: -6.8s; }
-.comic-bubble:nth-child(28) { animation-delay: -3.8s; }
-
-@keyframes comic-float {
-  0%, 100% { transform: translateY(0); }
-  50%       { transform: translateY(-18px); }
+.comic-bubble.comic-color-red {
+  color: var(--comic-red);
 }
-@media (prefers-reduced-motion: reduce) {
-  .comic-bubble { animation: none; }
+.comic-bubble.comic-color-yellow {
+  color: var(--comic-yellow);
+}
+.comic-bubble.comic-color-blue {
+  color: var(--comic-blue);
+}
+.comic-bubble.comic-color-orange {
+  color: var(--comic-orange);
+}
+.comic-bubble.comic-color-green {
+  color: var(--comic-green);
 }
 
 /* ============================================================
