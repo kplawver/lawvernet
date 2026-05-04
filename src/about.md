@@ -15,4 +15,4 @@ I got the got title "Interactive Media Developer" and was the _first web develop
 
 I'm writing this about page in January of 2026 when I moved my blog from [Wordpress](https://wordpress.org) to [Eleventy](https://www.11ty.dev/), which has been about the most fun I've had at the computer since a friend showed me how to view source in Netscape 2.0 beta in 1995.
 
-This site, and me, even after all this time, is a work in progress. Take a wander and say hi. I mostly hang out on the [Fediverse these days](https://social.lol/@kpl). I also have a list of links on my [omg.lol profile](https://lawver.me) - if you need a cute place to call home on the internet, omg.lol is really great.
+This site, and me, even after all this time, is a work in progress. Take a wander and say hi. I mostly hang out on the [Fediverse these days](https://social.lol/@kpl). I also have a list of links on my [omg.lol profile](https://kpl.omg.lol) - if you need a cute place to call home on the internet, omg.lol is really great.
