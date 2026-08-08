@@ -11,7 +11,7 @@ tags:
 
 I posted this in Slack at work on Friday and I'm feeling it today, so you're getting it too.  I don't know why I feel compelled to share it with you.  I don't know why I felt compelled to share it at work, but I haven't talked about this with a single person who's still working in tech who doesn't also feel it; and I figure there are a lot of people who don't have the privilege I do to be vulnerable at work _or_ in public (I guess that's one of the benefits of having written _in public on the internet for 26+ years_).
 
-So, if this is you, you are definitely not alone.  I think everyone who works for a paycheck, who is responsible for supporting themselves or a family with that family, feels it. The more precarious that paycheck, the harder you probably feel it.
+So, if this is you, you are definitely not alone.  I think everyone who works for a paycheck, who is responsible for supporting themselves or a family with that paycheck, feels it. The more precarious that paycheck, the harder you probably feel it.
 
 Here's what I wrote.  I think the link to Rula will work for anyone, so talk to someone.
 
