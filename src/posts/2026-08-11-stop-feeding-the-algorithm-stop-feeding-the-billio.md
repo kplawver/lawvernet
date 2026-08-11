@@ -59,4 +59,6 @@ The Fediverse runs on open source software maintained by normal (OK, that's stre
 
 If omg.lol doesn't fit you, look around for a server that does. Mastodon.org has a [servers list](https://joinmastodon.org/servers).  Look around. There's one for literally anything you're into. Consider paying for it. 
 
+Oh, and once you sign up, I'd love to be [your first follow](https://social.lol/@kpl).  Following can be a _bit_ of an adventure on the Fediverse, but might as well jump into the deep end!
+
 __The only way out is through__ and the only way to take away the tech oligarchs' power is to stop feeding their products. This is just one small, but impactful, way to do that _and_ improve our own mental health in the process.
