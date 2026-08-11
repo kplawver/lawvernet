@@ -9,7 +9,6 @@ tags:
   - twitter
   - facebook
   - politics
-  - open source
   - activitypub
   - fediverse
 ---
