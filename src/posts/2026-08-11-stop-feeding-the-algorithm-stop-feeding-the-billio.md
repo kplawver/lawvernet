@@ -21,7 +21,7 @@ It's easy to feel powerless in the face of what seems like an army of shitty ric
 
 Which is when the lightbulb went on. How do you hurt billionaires?  Most of them made their billions on _consumer_ tech. Their stocks only have value if consumers keep using their products.
 
-# Stop using their products, especially corporate social media!
+# Stop giving their products _your eyeballs_!
 
 There was a study that popped up in the news recently that 90-something percent of posts on Instagram are ads. It doesn't take long scrolling it to see that, even if that number is inflated, it's not _that_ inflated. Spend any time on Facebook or LinkedIn and the story is the same. Your friends no longer show nearly as often as "suggested" or "sponsored" posts. Social media has lost the social, and it's all about the algorithm.
 
