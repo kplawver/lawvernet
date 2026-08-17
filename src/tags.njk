@@ -14,12 +14,12 @@ eleventyComputed:
 
   <ul class="space-y-6">
     {% for post in collections.tagList[tag].items %}
-    <li class="border-b border-gray-200 dark:border-slate-700 pb-6 last:border-0">
+    <li>
       {% if post.data.mastodonId %}
         {% set toot = post %}
         {% include "toot-card.njk" %}
       {% else %}
-      <article>
+      <article class="comic-panel p-4">
         <h2 class="text-xl font-semibold mb-1">
           <a href="{{ post.url }}" class="text-gray-900 hover:text-primary dark:text-slate-50 dark:hover:text-primary-light transition-colors">
             {{ post.data.title }}
