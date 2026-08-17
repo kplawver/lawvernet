@@ -11,6 +11,7 @@ tags:
   - politics
   - activitypub
   - fediverse
+  - open source
 ---
 
 I don't remember if I've mentioned this or not on the blog, and it's relevant to this post, so I'll say it again just in case.  I have coffee every Tuesday morning with four guys in their seventies.  I'm the "kid" in the group because I'm _only_ fifty-one.  We talk politics, laugh a lot, drink too much coffee and I answer a lot of tech questions.  That's been happening more this year because of AI and the rise of the ever-present _politically repugnant_ tech billionaires showing up in the press (the mainstream press - they've been in the tech press forever).  One of them heard a story on NPR yesterday about Gil Duran's new book, [The Nerd Reich](https://bookshop.org/a/109206/9781668221402?ref=thenerdreich.com) and came in hot about it, upset that he had no idea that the "grey" tech billionaires were so intent on taking over the country.

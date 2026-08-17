@@ -1,6 +1,7 @@
 const { DateTime } = require("luxon");
 const embedEverything = require("eleventy-plugin-embed-everything");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const slugify = require("@sindresorhus/slugify").default;
 
 module.exports = function(eleventyConfig) {
   // Embed plugin for YouTube, Vimeo, Spotify, etc.
@@ -80,6 +81,42 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("src/toots/**/*.md").sort((a, b) => {
       return b.date - a.date;
     });
+  });
+
+  // Merged tag list from posts + toots, grouped by slug to avoid permalink collisions
+  eleventyConfig.addCollection("tagList", function(collectionApi) {
+    const allItems = [
+      ...collectionApi.getFilteredByGlob("src/posts/**/*.md"),
+      ...collectionApi.getFilteredByGlob("src/toots/**/*.md"),
+    ];
+
+    const tagMap = {};
+
+    for (const item of allItems) {
+      const tags = item.data.tags;
+      if (!Array.isArray(tags)) continue;
+
+      for (const rawTag of tags) {
+        if (rawTag === "posts" || rawTag === "toots") continue;
+
+        const slug = slugify(rawTag);
+        if (!tagMap[slug]) {
+          tagMap[slug] = { name: rawTag, items: [] };
+        }
+        // Prefer hyphenated name for display (e.g., "open-source" over "open source")
+        if (rawTag.includes("-") && !tagMap[slug].name.includes("-")) {
+          tagMap[slug].name = rawTag;
+        }
+        tagMap[slug].items.push(item);
+      }
+    }
+
+    // Sort items by date descending within each tag
+    for (const slug of Object.keys(tagMap)) {
+      tagMap[slug].items.sort((a, b) => b.date - a.date);
+    }
+
+    return tagMap;
   });
 
   // Collection of unique year/month combinations with their posts
