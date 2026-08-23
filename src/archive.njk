@@ -7,10 +7,10 @@ eleventyNavigation:
   order: 4
 ---
 <div class="max-w-3xl mx-auto px-4 py-12">
-  <h1 class="section-title font-display mb-10" style="--section-title-bg: var(--comic-red);">Archive</h1>
+  <h1 class="section-title font-display mb-10">Archive</h1>
 
   {% for yearData in collections.postsByYear %}
-  <section class="comic-panel p-6 mb-6">
+  <section class="panel p-6 mb-6">
     <h2 class="text-2xl font-display font-bold mb-4">
       <a href="/{{ yearData.year }}/" class="text-gray-900 hover:text-primary dark:text-slate-50 dark:hover:text-primary-light transition-colors">
         {{ yearData.year }}

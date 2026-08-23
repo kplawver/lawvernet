@@ -19,7 +19,7 @@ eleventyComputed:
         {% set toot = post %}
         {% include "toot-card.njk" %}
       {% else %}
-      <article class="comic-panel p-4">
+      <article class="panel p-4">
         <h2 class="text-xl font-semibold mb-1">
           <a href="{{ post.url }}" class="text-gray-900 hover:text-primary dark:text-slate-50 dark:hover:text-primary-light transition-colors">
             {{ post.data.title }}

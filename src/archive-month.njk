@@ -9,9 +9,9 @@ eleventyComputed:
   title: "{{ monthData.monthName }} {{ monthData.year }} Archive"
 ---
 <div class="max-w-3xl mx-auto px-4 py-12">
-  <h1 class="section-title font-display mb-10" style="--section-title-bg: var(--comic-red);">{{ monthData.monthName }} {{ monthData.year }}</h1>
+  <h1 class="section-title font-display mb-10">{{ monthData.monthName }} {{ monthData.year }}</h1>
 
-  <div class="comic-panel p-8">
+  <div class="panel p-8">
     <p class="text-gray-500 dark:text-slate-400 mb-6">{{ monthData.posts.length }} post{% if monthData.posts.length != 1 %}s{% endif %}</p>
     <ul class="space-y-6">
       {% for post in monthData.posts %}
@@ -34,7 +34,7 @@ eleventyComputed:
   {% set monthToots = collections.toots | tootsForMonth(monthData.year, monthData.month) %}
   {% if monthToots.length > 0 %}
   <section class="mt-12">
-    <h2 class="section-title font-display mb-6" style="--section-title-bg: var(--comic-green); font-size: clamp(1.25rem, 3vw, 2rem); transform: rotate(-2deg);">Toots</h2>
+    <h2 class="section-title font-display mb-6">Toots</h2>
     {% for toot in monthToots %}
       {% include "toot-card.njk" %}
     {% endfor %}

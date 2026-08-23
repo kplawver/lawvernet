@@ -1,35 +1,35 @@
 /* ============================================================
    CSS Custom Properties
+   Paired palettes: cool-paper light / somber blue-black dark.
    ============================================================ */
 :root {
-  /* Ink & structure */
-  --ink: #111827;
-  --page-bg: #fef9ee;
-
-  /* UI primary (red) */
-  --primary: #dc2626;
-  --primary-light: #fca5a5;
-
-  /* Comic accent palette */
-  --comic-red: #e63946;
-  --comic-yellow: #ffd700;
-  --comic-blue: #0057b8;
-  --comic-green: #2dc653;
-  --comic-orange: #ff6b00;
-
-  /* Panels */
-  --panel-bg: #ffffff;
-  --panel-border: var(--ink);
-  --panel-shadow: var(--ink);
-
-  /* Dark mode accent (amber) */
-  --dark-accent: #f59e0b;
+  --page-bg: #f5f7fa;
+  --surface: #ffffff;
+  --surface-raised: #eef1f6;
+  --border: #dde3ea;
+  --border-strong: #c7cfd9;
+  --text: #3d4856;
+  --text-heading: #1a2230;
+  --text-muted: #66727f;
+  --text-faint: #98a2ae;
+  --primary: #1a4e7a;
+  --primary-hover: #0f3a5f;
+  --primary-soft: #4a86b8;
 }
-
 .dark {
-  --panel-bg: #1e293b;
-  --panel-border: var(--dark-accent);
-  --panel-shadow: var(--dark-accent);
+  --page-bg: #020202;
+  --surface: #0a0d12;
+  --surface-raised: #12161e;
+  --border: #1c222c;
+  --border-strong: #2a3340;
+  --text: #b6c2d4;
+  --text-heading: #e8edf5;
+  --text-muted: #78879b;
+  --text-faint: #434e5d;
+  --primary: #5aa8ff;
+  --primary-hover: #99ccff;
+  --primary-soft: #99ccff;
+  --warm: #d9a464;
 }
 
 /* ============================================================
@@ -39,8 +39,9 @@
   position: absolute;
   top: -40px;
   left: 0;
-  background: var(--primary);
-  color: white;
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border-strong);
   padding: 8px 16px;
   z-index: 100;
   transition: top 0.3s;
@@ -48,9 +49,31 @@
 .skip-link:focus {
   top: 0;
 }
-.dark .skip-link {
-  background: var(--primary-light);
-  color: #0f172a;
+
+/* ============================================================
+   Content links — underlined for accessibility.
+   Header/footer chrome stays underline-free (convention).
+   ============================================================ */
+main a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--border-strong);
+  transition: text-decoration-thickness 0.15s, text-decoration-color 0.15s, color 0.15s;
+}
+main a:hover {
+  text-decoration-thickness: 2px;
+  text-decoration-color: currentColor;
+  color: var(--primary-hover);
+}
+main a:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+header a,
+footer a {
+  text-decoration: none;
 }
 
 [x-cloak] {
@@ -63,20 +86,13 @@
 .pagefind-ui {
   --pagefind-ui-scale: 0.9;
   --pagefind-ui-primary: var(--primary);
-  --pagefind-ui-text: #374151;
-  --pagefind-ui-background: var(--panel-bg);
-  --pagefind-ui-border: #d1d5db;
-  --pagefind-ui-tag: #e5e7eb;
+  --pagefind-ui-text: var(--text);
+  --pagefind-ui-background: var(--surface);
+  --pagefind-ui-border: var(--border-strong);
+  --pagefind-ui-tag: var(--surface-raised);
   --pagefind-ui-border-width: 1px;
   --pagefind-ui-border-radius: 8px;
   --pagefind-ui-font: "Radio Canada", ui-sans-serif, system-ui, sans-serif;
-}
-.dark .pagefind-ui {
-  --pagefind-ui-primary: var(--primary-light);
-  --pagefind-ui-text: #e2e8f0;
-  --pagefind-ui-background: var(--panel-bg);
-  --pagefind-ui-border: #475569;
-  --pagefind-ui-tag: #334155;
 }
 .pagefind-ui .pagefind-ui__search-input {
   font-weight: 400;
@@ -84,94 +100,47 @@
 .pagefind-ui .pagefind-ui__result-link {
   color: var(--primary);
 }
-.dark .pagefind-ui .pagefind-ui__result-link {
-  color: var(--primary-light);
-}
-
-/* ============================================================
-   Comic background bubbles
-   ============================================================ */
-.comic-bg {
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  overflow: hidden;
-  pointer-events: none;
-}
-.comic-bubble {
-  position: absolute;
-  display: block;
-  color: var(--comic-red); /* default before JS assigns a class */
-  rotate: var(--rot, 0deg);
-  opacity: 1;
-  /* animation name/duration/delay set by Alpine JS */
-}
-.comic-bubble svg {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-/* Random color classes assigned by Alpine on page load */
-.comic-bubble.comic-color-red {
-  color: var(--comic-red);
-}
-.comic-bubble.comic-color-yellow {
-  color: var(--comic-yellow);
-}
-.comic-bubble.comic-color-blue {
-  color: var(--comic-blue);
-}
-.comic-bubble.comic-color-orange {
-  color: var(--comic-orange);
-}
-.comic-bubble.comic-color-green {
-  color: var(--comic-green);
-}
 
 /* ============================================================
    Masthead title
    ============================================================ */
 .masthead-title {
-  font-size: clamp(3.5rem, 13vw, 9rem);
+  font-size: clamp(3rem, 9vw, 6.5rem);
   line-height: 1.05;
   display: inline-block;
-  color: var(--ink);
-  background: var(--comic-yellow);
-  padding: 0.05em 0.3em;
-  -webkit-text-stroke: 3px var(--ink);
-  box-shadow: 8px 8px 0 var(--ink);
-  transform: rotate(-2deg);
-  letter-spacing: 0.03em;
-}
-.dark .masthead-title {
-  box-shadow: 8px 8px 0 var(--dark-accent);
+  color: var(--text-heading);
+  letter-spacing: -0.01em;
 }
 
 /* ============================================================
    Section headings
    ============================================================ */
 .section-title {
-  font-size: clamp(2rem, 6vw, 4rem);
-  line-height: 1.05;
+  font-size: clamp(1.75rem, 3vw, 2.5rem);
+  line-height: 1.1;
   display: inline-block;
-  color: var(--section-title-color, #ffffff);
-  background: var(--section-title-bg, var(--comic-blue));
-  padding: 0.2em 0.3em 0.05em;
-  -webkit-text-stroke: 3px var(--ink);
-  box-shadow: 8px 8px 0 var(--ink);
-  transform: rotate(2deg);
-  letter-spacing: 0.03em;
-}
-.dark .section-title {
-  box-shadow: 8px 8px 0 var(--dark-accent);
+  color: var(--text-heading);
 }
 
 /* ============================================================
-   Comic panels
+   Panels
    ============================================================ */
-.comic-panel {
-  background: var(--panel-bg);
-  border: 3px solid var(--panel-border);
-  box-shadow: 5px 5px 0 var(--panel-shadow);
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
 }
+
+/* ============================================================
+   Social stream
+   ============================================================ */
+.feed-item { padding: 1rem 1.25rem; }
+.feed-item + .feed-item { border-top: 1px solid var(--border); }
+.feed-badge { font-size: 0.6875rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--warm); }
+.feed-content p { margin: 0 0 0.5rem; }
+.feed-content a { color: var(--primary); }
+.feed-content img { border-radius: 6px; }
+.feed-audio { width: 100%; height: 32px; margin-top: 0.5rem; }
+.skeleton-row { height: 64px; border-radius: 8px; background: var(--surface-raised);
+                animation: pulse 1.5s ease-in-out infinite; }
+@keyframes pulse { 50% { opacity: 0.5; } }

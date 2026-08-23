@@ -2,9 +2,9 @@
 layout: layouts/base.njk
 ---
 <div class="max-w-3xl mx-auto px-4 py-12">
-  <h1 class="section-title font-display mb-10" style="--section-title-bg: var(--comic-red);">{{ title }}</h1>
+  <h1 class="section-title font-display mb-10">{{ title }}</h1>
 
-  <div class="comic-panel p-8">
+  <div class="panel p-8">
     <div class="prose prose-lg prose-gray dark:prose-invert max-w-none dark:prose-a:text-primary-light dark:prose-headings:text-slate-50 dark:prose-strong:text-slate-50">
       {{ content | safe }}
     </div>

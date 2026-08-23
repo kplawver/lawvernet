@@ -17,7 +17,7 @@
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Contrail+One&family=Radio+Canada:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=Radio+Canada:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 
   <!-- Canonical URL -->
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
@@ -48,22 +48,7 @@
 
   <link rel="stylesheet" href="/assets/css/site.css">
 </head>
-<body class="min-h-screen flex flex-col bg-[#FEF9EE] text-gray-900 dark:bg-slate-900 dark:text-slate-50 transition-colors duration-200 relative">
-  <div class="comic-bg" aria-hidden="true" x-init="
-    const colors = ['comic-color-red','comic-color-yellow','comic-color-blue','comic-color-orange','comic-color-green'];
-    $el.querySelectorAll('.comic-bubble').forEach(b => b.classList.add(colors[Math.floor(Math.random() * colors.length)]));
-  ">
-    <span class="comic-bubble" style="--rot:-15deg; top:3%;    left:2%;   width:clamp(110px,15vw,240px)">{% include "svg/boom.svg" %}</span>
-    <span class="comic-bubble" style="--rot:10deg;  top:5%;    left:35%;  width:clamp(100px,14vw,220px)">{% include "svg/poof.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-8deg;  top:2%;    right:3%;  width:clamp(110px,15vw,240px)">{% include "svg/crash.svg" %}</span>
-    <span class="comic-bubble" style="--rot:22deg;  top:30%;   left:5%;   width:clamp(100px,14vw,220px)">{% include "svg/pow.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-18deg; top:25%;   left:55%;  width:clamp(110px,15vw,240px)">{% include "svg/kaboom.svg" %}</span>
-    <span class="comic-bubble" style="--rot:30deg;  top:52%;   left:2%;   width:clamp(100px,14vw,220px)">{% include "svg/ouch.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-12deg; top:48%;   left:40%;  width:clamp(110px,15vw,240px)">{% include "svg/smash.svg" %}</span>
-    <span class="comic-bubble" style="--rot:8deg;   top:55%;   right:3%;  width:clamp(100px,14vw,220px)">{% include "svg/bang.svg" %}</span>
-    <span class="comic-bubble" style="--rot:-25deg; bottom:3%; left:15%;  width:clamp(100px,14vw,220px)">{% include "svg/wham.svg" %}</span>
-    <span class="comic-bubble" style="--rot:18deg;  bottom:2%; right:12%; width:clamp(110px,15vw,240px)">{% include "svg/zap.svg" %}</span>
-  </div>
+<body class="min-h-screen flex flex-col bg-[#f5f7fa] text-slate-700 dark:bg-[#020202] dark:text-slate-200 transition-colors duration-200 relative">
   <a href="#main-content" class="skip-link">Skip to content</a>
 
   <header class="bg-white border-b border-gray-200 dark:bg-slate-800 dark:border-slate-700 relative z-10">
