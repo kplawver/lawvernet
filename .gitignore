@@ -142,3 +142,7 @@ _site/
 # import things
 output
 wordpress-export.xml
+
+# Agent stuff
+scratch/
+.scratch/
