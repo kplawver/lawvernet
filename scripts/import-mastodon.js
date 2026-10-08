@@ -206,6 +206,12 @@ async function main() {
     console.log(`Processing page ${page} (${statuses.length} statuses)...`);
 
     for (const status of statuses) {
+      // Never publish followers-only or direct posts
+      if (['private', 'direct'].includes(status.visibility)) {
+        skipped++;
+        continue;
+      }
+
       const dt = DateTime.fromISO(status.createdAt);
       const yearDir = dt.toFormat('yyyy');
       const filename = `${dt.toFormat('LL')}-${dt.toFormat('dd')}-${status.id}.md`;
