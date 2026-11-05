@@ -34,7 +34,7 @@
     "@11ty/eleventy-navigation": "^1.0.5",
     "@tailwindcss/typography": "^0.5.4",
     "autoprefixer": "^10.4.23",
-    "eleventy-plugin-embed-everything": "^1.21.1",
+    "eleventy-plugin-embed-everything": "^1.10.0",
     "luxon": "^3.7.2",
     "masto": "^7.10.1",
     "pagefind": "^1.4.0",
